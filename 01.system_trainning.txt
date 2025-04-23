@@ -2467,6 +2467,1079 @@ l.Quy chế này có hiệu lực kể từ ngày 01/01/2022, thay thế Quyết
 3.	Việc sửa đổi, bổ sung, thay thế Quy chế này do Hội đồng thành viên xem xét, quyết định.
 4.	Trường hợp pháp luật có sự thay đổi dẫn đến những nội dung tại Quy che này trái với quy định cùa pháp luật thì thực hiện theo quy định thay đôi của pháp luật.
 5.	Hội đồng thành viên, ủy ban Đầu tư, Tổng Giám đốc, Ke toán trường, Trưởng Văn phòng đại diện, Chánh Văn phòng Trụ sở chinh, Trường các Ban, Giám đốc các Trung tâm tại Trụ sở chính, Giám đốc các Đơn vị sự nghiệp, Giám đốc các Chi nhánh loại I và các cá nhân có liên quan thuộc Agribank cỏ trách nhiệm thi hành Quy chế này./
+NGÂN HÀNG NÔNG NGHIỆP	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VÀ PHÁT TRIẺN NÔNG THÔN VIỆT NAM	Độc lập - Tự do - Hạnh phúc
+Số 4368/QyĐ-NHNo-TCKT	Hà Nội, ngày 25/12/ 2024
+QUY ĐỊNH
+về giao nhận, bảo quản, vận chuyển
+t, tài sản quý, giấy tờ có giá, ấn chỉ quan trọng, tài sản khác
+Luật Các tổ chức tín dụng ngày 18/01/2024;
+Căn cứ Thông tư số 01/2014/TT-NHNN ngày 06/01/2014 của Thắng đốc Ngân hàng Nhà nước Việt Nam quy định về giao nhận, bảo quản, vận chuyến tiền mặt, tài sản quý, giấy tờ có giá (sau đây viết tắt là Thổng tư số 01/2024/TT- NHNN) và các văn bản hướng dan, sửa đối, bo sung;
+Căn cứ Thóng tư số 23/2023/TT-NHNN ngày 29/12/2023 của Thống đốc Ngăn hàng Nhà nước Việt Nam ban hành quy định tiêu chuấn kỹ thuật kho tiên và xe chở tiền của to chức tín dụng và Chi nhảnh Ngân hàng nước ngoài;
+Căn cứ Điều lệ tổ chức và hoạt động của Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam số Ỉ200/ĐL-HĐTV-PC ngày 10/10/2024 của Hội đồng thành viên;
+Căn cứ Quy chế số 616/QC-HĐTV-TCNS ngày 15/8/2023 của Hội đồng thành viên về tổ chức và hoạt động của Chi nhảnh, Phòng giao dịch trong hệ thống Ngăn hàng Nông nghiệp và Phát triển nông thỏn Việt Nam;
+Căn cứ Quy định số 919/QyĐ-HĐTV-TCKT ngày 06/12/2023 của Hội đồng thành viên về to chức giao dịch kế toán;
+Căn cứ Nghị quyết số 215/NQ-HĐTV ngày 18/12/2024 của Hội đồng thành viên về họp Hội đồng thành viên lần 23 năm 2024;
+Theo đê nghị của Trưởng Ban Tài chính Kê toán;
+Tổng Giám đốc ban hành Quy định về giao nhận, bảo quản, vận chuyển tiền mặt, tài sản quý, giấy tờ có giá, ấn chỉ quan trọng, tài sản khác.
+Phần I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1.	Phạm vi điều chỉnh
+Quy định này quy định việc giao nhận, bảo quản, vận chuyển; kiểm tra, kiếm
+kê, bàn giao, xử lý thừa thiếu tiền mặt, tài sản quý, giấy tờ có giá, ấn chỉ quan trọng, tài sản khác trong hệ thống Agribank; giữa Agribank với Ngân hàng Nhà 
+nước, Kho bạc Nhà nước, tô chức tín dụng khác; việc thu, chi tiên mặt giữa Agribank với khách hàng trong hệ thống Agribank.
+2.	Đối tượng áp dụng
+a)	Trụ sở chính, Văn phòng đại diện, Đơn vị sự nghiệp, Chi nhánh, Phòng giao dịch.
+b)	Đơn vị đầu mối hoạt động ngân quỹ.
+c)	Chi nhánh Agribank ở nước ngoài: thực hiện theo quy định này và quy định pháp luật nước sở tại. Trong trường hợp có sự khác biệt giữa quy định này và quy định pháp luật nước sở tại thì báo cáo Agribank và ưu tiên sử dụng quy định của nước sở tại.
+d)	Các tổ chức, cá nhân trong quan hệ giao dịch tiền mặt, tài sản quý, giấy tờ có giá, tài sản khác với Agribank.
+đ) Quy định này không áp dụng đôi với Công ty con.
+Điêu 2. Giải thích từ ngữ và viêt tăt
+1.	Các từ viết tắt
+\ Á	í
+a)	ACQT: An chỉ quan trọng.
+b)	Agribank: Ngân hàng Nông nghiệp và Phát triên nông thôn Việt Nam.
+c)	ATM: máy giao dịch tự động (bao gôm cả CDM).
+d)	CC: Thẻ căn cước. ^
+đ) CCCD: Thẻ căn cước công dân.
+e)	NHNN: Ngân hàng Nhà nước Việt Nam
+g)	GTCG: Giấy tờ có giá.
+h)	KBNN: Kho bạc Nhà nước.
+i)	TCTD: Tổ chức tín dụng.
+1)	TSBĐ: Tài sản bảo đảm.
+2)	TSGH: Tài sản giữ hộ.
+3)	Giải thích từ ngữ
+Trong Quy định này, các từ ngữ dưới đây được hiểu như sau: a) Tiền mặt: là các loại tiền giấy, tiền kim loại do NHNN phát hành, b) Tiền giấy: bao gồm tiền cotton và tiền polymer do NHNN phát hành, c) Tờ: là đơn vị về số lượng của tiền giấy, ngoại tệ tiền mặt, GTCG.. 
+d)	Miếng: là đơn vị về số lượng của tiền kim loại.
+đ) Tài sản bao gồm:
+(i)	Tài sản quý: bao gôm vàng, kim khí quý, đá quý, ngoại tệ tiên mặt và các loại tài sản quý khác.
+(ii)	Giây tờ có giá: bao gôm trái phiêu và các loại giây tờ có giá khác theo
+quy định của pháp luật.
+(iii)	Ấn chỉ quan trọng: bao gồm các loại giấy tờ in quan trọng nhưng chưa đưa ra sử dụng (chưa phát hành) theo quy định của Tổng Giám đốc từng thời kỳ.
+(iv)	Tài sản khác: bao gồm TSBĐ, TSGH; tài sản nhận bảo quản của khách hàng; hộp chìa khóa, mã số dự phòng và các tài sản khác được Agribank cho phép bảo quản trong kho tiền.
+e)	Tài sản giữ hộ: bao gồm tài sản giữ trong cho vay không có bảo đảm bằng tài sản theo chính sách của Chính phủ và Agribank; tài sản bảo đảm bố sung theo quy định của Agribank.
+g)	Niêm phong: là việc sử dụng giấy niêm phong và/hoặc kẹp chì để ghi dấu hiệu trên bó, túi, hộp, bao, thùng tiền đã được đóng gói theo quy định, đảm bảo bó, túi, hộp, bao, thùng tiền được giữ nguyên, đầy đủ.
+h)	Kẹp chì: là một phương pháp niêm phong sử dụng kìm chuyên dùng kẹp hai đầu dây đã buộc miệng túi, bao, thùng tiền qua viên chì. Sau khi kẹp, dấu hiệu tên, ký hiệu riêng của đơn vị có tiền phải nổi rõ, đầy đủ trên bề mặt viên chì.
+i)	Đơn vị: là các đơn vị có thu, chi tiền mặt theo quy chế tổ chức, hoạt động, bao gồm: Văn phòng Trụ sở chính; Văn phòng Đại diện; Đơn vị sự nghiệp; Đơn vị đầu mối hoạt động ngân quỹ; Chi nhánh (Chi nhánh loại I, Chi nhánh loại II); Phòng giao dịch.
+k)	Đơn vị đầu mối hoạt động ngân quỹ: là đơn vị được cấp thẩm quyền giao nhiệm vụ thực hiện hoạt động ngân quỹ cho các đơn vị Agribank.
+l)	Khách hàng: là tổ chức, cá nhân có giao dịch tiền mặt, tài sản quý, GTCG, ACQT, tài sản khác với Agribank.
+m)	Hàng đặc biệt: là tiền mặt, tài sản quý, GTCG, ACQT, tài sản khác.
+n)	Thủ kho tiên: là cán bộ được giao nhiệm vụ quản lý và bảo quản toàn bộ tiền mặt, tài sản trong kho tiền; thực hiện nhập/xuất tiền mặt, tài sản theo lệnh của cấp có thẩm quyền đảm bảo tuyệt đối an toàn tài sản.
+o)	Phòng/bộ phận kế toán: bao gồm Phòng Kế toán và Ngân quỹ tại Chi nhánh; Phòng/bộ phận kế toán tại các đơn vị Văn phòng Trụ sở chính, Đơn vị sự nghiệp, Văn phòng đại diện; Phòng kế toán tại Đơn vị đầu mối hoạt động ngân quỹ. 
+4	Ẩ
+p)	Cán bộ kiêm tra, giám sát: là Lãnh đạo, cán bộ làm nhiệm vụ kiêm tra, giám sát nội bộ hoặc Lãnh đạo đom vị/Lãnh đạo phòng/bộ phận kế toán (không tham gia trong Ban quản lý kho tiền)/Cán bộ hậu kiểm được Trưởng đon vị giao nhiệm vụ bằng văn bản.
+q)	Thùng xe chở tiền: là khoang chở tiền của xe ô tô chở tiền đảm bảo các tiêu chuẩn kỹ thuật của NHNN và Agribank từng thời kỳ.
+r)	Các từ ngữ khác chưa được giải thích tại Điều này được hiếu theo quy định có liên quan của pháp luật, NHNN và Agribank.
+Phần II
+QUY ĐỊNH CỤ THẺ
+Chương I
+KIỂM ĐẾM, ĐÓNG GÓI VÀ GIAO NHẬN TIỀN MẶT,
+TÀI SẢN QUÝ, GIẤY TỜ CÓ GIÁ, ÁN CHỈ QUAN TRỌNG, TÀI SẢN KHÁC
+Mục 1
+ĐÓNG GÓI, FHÊMI’HONG
+TIỀN MẶT, TÀI SẢN QUÝ, GIẤY TỜ CÓ GIÁ
+Điều 3. Đóng gói, niêm phong tiền mặt, tài sản quý, giấy tờ có giá
+1.	Đóng gói, niêm phong tiên mặt thực hiện theo quy định của NHNN và Agribank, trình tự thực hiện theo hướng dẫn tại Phụ lục I Quy định này.
+2.	Đóng gói, niêm phong ngoại tệ tiên mặt, GTCG thực hiện như đóng gói, niêm phong tiền mặt.
+3.	Việc đóng gói, niêm phong, kiểm đếm, giao nhận vàng, kim khí quý, đá quý, các tài sản quý khác thực hiện theo quy định của NHNN.
+Mục 2
+KIỂM ĐẾM VÀ GIAO NHẬN TIỀN MẶT, NGOẠI TỆ TIỀN MẶT,
+GIẤY TỜ CÓ GIÁ, ẤN CHỈ QUAN TRỌNG, TÀI SẢN KHÁC Điều 4. Nguyên tắc thu, chi tiền mặt, ngoại tệ tiền mặt, giấy tờ có giá ì
+1.	Mọi khoản thu, chi tiên mặt, ngoại tệ tiên mặt, GTCG của Agribank phải thực hiện thông qua quỹ của đon vị.
+2.	Thu, chi tiên mặt, ngoại tệ tiên mặt, GTCG phải căn cứ vào chứng từ kê toán. Trước khi thu, chi phải kiểm soát tính họp lệ, họp pháp của chứng từ kế toán.
+3.	Các giao dịch thu, chi tiên mặt, ngoại tệ tiên mặt, GTCG phải được hạch toán đầy đủ vào hệ thống IPCAS hoặc các chưcmg trình ứng dụng khác của 
+Agribank; được kiểm soát, phê duyệt theo quy định (đối với giao dịch yêu cầu kiểm soát, phê duyệt).
+a)	Đối với giao dịch thu tiền: thu tiền trước, hạch toán sau.
+b)	Đối với giao dịch chi tiền: hạch toán trước, chi tiền sau.
+c)	Tiên mặt, ngoại tệ tiên mặt, GTCG thu vào hay chi ra phải đủ, đúng với tổng số tiền (bằng số và bằng chữ), loại tiền tệ, khóp đúng về thời gian (ngày, tháng, năm) trên chứng từ kế toán, sổ sách kho quỹ, sổ sách kế toán (cân đối, báo cáo giao dịch tiền mặt, phiếu nhập/xuất ACQT...).
+d)	Chứng từ kế toán phải có chữ ký và ghi rõ họ tên của người nộp/lĩnh tiền; chữ ký người thu/chi tiền, người hạch toán và kiểm soát viên, người phê duyệt (nếu giao dịch yêu cầu kiểm soát, phê duyệt) theo quy định.
+đ) Tiền chi cho khách hàng là tiền đủ tiêu chuẩn lưu thông, đã được kiểm đếm, hủy/xé bỏ niêm phong (trừ trường hợp thực hiện kiểm đếm sau).
+e)	Người thu/chi phải chịu trách nhiệm về tính chính xác đối với số tiền thu vào/chi ra.
+Điều 5. Bảng kê các loại tiền thu, chi
+1.	Mỗi chứng từ kế toán thu/chi tiền mặt, ngoại tệ tiền mặt, GTCG phải lập Bảng kê nộp/chi hoặc Biên bản giao nhận. Tổng số các loại tiền, GTCG trên bảng kê/biên bản giao nhận phải khớp đúng với chứng từ kế toán, sổ sách. Bảng kê nộp/chi hoặc Biên bản giao nhận phải có chữ ký khách hàng và Giảo dịch viên/Thủ quỹ/Thủ quỹ chính sau khi hoàn thành mỗi giao dịch.
+a)	Bảng kê nộp do khách hàng lập.
+b)	Bảng kê chi do Giao dịch viên/Thủ quỹ/Thủ quỹ chính lập.
+c)	Có thể dùng một Bảng kê nộp/chi cho một hoặc nhiều chứng từ thu/chi nếu do cùng một khách hàng giao dịch cùng một thời gian như: thu gốc, thu lãi/tất toán sổ tiết kiệm,.. .Đối với trường họp này, trên Bảng kê phải ghi rõ số giao dịch của các chứng từ thu/chi. Tổng số tiền trên bảng kê nộp/chi phải khớp đúng với tổng số tiền trên các chứng từ thu/chi tiền.
+2.	Cuối ngày, các bảng kê nộp/chi tờ rời theo quy định về mẫu chứng từ kế toán của Tổng Giám đốc từng thời kỳ được đóng thành tập riêng (không đóng vào nhật ký chứng từ), xếp theo từng Giao dịch viên/Thủ quỹ/Thủ quỹ chính; bảng kê nộp xếp trên, bảng kê chi xếp dưới, trong từng phần xếp theo thứ tự chứng từ kế toán (trừ khi có quy định khác). Hàng quý bàn giao cho bộ phận quản lý kho chứng từ lưu trữ và bảo quản theo quy định. kp Ị
+TV.X r
+Điêu 6. Kiêm đêm	mặt, ngoại tệ	mặt, giây tờ có giá, ân chi quan trọng
+1.	Khi thu, chi tiên mặt, ngoại tệ tiên mặt; nhập/xuât GTCG, ACQT phải kiểm đếm chính xác theo tờ, miếng, bó, bao, túi,.. .theo quy định.
+2.	Người nộp tiên mặt, ngoại tệ tiên mặt, GTCG, ACQT phải chứng kiên khi cán bộ Agribank kiểm đếm.
+3.	Người lĩnh tiền mặt, ngoại tệ tiền mặt, GTCG, ACQT phải kiểm đếm trước khi rời khỏi quầy giao dịch dưới sự chứng kiến của cán bộ Agribank.
+4.	Khu vực kiểm đếm, phân loại tiền mặt, ngoại tệ tiền mặt, GTCG, ACQT phải có camera giám sát đảm bảo hình ảnh rõ nét. Thời gian trên camera phải khớp đúng với thời gian thực tế, thời gian lưu trữ dữ liệu hình ảnh theo quy định.
+Điều 7. Thu, chi tiền mặt, ngoại tệ tiền mặt với khách hàng
+1.	Thu, chi tại quầy giao dịch
+Kiểm đếm tiền giao nhận với khách hàng phải kiểm đếm theo tờ (đối với tiền giấy) hoặc kiểm đếm theo miếng (đối với tiền kim loại) theo đúng quy trình thu, chi tiên mặt tại Phụ lục II Quy định này.
+2.	Thu theo túi niêm phong
+Trường hợp khách hàng có tài khoản tiền gửi đang hoạt động tại Chi nhánh, có tín nhiệm với Agribank, thường xuyên nộp tiền mặt vào Agribank với số lượng lớn. Neu khách hàng nộp tiền mà Chi nhánh không thể kiểm đếm kịp trong ngày, đon vị có thể thoả thuận với khách hàng áp dụng phương thức thu tiền mặt theo túi niêm phong và tổ chức kiểm đếm vào ngày làm việc tiếp theo. Giao dịch viên hạch toán ghi Có vào tài khoản của khách hàng ngay trong ngày và phải thực hiện phong tỏa số tiền ghi Có đã thu theo túi niêm phong của khách hàng cho đến khi Agribank hoàn thành xong việc kiểm đếm tiền. Quy trình thu tiền mặt theo túi niêm phong thực hiện theo hướng dẫn tại Phụ lục III Quy định này.
+3.	Thu, chi tiền mặt tại địa chỉ của khách hàng (tổ chức/cá nhân)
+a)	Giám đốc Chi nhánh phải ban hành Quyết định thành lập Tổ thu/chi tiền mặt tại địa chỉ khách hàng (bao gồm: tổ trưởng và các thành viên; giao nhiệm vụ và trách nhiệm cụ thể cho từng thành viên) và Nội quy làm việc của Tổ thu/chi tiền mặt tại địa chỉ khách hàng đảm bảo an toàn tuyệt đối tài sản và con người; việc thu/chi tiền mặt phải tuân thủ đúng quy định, quy trình thu, chi tiền mặt của Agribank.
+b)	Việc tổ chức áp tải, bảo vệ tiền trên đường vận chuyển của Tổ thu/chi tiền mặt tại địa chỉ khách hàng thực hiện theo quy định tại Chương III Phân n Quy định này. 
+Điều 8. Giao nhận tiền mặt trong ngành Ngân hàng
+1.	Giao nhận tiền mặt giữa đon vị Agribank với Sở giao dịch NHNN, NHNN khu vực, NHNN chi nhánh; KBNN và TCTD khác trong cùng tỉnh, thành phLố và ngược lại:
+a)	Thực hiện phương thức giao nhận theo bó (đủ 10 thêp) nguyên niêm phong đối với tiền giấy hoặc túi tiền (đủ 20 thỏi) nguyên niêm phong đối với tiền kim loại.
+b)	Các loại tiên mới in, đúc giao nhận theo bao, hộp, thùng nguyên niêm phong của cơ sở in, đúc tiền hoặc của NHNN.
+c)	Các loại tiền đã có thông báo ngừng phát hành ra lưu thông mà không còn được thu thường xuyên theo quy định có thể giao nhận theo tờ (nếu không chẵn bó).
+2.	Giao nhận tiên mặt trong nội bộ Agribank	-^
+a)	Giao nhận tiền mặt giữa các Chi nhánh loại I với nhau (bao gồm Chi nhánh	^
+loại I với Chi nhánh đầu mối) hoặc giữa các Chi nhánh loại II trong cùng Chi	HJỆ
+nhánh loại I quản lý: thực hiện giao nhận theo bó (đủ 10 thếp) nguyên niêm phong	Hôi
+đối với tiền giấy hoặc túi (đủ 20 thỏi) nguyên niêm phong đối với tiền kim loại.	'^
+b)	Giao nhận tiên mặt giữa Chi nhánh loại I với Chi nhánh loại II; giữa Chi — nhánh loại I/Chi nhánh loại II với Phòng giao dịch phụ thuộc; giữa Giao dịch viên, Thủ quỹ chính, Thủ quỹ với nhau: thực hiện giao nhận theo bó (đủ 10 thếp) nguyên niêm phong, thếp, tờ lẻ đối với tiền giấy hoặc theo túi (đủ 20 thỏi) nguyên niêm phong, thỏi, miếng đối với tiền kim loại.
+c)	Thủ quỹ chính/Thủ quỹ không được sử dụng các bó/túi tiền nguyên niêm phong đã thu của Giao dịch viên, Phòng giao dịch để chi, tiếp quỹ tiền mặt cho chính Giao dịch viên, Phòng giao dịch đó.
+d)	Giao nhận tiền không đủ tiêu chuẩn lưu thông giữa các đơn vị trong hệ thống: thực hiện giao nhận theo bó (đủ 10 thếp) nguyên niêm phong, thếp, tờ lẻ đối với tiền giấy hoặc theo túi (đủ 20 thỏi) nguyên niêm phong, thỏi, miếng đối với tiền kim loại.
+đ) Giao nhận tiên giả/tiên nghi giả giữa các đơn vị trong hệ thông: thực hiện giao nhận theo tờ.
+3.	Giao nhận tiền mặt giữa Đơn vị đầu mối hoạt động ngân quỹ với các đơn vị thực hiện theo quy định riêng của Tổng Giám đốc từng thời kỳ.
+Điều 9. Kiểm đếm tiền mặt giao nhận trong ngành Ngân hàng
+1.	Kiểm đếm tiền mặt giao nhận giữa các đơn vị Agribank với Sở giao dịch NHNN, NHNN khu vực, NHNN chi nhánh; KBNN, TCTD khác trong cùng tỉnh, thành phố và ngược lại. La 4
+Sau khi đã giao nhận bó/túi tiền nguyên niêm phong, đơn vị nhận phải thông báo ngay cho đơn vị giao một trong các hình thức kiểm đếm sau:
+a)	Kiêm đêm tờ/miêng ngay.
+b)	Không kiểm đếm tờ/miếng mà chấp nhận đủ số tiền (Truờng hợp này, bên giao phải hủy/xé bỏ ngay niêm phong bó/túi tiền trước khi giao cho bên nhận).
+c)	Thành lập Hội đồng kiểm đếm.
+(i)	Trường hợp tô chức kiêm đêm sau, đơn vị nhận tiên và đơn vị giao tiên thỏa thuận ngày kiểm đếm trong thời hạn tối đa là 05 ngày làm việc kể từ ngày giao nhận tiền. Đơn vị nhận tiền thành lập Hội đồng kiểm đếm theo quy định. Neu quá thời hạn thỏa thuận, đơn vị nhận tiền không thành lập Hội đồng kiểm đếm hoặc Hội đồng kiểm đếm thực hiện kiếm đếm không đúng quy định thì phải chịu trách nhiệm nếu xảy ra thừa/thiếu tiền.
+(ii)	Đơn vị giao tiền phải cử người chứng kiến hoặc có văn bản thông báo cho đơn vị nhận tiền tự tổ chức kiếm đếm mà không có người chứng kiến của đơn vị giao. Người chứng kiến là người đại diện đơn vị giao tiền đến chứng kiến việc kiểm đếm của đơn vị nhận tiền. Người chứng kiến phải trực tiếp quan sát, chứng kiến việc kiểm đếm của Hội đồng kiểm đếm của đon vị nhận; xác nhận sự sai sót của bó/túi tiền, ký tên xác nhận vào mặt sau của giấy niêm phong bó/túi tiền đó và trên biên bản kiểm đếm.
+2.	Kiểm đếm tiền mặt giao nhận trong nội bộ Agribank
+a)	Kiếm đếm tiền mặt giao nhận giữa các Chi nhánh loại I với nhau (bao gồm Chi nhánh loại I vói Chi nhánh đầu mối), giữa Chi nhánh loại I với Chi nhánh loại II, giữa các Chi nhánh loại II trong cùng Chi nhánh loại I quản lý hoặc Chi nhánh nhận tiền mặt từ Phòng giao dịch, thực hiện kiểm đếm theo một trong các hình thức sau:
+(i)	Kiểm đếm tờ (miếng) ngay.
+(ii)	Thành lập Hội đồng kiểm đếm (thực hiện theo quy định tại điểm c khoản 1 Điều này).
+Trường hợp kiểm đếm sau các bó tiền đủ 10 thếp nguyên niêm phong nhận của Phỏng giao dịch, Chi nhánh quản lý thành lập Hội đồng kiểm đếm và tổ chức kiểm đếm không cần người chứng kiến của Phòng giao dịch.
+b)	Phòng giao dịch nhận tiền mặt từ Chi nhánh quản lý phải thực hiện kiểm đếm ngay sau khi nhận tiền.
+3.	Kiểm đếm tiền mặt giao nhận giữa Đơn vị đầu mối hoạt động ngân quỹ với các đơn vị thực hiện theo quy định riêng của Tổng Giám đốc từng thời kỳ. ổ£, 
+4.	Các đơn vị trong hệ thông Agribank không thực hiện đúng quy định của NHNN và Agribank về giao nhận, kiểm đếm, để xảy ra tổn thất phải hoàn toàn chịu trách nhiệm trước pháp luật, Hội đồng thành viên, Tổng Giám đốc theo quy định.
+Điêu 10. Giao nhận ngoại tệ tiền mặt, giấy tờ có giá, ấn chỉ quan trọng
+1.	Các khoản thu, chi ngoại tệ tiền mặt giữa Agribank với khách hàng, giữa các Chi nhánh trong hệ thống, giữa Agribank với Sở giao dịch NHNN, NHNN khu vực, NHNN chi nhánh hoặc TCTD khác; giao nhận ngoại tệ tiền mặt trong nội bộ Chi nhánh, giữa Chi nhánh với các Phòng giao dịch phụ thuộc phải thực hiện giao nhận, kiểm đếm theo tờ và đúng quy trình thu chi, giao nhận tiền mặt, đồng thời hạch toán thu, chi theo từng loại ngoại tệ tiền mặt.
+2.	Giao nhận, kiêm đêm ngoại tệ tiên mặt đôi với đơn vị đâu môi xuât, nhập khẩu ngoại tệ mặt: Thực hiện theo quy định riêng của Tổng Giám đốc từng thời kỳ.
+3.	Giao nhận GTCG, ACQT giữa Agribank với Sở giao dịchNHNN, NHNN khu vực, NHNN chi nhánh, TCTD khác và khách hàng; giữa các Chi nhánh trong hệ thống; trong nội bộ Chi nhánh thực hiện giao nhận và kiểm đếm theo tờ..., quy trình thực hiện như quy trình thu, chi tiền mặt. Trường họp Agribank lưu ký GTCG tại NHNN đế tham gia các nghiệp vụ thị trường tiền tệ, thực hiện giao nhận theo bó (đủ 10 thếp) nguyên niêm phong đối với loại GTCG cùng chủng loại, cùng mệnh giá; trường họp không đủ bó thì giao nhận, kiêm đêm theo tờ.
+Điêu 11. Giao nhận tài sản bảo đảm, tài săn giữ hộ
+1.	Việc giao nhận, nhập/xuất TSBĐ, TSGH thực hiện theo các văn bản hướng dẫn quy trình, quy định riêng của Tổng Giám đốc từng thời kỳ.
+2.	Thủ kho tiền/Thủ quỹ chính/Thủ quỹ thực hiện theo dõi việc giao nhận, nhập/xuất TSBĐ, TSGH theo hướng dẫn tại văn bản hướng dẫn vận hành chương trình phần mềm quản lý tài sản trong kho tiền và các văn bản khác có liên quan của Tổng Giám đốc từng thời kỳ.
+3.	Trường hợp giao TSBĐ/TSGH cho cán bộ quản lý khoản vay theo Tờ trình giao nhận TSBĐ đã được cấp có thẩm quyền phê duyệt; cán bộ quản lý khoản vay chịu trách nhiệm về tính đầy đủ, hợp lệ, họp pháp theo quy định đối với TSBĐ/PSGH thực tế khi hoàn trả.
+4.	Trường họp hết thời hạn giao TSBĐ/TSGH nhưng tài sản chưa được hoàn trả, Thủ kho tiền/Thủ quỹ chính/Thủ quỹ có trách nhiệm báo cáo cấp có thẩm quyền để xử lý theo quy định. . 
+Chương II
+BẢO QUẢN TIÈN MẶT, TÀI SẢN
+Mục 1
+SẤP XÉP, BẢO QUẢN TIỀN MẶT, TÀI SẢN
+TẠI QUẢY GIAO DỊCH VÀ TRONG KHO TIỀN
+Điều 12. Sắp xếp, bảo quản tiền mặt, tài sản tại quầy giao dịch và trong kho tiền
+1.	Trong giờ giao dịch
+a)	Khi nhập/xuất tiền mặt, tài sản tại kho tiền, Ban quản lý kho tiền phải có mặt đầy đủ để mở, đóng cửa kho tiền từng lần.
+b)	Đê đảm bảo hoạt động giao dịch, Giám đôc Chi nhánh/Phòng giao dịch có thể xem xét và chịu trách nhiệm về việc cho phép xuất kho một lượng tiền mặt, ngoại tệ tiền mặt, ACQT phù hợp giao cho Thủ quỹ chính/Thủ quỹ kiêm Thủ kho tiền để quản lý, bảo quản trong két sắt/tủ sắt có khóa đặt tại gian đệm hoặc khu vực quầy quỹ để thực hiện giao dịch trong ngày (không áp dụng đối với Đơn vị đầu mối hoạt động ngân quỹ); đơn vị phải tăng cường các biện pháp đảm bảo an toàn tiền mặt và tài sản.
+Việc xuất kho giao Thủ quỹ chính/Thủ quỹ lập Giấy đề nghị xuất kho tiền mặt, ngoại tệ tiền mặt, ấn chỉ quan trọng (mẫu 12/TTKQ) trình Trưởng phòng/Tổ trưởng tổ Ke toán và Ngân quỹ kiểm soát, Giám đốc Chi nhánh/Phòng giao dịch phê duyệt; việc giao nhận phải ghi sổ theo dõi giao nhận nội bộ (Sổ 04/TTKQ). Cuối ngày, Thủ quỹ chính/Thủ quỹ sắp xếp các Giấy đề nghị (mẫu 12/TTKQ) phía dưới bảng kê nộp, bảng kê chi tờ rời và lưu trữ, bảo quản theo quy định.
+c)	Trong thời gian giao dịch, tiền mặt và tài sản tại quầy giao dịch phải được sắp xếp theo từng loại gọn gàng, ngăn nắp để bảo quản trong két sắt/tủ sắt có khóa đặt ở vị trí kín đáo; tiền lẻ thếp có thể bảo quản trong ngăn kéo bàn quầy giao dịch có khóa; tuyệt đối không để tiền mặt, tài sản đã giao nhận, kiểm đếm trên mặt bàn quầy hoặc trong rổ nhựa, thùng giấy...
+d)	Giám đốc Chi nhánh có thể xem xét và chịu trách nhiệm nếu đảm bảo an toàn thì cho phép bằng văn bản việc bảo quản TSBĐ, TSGH trong két sắt/tủ sắt có 02 ổ khóa đặt tại gian đệm kho tiền hoặc khu vực quầy quỹ (giao Thủ kho tiền quản lý và giữ 01 0 khóa để bảo quản và chịu trách nhiệm tài sản; 01 ổ khóa giao cho Lãnh đạo phòng/Tổ Ke toán và Ngân quỹ/Phòng Giao dịch tham gia Ban quản lý kho tiền chịu trách nhiệm giám sát việc bảo quản và nhập/xuất tài sản của Thủ kho tiền).
+2.	Trong thời gian nghỉ buôi trưa
+Cuôi giờ giao dịch buôi sáng, Thủ quỹ/Giao dịch viên thực hiện kiêm đêm toàn bộ tiền mặt, tài sản quý, ACQT tồn thực tế đảm bảo khớp đúng với chứng từ,^
+  
+sổ sách trên hệ thống IPCAS; cho vào thùng/hòm/túi và niêm phong bàn giao cho Thủ kho tiền/Thủ quỹ chính/Thủ quỹ. Quá trình kiểm đếm, niêm phong, bàn giao phải có sự chứng kiến của Lãnh đạo phòng/tổ Kế toán và Ngân quỹ/Phòng Giao dịch và phải ghi sổ theo dõi gửi thùng, hòm, túi niêm phong (Sổ 05/TTKQ).
+Giám đốc Chi nhánh/Phòng giao dịch chịu trách nhiệm tổ chức bảo quản tiền mặt, tài sản đảm bảo an toàn trong thời gian nghỉ buổi trưa theo quy định, cụ thể:	.
+a)	Tại đơn vị có kho tiền
+(i)	Toàn bộ tiên mặt, tài sản phải được bảo quản trong kho tiên.
+(ii)	Đôi với Chi nhánh/Phòng giao dịch có gian đệm kho tiên: Giám đốc Chi \o nhánh xem xét nếu gian đệm đảm bảo an toàn, cửa gian đệm có kết cấu như cửa kho tiền và có 02 0 khóa số thì có thể quyết định cho phép bảo quản tiền mặt, tài sản tại gian đệm (không áp dụng đối với Đơn vị đầu mối hoạt động ngân quỹ).
+Trường họp này, Giám đốc Chi nhánh phải quy định bằng văn bản giao trách nhiệm cụ thể đối với từng thành viên giữ chìa khóa: Thủ kho tiền quản lý và giữ 01 0 khóa số để bảo quản và chịu trách nhiệm tài sản; 01 ổ khóa số giao cho Lãnh đạo ỵ phòng/tổ Kế toán và Ngân quỹ/Phòng Giao dịch chịu trách nhiệm giám sát việc bảo	Ị]
+quản tiền mặt, tài sản của Thủ kho tiền. Tiền mặt, tài sản để trong gian đệm kho	7
+tiền phải được sắp xếp, bảo quản trong két sắt/tủ sắt/hòm tôn/xe lưới thép có khóa để tạo điều kiện thuận lợi trong công tác giám sát, đảm bảo an toàn tài sản.
+b)	Tại đơn vị không có kho tiên
+(i)	Đôi với Văn phòng Trụ sở chính, Văn phòng đại diện, Đơn vị sự nghiệp: toàn bộ tiền mặt, tài sản phải được bảo quản trong két sắt phòng nghiệp vụ.
+(ii)	Đối với Chi nhánh/Phòng giao dịch: toàn bộ tiền mặt, tài sản phải được bảo quản trong két sắt 03 ổ khóa và được niêm phong, bố trí người bảo vệ đảm bảo an toàn tài sản.
+3.	Cuối ngày giao dịch
+Cuối ngày giao dịch, toàn bộ tiền mặt, tài sản quý, GTCG, ACQT, thùng/hòm nguyên niêm phong phải được kiểm kê, đối chiếu khóp đúng với chứng từ, sổ sách kho quỹ, sổ sách kế toán trên hệ thống IPCAS và bảo quản theo quy định, cụ thể:
+a)	Đối với đơn vị có kho tiền và có Ban quản lý kho tiền: toàn bộ tiền mặt, tài sản phải được bảo quản trong kho tiền của đơn vị.
+b)	Đối vói đơn vị không có kho tiền/sửa kho hoặc không có Ban quản lý kho tiền
+(i)	Tại Văn phòng Trụ sở chính, Văn phòng đại diện, Đơn vị sự nghiệp: toàn bộ tiền mặt, tài sản phải được bảo quản trong két sắt phòng nghiệp vụ. Ắp (
+  
+Ạ A	- - ■ Ày
+(ii)	Tại Phòng giao dịch: phải điêu chuyên trên hệ thông IPCAS và nộp toàn bộ tồn quỹ thực tế tiền mặt, ngoại tệ tiền mặt; gửi toàn bộ tài sản tồn thực tế theo hình thức túi/bì và/hoặc thùng/hòm niêm phong về bảo quản tại kho tiền của Chi nhánh quản lý theo quy định. Đối với Phòng giao dịch gửi bảo quản tiền mặt, tài sản theo thùng/hòm niêm phong tại kho tiền của Đơn vị đầu mối hoạt động ngân quỹ thực hiện theo quy định riêng của Agribank.
+(iii)	Tại Chi nhánh loại II có thê lựa chọn một trong các phương thức sau:
+-	Điều chuyển trên hệ thống IPCAS và nộp toàn bộ tồn quỹ thực tế tiền mặt, ngoại tệ tiền mặt; gửi toàn bộ tài sản tồn thực tế theo hình thức thùng/hòm niêm phong về bảo quản tại kho tiền của Chi nhánh quản lý.
+-	Gửi toàn bộ tiền mặt, tài sản tồn thực tế theo hình thức thùng/hòm niêm phong về bảo quản tại kho tiền của Chi nhánh quản lý.
+-	Gửi toàn bộ tiên mặt, tài sản tôn thực tê theo hình thức thùng/hòm nguyên niêm phong về Chi nhánh loại II cùng Chi nhánh loại I quản lý nếu được sự chấp thuận bằng văn bản của Giám đốc Chi nhánh loại I.
+(iv)	Các trường hợp khác phải được sự chấp thuận bằng văn bản của Tổng Giám đốc.
+c)	Thủ tục gửi, nhận tiền mặt, tài sản tại tiết (iii) điểm b khoản này thực hiện theo hướng dẫn tại Phụ lục IV Quy định này.
+4.	Tiền mặt, tài sản bảo quản trong kho tiền phải được phân loại, kiểm đếm, đóng gói, niêm phong đúng quy định để trong két sắt/tủ sắt/giá sắt/hòm tôn/xe lưới thép hoặc trong các bao tiền có niêm phong và được sắp xếp gọn gàng, khoa học riêng ở từng khu vực/từng gian kho nhằm đảm bảo an toàn tuyệt đối tài sản, tránh nhầm lẫn trong bảo quản, nhập/xuất kho, thuận tiện trong công tác kiểm kê, kiểm tra, theo dõi.
+5.	Giám đốc Chi nhánh ban hành văn bản giao trách nhiệm đối với các thành viên tại Hội sở Chi nhánh, Phòng giao dịch phụ thuộc giữ chìa khóa, mã số cửa kho tiền (trường họp đơn vị có kho tiền nhưng không có Ban quản lý kho tiền)/két sắt 03 ổ khóa (trường hợp đơn vị không có kho tiền) để bảo quản tiền mặt, tài sản trong giờ giao dịch và thời gian nghỉ buổi trưa. Trong đó, 01 0 khóa giao cho Lãnh đạo đơn vị, 01 0 khóa giao theo thứ tự Lãnh đạo phòng/tổ Ke toán và Ngân quỹ/cán bộ làm công tác kế toán ngân quỹ có uy tín để chịu trách nhiệm giám sát việc bảo quản tiền mặt, tài sản của Thủ quỹ, 01 ổ khóa giao cho Thủ quỹ để bảo quản và chịu trách nhiệm tiền mặt, tài sản. Khi thay đổi thành viên giữ chìa khóa, mã số cửa ban hành văn bản cử người thay 
+
+ 
+6.	Trưởng đơn vị tại Văn phòng Trụ sở chính, Văn phòng đại diện, Đơn vị sự nghiệp ban hành văn bản giao trách nhiệm đối với các thành viên giữ chìa khóa két sắt phòng nghiệp vụ. Trong đó, 01 ổ khóa số giao cho Lãnh đạo phòng/bộ phận Ke toán để chịu trách nhiệm giám sát việc bảo quản tiền mặt, tài sản của Thủ quỹ, 01 ổ khóa giao cho Thủ quỹ quản lý để bảo quản và chịu trách nhiệm tiền mặt, tài sản.
+Điêu 13. Bảo quản tài sản khi thực hiện các dịch vụ ngân quỹ khác
+Các đcm vị làm dịch vụ bảo quản tài sản, cho thuê tủ/két an toàn và các dịch vụ ngân quỹ khác cho khách hàng, thực hiện theo quy định riêng của Tổng Giám đốc từng thời kỳ.
+p
+Mục 2
+QUẢN LÝ TIỀN MẶT, TÀI SẢN VÀ KHO TIỀN
+Điều 14. Trách nhiệm của Trưởng đơn vị
+1.	Giám đôc Chi nhánh
+Chịu trách nhiệm về công tác tổ chức quản lý, đảm bảo an toàn, bí mật tiền mặt, tài sản và hoạt động của kho tiền tại Chi nhánh, có nhiệm vụ: ■
+a)	Trang bị phương tiện kỹ thuật kho tiên, hệ thông thiêt bị an toàn kho quỹ lắp đặt tại kho tiền và quầy giao dịch đảm bảo an toàn theo quy định.
+b)	Chỉ đạo áp dụng những biện pháp cân thiêt chông mât mát, nhâm lân, đê phòng trộm cướp, cháy nổ, lụt bão, ẩm mốc, mối mọt và các nguyên nhân khác, đảm bảo chất lượng tiền mặt, tài sản bảo quản trong kho tiền.	<
+c)	Quản lý và giữ chìa khoá một ổ khoá lóp cánh ngoài cửa kho tiền.
+d)	Trực tiếp mở, khoá cửa kho tiền để giám sát việc xuất/nhập, bảo quản tiền mặt, tài sản trong kho tiền.
+đ) Trực tiếp tham gia kiểm kê tiền mặt, tài sản quý, GTCG, ACQT, thùng/hòm nguyên niêm phong cuối ngày làm việc; kiểm kê tiền mặt, tài sản định kỳ, đột xuất; kiếm kê bàn giao đảm bảo khóp đúng giữa số tồn thực tế với sổ sách kho quỹ và sổ sách kế toán trên hệ thống IPCAS. Ký xác nhận tồn quỹ thực tế cuối ngày trên sổ sách kho quỹ, Biên bản kiểm kê (nếu có).
+e)	Trực tiếp tham gia kiểm kê tiền mặt, tài sản bảo quản trong kho tiền tại Chi nhánh tối thiểu một lần trong tháng và thời điểm 0 giờ ngày 01 tháng 01, ngày 01 tháng 07 để quản lý, nắm bắt thực trạng toàn bộ tiền mặt, tài sản và điều hành kịp thời hoạt động kho quỹ.
+g)	Chỉ đạo xây dựng chương trình kiểm tra định kỳ, đột xuất công tác an toàn kho quỹ tại Chi nliánh, Phòng giao dịch phụ thuộc, b
+
+h)	Kiểm tra công tác an toàn kho quỹ, việc chấp hành quy định vào, ra kho tiền, quầy giao dịch tiền mặt; kiểm soát và giám sát những người được vào làm việc trong kho tiền, quầy giao dịch tiền mặt.
+i)	Quyết định việc cử nhân viên phụ kho giúp Thủ kho tiền trong việc kiểm đếm, đóng gói, bốc xếp, vận chuyển tiền mặt, tài sản theo quy định (nếu cần).
+k)	Ký Lệnh điều chuyển kiêm giấy úy quyền áp tải hàng đặc biệt.
+l)	Quyết định thành lập Tổ thu, chi tiền mặt tại địa chỉ khách hàng của Hội sở Chi nhánh và Phòng giao dịch phụ thuộc.
+m)	Quyết định và chịu trách nhiệm về việc giao hạn mức tồn quỹ tiền mặt cho Phòng giao dịch phụ thuộc đảm bảo nguyên tắc an toàn, đúng quy định. Thường xuyên chỉ đạo và tổ chức kiểm tra, giám sát việc chấp hành hạn mức tồn quỹ tiền mặt tại Phòng giao dịch.
+n)	Ban hành các phương án (bảo vệ trụ sở làm việc, kho tiền, ATM; phòng chống đột nhập, trộm cướp; bảo vệ hàng đặc biệt trên đường vận chuyển; phòng cháy chữa cháy, phòng chống lụt bão, thiên tai...) tại Hội sở Chi nhánh và Phòng giao dịch phụ thuộc.
+o)	Chỉ đạo xử lý các vụ việc thừa/thiếu tiền mặt, tài sản tại đơn vị, trên đường vận chuyển. Báo cáo kịp thời về Trụ sở chính theo quy định.
+p)	Giám đốc Chi nhánh có thể ủy quyền cho Phó Giám đốc thực hiện các nhiệm vụ nêu tại điểm c, d, đ, h, k khoản này.
+2.	Giám đốc Phòng giao dịch
+Trong phạm vi chức năng, nhiệm vụ của mình, chịu trách nhiệm về công tác tổ chức quản lý, giám sát đảm bảo an toàn tiền mặt, tài sản và kho tiền (nếu có) tại Phòng giao dịch, có nhiệm vụ:
+a)	Thực hiện theo quy định tại điểm b, c, d, đ, h khoản 1 Điều này.
+b)	Trực tiếp tham gia kiểm kê tiền mặt, tài sản bảo quản trong kho tiền tại Phòng giao dịch tối thiểu một lần trong tháng và thời điểm 0 giờ ngày 01 tháng 01, ngày 01 tháng 07 để quản lý, nắm bắt thực trạng toàn bộ tiền mặt, tài sản và điều hành kịp thời hoạt động kho quỹ.
+c)	Đề xuất Giám đốc Chi nhánh quản lý trang bị phương tiện kỹ thuật kho tiền, hệ thống thiết bị an toàn kho quỹ lắp đặt tại kho tiền và quầy giao dịch đảm bảo an toàn.
+d)	Đồ xuất Giám đốc Chi nhánh quản lý cử người thay thế trong trường hợp Thủ kho tiền nghỉ phép, đi công tác, đi họp, đi học.. .theo quy định.i^	/®/ 
+đ) Phối hợp với Chi nhánh quản lý xây dựng phương án (bảo vệ trụ sở làm việc, kho tiền, ATM; phòng chống đột nhập, trộm cướp; phòng cháy chữa cháy, phòng chống lụt bão, thiên tai).
+e)	Chỉ đạo xử lý các vụ việc thừa/thiêu tiên mặt, tài sản tại đơn vị. Báo cáo kịp
+thòi vê Chi nhánh quản lý.
+g)	Giám đốc Phòng giao dịch có thể ủy quyền cho Phó Giám đốc Phòng giao dịch thực hiện các nhiệm vụ nêu tại điểm a khoản này.
+3.	Trưởng đơn vị tại Văn phòng Trụ sở chính, Văn phòng đặi diện, Đơn vị sự nghiệp
+Chịu trách nhiệm về công tác tổ chức quản lý, giám sát đảm bảo an toàn tiền mặt, tài sản tại đơn vị, có nhiệm vụ:
+a)	Trang bị phương tiện, thiêt bị kho quỹ đảm bảo an toàn theo quy định.
+b)	Chỉ đạo áp dụng những biện pháp cần thiết chống mất mát, nhầm lẫn, đề phòng trộm cướp, cháy nổ, lụt bão, ẩm mốc, mối mọt và các nguyên nhân khác, đảm bảo an toàn tiền mặt, tài sản bảo quản tại đơn vị.
+c)	Trực tiếp tham gia kiểm kê tiền mặt, tài sản định kỳ hoặc đột xuất; kiểm kê bàn giao đảm bảo khớp đúng giữa số tồn thực tế với sổ sách kho quỹ và sổ sách kế toán trên hệ thống IPCAS; ký Biên bản kiểm kê (nếu có)...
+d)	Ký Lệnh điêu chuyên kiêm giây ủy quyên áp tải hàng đặc biệt (nêu có).
+đ) Chỉ đạo tổ chức kiểm tra công tác an toàn kho quỹ tại đơn vị.
+e)	Chỉ đạo xử lý các vụ việc thừa/thiếu tiền mặt, tài sản tại đơn vị, trên đường vận chuyển. Báo cáo Tổng Giám đốc kịp thời theo quy định.
+g)	Trưởng đơn vị có thể ủy quyền cho Phó Trưởng đơn vị thực hiện các nhiệm vụ nêu tại điểm c, d khoản này.
+4.	Giám đốc Đơn vị đầu mối hoạt động ngân quỹ thực hiện các nhiệm vụ nêu tại khoản 1 Điều này và/hoặc thực hiện theo quy định riêng của Tổng Giám đốc từng thời kỳ.
+Điều 15. Trách nhiệm của Trưởng phòng/bộ phận kế toán
+Trưởng phòng Kế toán và Ngân quỹ chịu trách nhiệm quản lý, hướng dẫn, thực hiện, kiểm tra, giám sát việc xuất/nhập và bảo quản tiền mặt, tài sản và kho tiền, có nhiệm vụ:
+a)	Tố chức hạch toán tiên mặt, tài sản theo chê độ kê toán - thống kê.
+b)	Kiểm tra, đối chiếu số liệu giữa sổ sách kho quỹ, sổ sách kế toán trên hệ thống IPCAS đảm bảo khớp đúng, la 
+c)	Tổ chức kiểm đếm, đóng gói, giao nhận, xuất/nhập, vận chuyển, sắp xếp, bảo quản tiền mặt, tài sản theo quy địnli.
+d)	Quản lý và giữ chìa khoá một ô khoá lớp cánh ngoài cửa kho tiên. Trực tiếp mở, khoá cửa kho tiền để giám sát việc xuất, nhập và bảo quản tiền mặt, tài
+sản trong kho tiền.
+đ) Trực tiếp tham gia kiểm kê tiền mặt, tài sản quý, GTCG, ACQT, thùng/hòm nguyên niêm phong cuối ngày làm việc; kiểm kê tiền mặt, tài sản định kỳ, đột xuất; kiểm kê bàn giao đảm bảo khớp đúng giữa số tồn thực tế với sổ sách kho quỹ và sổ sách kế toán trên hệ thống IPCAS. Ký xác nhận tồn quỹ thực tế cuối ngày trên số sách kho quỹ, Biên bản kiểm kê (nếu có).
+e)	Trực tiếp tham gia kiểm kê tiền mặt, tài sản bảo quản trong kho tiền tại Chi nhánh thời điểm 0 giờ ngày 01 tháng 01, ngày 01 tháng 07 để quản lý, nắm bắt thực trạng toàn bộ tiền mặt, tài sản và điều hành kịp thời hoạt động kho quỹ.
+g)	Hướng dẫn, kiểm tra việc mở và ghi chép sổ sách kho quỹ.
+h)	Theo dõi đề xuẩt với Lãnh đạo Chi nhánh về việc trang bị, sửa chữa, thay thế các phương tiện, biện pháp bảo vệ an toàn kho quỹ và việc cải tạo, nâng cấp kho tiền đế đảm bảo theo đúng quy định.
+i)	Giám sát việc tuân thủ nội quy vào, ra kho tiền, nội quy quầy giao dịch tiền mặt; kiếm soát những người được vào làm việc trong kho tiền, quầy giao dịch tiền mặt.
+các vụ việc thừa/thiếu tiền mặt, tài
+sản tại đơn vị, trên đường vận chuyên hoặc các hành vi vi phạm trong giao dịch, giao nhận, bảo quản, vận chuyến tiền mặt, tài sản.
+1.	Trưởng phòng Ke toán và Ngân quỹ có thể ủy quyền cho Phó Trưởng phòng Kế toán và Ngân quỹ thực hiện một số hoặc toàn bộ nhiệm vụ nêu tại khoản này (ngoại trừ nội dung tại điểm e).
+2.	Tại Phòng giao dịch
+Tổ trưởng tổ Kế toán và Ngân quỹ trong phạm vi chức năng, nhiệm vụ của mình, chịu trách nhiệm thực hiện các nhiệm vụ nêu tại khoản 1 Điều này (ngoại trừ nội dung tại điểm 1).
+3.	Tại Văn phòng Trụ sở chính, Văn phòng đại diện, Đơn vị sự nghiệp
+Trưởng phòng/bộ phận kế toán trong phạm vi chức năng, nhiệm vụ của mình, chịu trách nhiệm quản lý, hướng dẫn, thực hiện, kiểm tra, giám sát việc xuất, nhập và bảo quản tiền mặt, tài sản tại đơn vị, có nhiệm vụ:
+a)	Tổ chức hạch toán tiền mặt, tài sản theo chế độ kế toán - thống kê. 
+b)	Quản lý và giữ chìa khoá một 0 khoá két sắt phòng nghiệp vụ. Trực tiếp mở, khoá két sắt phòng nghiệp vụ để giám sát việc xuất/nhập, bảo quản tiền mặt, tài sản tại đon vị.
+c)	Kiếm tra, đối chiếu số liệu giữa sổ sách kho quỹ và sổ sách kế toán trên hệ
+thống IPCAS đảm bảo khóp đúng.
+d)	Trực tiêp tham gia kiêm kê tiên mặt, tài sản cuôi ngày làm việc đảm bảo sự
+khóp đúng giữa số tồn thực tế với sổ sách kho quỹ và sổ sách kế toán trên hệ thống IPCAS. Tham gia kiểm kê tiền mặt, tài sản định kỳ, đột xuất; kiểm kê bàn giao. Ký xác nhận tồn quỹ thực tế cuối ngày trên sổ quỹ, Biên bản kiểm kê (nếu có).
+đ) Hướng dằn, kiêm tra việc mở và ghi chép sô sách của Thủ quỹ.
+e)	Báo cáo ngay với Lãnh đạo đơn vị các vụ việc thừa/thiếu tiền mặt, tài sản tại đơn vị, trên đường vận chuyển hoặc các hành vi vi phạm trong giao dịch; giao nhận, bảo quản, vận chuyển tiền mặt, tài sản.
+_ 2 À	X	_
+g)	Trưởng phòng/bộ phận kê toán có thê ủy quyên cho Phó Trưởng phòng/bộ
+phận kế toán thực hiện một số hoặc toàn bộ nhiệm vụ nêu tại khoản này.
+4.	Tại Đơn vị đâu môi hoạt động ngân quỹ
+Trưởng phòng kế toán trong phạm vi chức năng, nhiệm vụ của mình, chịu trách nhiệm thực hiện các nhiệm vụ nêu tại khoản 1 Điều này và/hoặc thực hiện theo quy định riêng của Tông Giám đôc từng thời kỳ.
+Điều 16. Trách nhiệm của Thủ kho tiền
+Tại Chi nhánh/Phòng giao dịch có Ban quản lý kho tiền bố trí một Thủ quỹ chính/Thủ quỹ kiêm Thủ kho tiền. Thủ kho tiền chịu trách nhiệm tài sản trong phạm vi nhiệm vụ được giao; đảm bảo an toàn tuyệt đối tiền mặt, các loại tài sản bảo quản trong kho tiên, có nhiệm vụ sau:
+1.	Thực hiện việc nhập/xuất tiền mặt, tài sản chính xác, kịp thời, đầy đủ theo đúng lệnh của cấp có thẩm quyền, đúng chứng từ kế toán hợp lệ, hợp pháp.
+2.	Mở, quản lý, ghi chép các loại sổ sách kho quỹ đầy đủ, rõ ràng, chính xác và bảo quản theo quy định.
+3.	Tổ chức sắp xếp tiền mặt, tài sản trong kho tiền gọn gàng khoa học, đảm bảo vệ sinh kho tiền; đề xuất áp dụng các biện pháp cần thiết để đảm bảo chất lượng tiền mặt, tài sản bảo quản trong kho tiền.
+
+4.	Quản lý, giữ clùa khoá một ổ khoá của lớp cánh trong cửa kho tiền, bảo quản tiền mặt, tài sản được giao, các ổ khoá cửa gian kho và các phưong tiện bảo quản tài sản trong klio tiền (két sắt, tủ sắt...).
+5.	Kiểm tra tại chỗ các điều kiện đảm bảo an toàn cho việc xuất, nhập tiền mặt, tài sản trong kho tiền và khi tổ chức bốc xếp, vận chuyển đi, đến theo lệnh của cấp có thẩm quyền; kiểm tra công tác an toàn kho tiền. Đe xuất và kiến nghị với Trưởng đcm vị về các biện pháp tổ chức bảo vệ an toàn trong kho tiền.
+6.	Kiểm tra việc chấp hành quy định vào, ra kho tiền; kiểm soát và giám sát những người được vào làm việc trong klio tiền và báo cáo Lãnh đạo/người có trách nhiệm khi có nghi vấn đối với những người vào, ra kho tiền.
+7.	Tham gia kiểm kê tiền mặt, tài sản quý, GTCG, ACQT, thùng/hòm nguyên niêm phong cuối ngày làm việc; đảm bảo khớp đúng giữa số tồn thực tế với sổ sách kho quỹ và sổ sách kế toán trên hệ thống IPCAS, ký xác nhận tồn quỹ thực tế trên sổ sách kho quỹ.
+8.	Giúp Thủ kho tiên thực hiện kiêm đêm, đóng gói, bôc xêp, vận chuyên tiền mặt, tài sản có một số nhân viên phụ kho.
+Điều 17. Trách nhiệm của Thủ quỹ, Thủ quỹ chính, Giao dịch viên, Giao dịch viên quỹ
+1.	Trách nhiệm của Thủ quỹ, Thủ quỹ chính
+Thủ quỹ, Thủ quỹ chính chịu trách nhiệm đảm bảo an toàn tuyệt đối tiền mặt, tài sản trong phạm vi được giao, có nhiệm vụ:
+a)	Thực hiện thu/chi, giao/nhận, nhập/xuất tiền mặt, tài sản theo đúng chứng từ kế toán hợp lệ, hợp pháp; kiểm đếm, tuyển chọn, đóng gói, niêm phong, bốc xếp, vận chuyển, giao nhận tiền mặt, tài sản theo đúng quy định.
+b)	Quản lý, ghi chép sổ quỹ và các loại sổ sách kho quỹ đầy đủ, rõ ràng, chính xác.
+c)	Cuối ngày làm việc phải thực hiện kiểm kê tiền mặt, tài sản quý, GTCG, ACQT, thùng/hòm nguyên niêm phong đảm bảo khớp đúng giữa số tồn thực tế với sổ sách kho quỹ và sổ sách kế toán trên hệ thống IPCAS theo quy định.
+d)	Tham gia phục vụ kiểm tra, kiểm kê tiền mặt, tài sản khi được giao nhiệm vụ.
+đ) Kiểm tra, phát hiện tiền lẫn loại, tiền không đủ tiêu chuẩn lưu thông, tiền giả, tiền nghi giả đế xử lý theo quy định.
+e)	Thực hiện ngay việc xác nhận Sô quỹ trên hệ thông IPCAS sau khi hoàn thành việc thu/chi, giao/nhận tiền mặt để đảm bảo khớp đúng giữa tồn quỹ thực tế với Sổ quỹ tại mọi thời điểm.	^ 
+2.	Trách nhiệm của Giao dịch viên, Giao dịch viên quỹ
+a)	Giao dịch viên
+\
+(i)	Thực hiện thu/chi, giao/nhận tiên mặt, tài sản trong phạm vi nhiệm vụ được giao, theo đúng chứng từ kế toán hợp lệ, họp pháp, quản lý, hạch toán đầy đủ, rõ ràng, chính xác các nghiệp vụ phát sinh trên hệ thống IPCAS và các chương trình ứng dụng khác của Agribank, đảm bảo luôn khớp đúng giữa tồn quỹ thực tế với tồn quỹ trên sổ sách kế toán trên hệ thống IPCAS tại mọi thời điểm.
+(ii)	Chịu trách nhiệm đảm bảo an toàn tuyệt đôi tiên mặt, tài sản trong phạm vi, nhiệm vụ của mình; thực hiện kiểm đếm, tuyển chọn, đóng gói, niêm phong, giao nhận tiền mặt, tài sản theo quy định.
+(iii)	Kiêm tra, phát hiện thừa, thiêu, lân loại; phân loại, tuyên chọn tiên không đủ tiêu chuẩn lưu thông, tiền giả, tiền nghi giả để xử lý theo quy định.
+(iv) Cuối ngày làm việc
+ACQT; đối chiếu, đảm bảo khóp đúng giữa tồn quỹ thực tế với tồn quỹ trên sổ sách kế toán trên hệ thống IPCAS để nộp, gửi bảo quản theo quy định.
+b)	Giao dịch viên quỹ	^
+(i)	Thực hiện nhiệm vụ của Giao dịch viên nhưng không trực tiếp thu/chi tiền mặt, chỉ thực hiện hạch toán thu/chi, giao/nhận tiền mặt, tài sản trên hệ thống IPCAS khi nộp lĩnh với Sở giao dịch NHNN, NHNN khu vực, NHNN chi nhánh; KBNN, TCTD khác và các đơn vị trong hệ thống Agribank; giao dịch với khách hàng; nhập/xuất (in/out) tiền mặt, tài sản trên hệ thống IPCAS với Giao dịch viên; quản lý số dư tiền mặt tại đơn vị.
+(ii)	Cuối ngày làm việc phải thực hiện đối chiếu với Thủ quỹ chính/Thủ quỹ để đảm bảo khớp đúng giữa tiền mặt, tài sản quý, GTCG, ACQT tồn quỹ thực tế với tồn quỹ trên cân đối, số sách.
+Điều 18. Trách nhiệm của Kiểm ngân
+1.	Kiểm đếm, tuyển chọn, đóng gói, niêm phong, bốc xếp, vận chuyển tiền mặt, tài sản quý, GTCG, ACQT đúng quy định. Kiểm tra, phát hiện tiền thừa, thiếu, lẫn loại, tiền không đủ tiêu chuẩn lưu thông, tiền giả, tiền nghi giả để xử lý theo quy định.
+2.	Chịu trách nhiệm tài sản đối với tiền mặt, tài sản quý, GTCG, ACQT trong phạm vi được giao kiểm đếm, tuyển chọn, đóng gói, niêm phong.
+3.	Chứng kiến việc khách hàng kiểm đếm số tiền đã nhận của Agribank trong phạm vi nhiệm vụ được giao.
+Điêu 19. Tiêu chuân chức danh cán bộ làm công tác tiên tệ kho quỹ
+1.	Yêu cầu chung đối với người lao động làm công tác tiền tệ kho quỹ . 
+20	/
+a)	Người lao động được bô trí làm công tác tiên tệ kho quỹ phải có phâm chất đạo đức tốt, thật thà, trung thực, có ý thức tổ chức kỷ luật, có sức khỏe tốt, không có tiền án tiền sự, không mắc các tệ nạn xã hội và không vi phạm kỷ luật theo quy định của Agribank.
+b)	Không ngừng nâng cao trình độ nghiệp vụ; biêt sử dụng các phương tiện, máy móc phục vụ cho công tác quản lý kho quỹ, thu/chi tiền mặt, tài sản quý, GTCG, ACQT và các tài sản khác.
+c)	Đáp ứng tiêu chuẩn về cán bộ Agribank.
+2.	Yêu cầu về nghiệp vụ của cán bộ làm công tác tiền tệ kho quỹ
+a)	Hiêu biêt các quy định vê nghĩa vụ, trách nhiệm bảo quản an toàn tài sản và chế độ chính sách về quản lý tiền mặt, ngoại hối, vàng của pháp luật, NHNN
+và Agribank.
+b)	Nắm vững quy định về chế độ kho quỹ Ngân hàng; hiểu biết về nghiệp vụ tiền tệ kho quỹ, kỹ năng nhận biết tiền thật, tiền giả, tiền không đủ tiêu chuẩn lưu thông.
+3.	Trưởng đơn vị (không bao gồm Giám đốc Phòng giao dịch) phải ban hành quyết định về các chức danh kho quỹ, bao gồm: Thủ kho tiền, Thủ quỹ chính, Thủ quỹ, Kiểm ngân.
+Điêu 20. Các trường hợp không được bô trí làm cán bộ quản lý kho quỹ của Agribank
+1.	Không bô trí vợ hoặc chông, bô, mẹ, con đẻ, con nuôi, anh, chị, em ruột (kể cả anh, chị, em ruột vợ hoặc chồng) của Trưởng đơn vị/Phó trưởng đơn vị làm Thủ kho tiền, Thủ quỹ chính, Thủ quỹ.
+2.	Không bô trí những người có quan hệ là vợ chông, bô mẹ, con đẻ, con nuôi, anh chị em ruột cùng tham gia giữ chìa khóa, mã số cửa kho tiền; cùng tham gia kiểm kê, kiểm đếm tiền mặt, tài sản hoặc cùng công tác trên một xe hay một đoàn xe vận chuyển tiền mặt, tài sản.
+Điêu 21. Ban quản lý kho tiên
+1.	Trưcmg đơn vị ban hành Quyêt định thành lập Ban quản lý kho tiên (Mâu 01/TTKQ), thành phần bao gồm:
+a)	Giám đốc.
+b)	Trưởng phòng/bộ phận kế toán/Tổ trưởng tổ Kế toán và Ngân quỹ.
+c)	Thủ kho tiền.
+Đôi với Phòng giao dịch phụ thuộc đáp ứng đủ điêu kiện nhân lực, đủ cơ sở vật chất đảm bảo an toàn kho quỹ và được giao hạn mức tồn quỹ tiền mặt: Giám ^x^ 
+đốc Chi nhánh quản lý chịu trách nhiệm trong việc ban hành quyết định thành lập Ban quản lý kho tiền tại Phòng giao dịch và thường xuyên chỉ đạo, quản lý, giám sát việc chấp hành công tác an toàn kho quỹ tại Phòng Giao dịch.
+2.	Trách nhiệm và nhiệm vụ của các thành viên Ban quản lý kho tiền
+a)	Các thành viên Ban quản lý kho tiên thực hiện nhiệm vụ và chịu trách nhiệm cá nhân theo nhiệm vụ của mình trong việc quản lý kho tiền; giám sát xuất, nhập, bảo quản tiền mặt, tài sản; quản lý và giữ chìa khóa, mã số cửa kho tiền, gian kho, két sắt...; giao nhận, bảo quản, vận chuyển tiền mặt, tài sản theo quy định này, quy định của pháp luật, NHNN và Agribank.
+b)	Các thành viên Ban quản lý kho tiên phải trực tiêp giám sát toàn bộ quá trình những người thực hiện nhiệm vụ trong kho tiền theo Điều 33 Quy định này từ lúc vào đến lúc ra khỏi kho tiền.
+Điều 22. Ban quản lý ATM và quản lý ATM
+1.	Nguyên tắc
+a)	Giám đốc Chi nhánh ký Quyết định thành lập Ban quản lý ATM tại Hội sở Chi nhánh và các Phòng giao dịch phụ thuộc.
+b)	Trưởng Ban quản lý ATM ký Quyết định thành lập Tổ vận chuyển hộp tiền (nếu cần thiết); Tố vận chuyến hộp tiền chỉ áp dụng đối với Chi nhánh, không áp dụng đối với Phòng giao dịch.
+c)	Quyêt định thành lập Ban quản lý ATM và Tô vận chuyên hộp tiên phải ghi rõ đích danh các thành viên; Tổ trưởng và thành viên Tổ vận chuyển hộp tiền phải thuộc Ban quản lý ATM.
+d)	Quyêt định thành lập Ban quản lý ATM phải nêu rõ phạm vi ATM (sô lượng ATM, ATM ID) do Ban quản lý ATM trực tiếp quản lý.
+đ) Trường họp thành viên Ban quản lý ATM vắng mặt, Giám đốc Chi nhánh phải có văn bản giao nhiệm vụ cho cán bộ khác thay thế. Người được giao nhiệm vụ có trách nhiệm thực hiện đầy đủ chức trách, nhiệm vụ của thành viên Ban quản lý ATM trong suốt thời gian được giao nhiệm vụ. Văn bản giao nhiệm vụ được lưu cùng bộ chứng từ tiếp quỹ/kiểm quỹ ATM.
+e)	Việc giao chìa khóa, mã khóa két ATM cho các thành viên quản lý, sử dụng phải được thể hiện rõ trong văn bản phân công nhiệm vụ của Ban quản lý ATM và/hoặc Tổ vận chuyển hộp tiền.
+g)	Việc kiểm đếm tiền trong quá trình tiếp quỹ và kiểm quỹ ATM bắt buộc phải có camera giám sát và có đầy đủ thành phần Ban quản lý ATM. Tứ ỗ^^ 
+V
+h)	Việc bàn giao hộp tiền từ Ban quản lý ATM cho Tổ vận chuyển hộp tiền và ngược lại phải được lập thành Biên bản.
+2.	Thành phân Ban quản lý ATM tại Chi nhánh bao gôm:
+a)	Giám đôc/Phó giám đôc - Trưởng Ban.
+b)	Trưởng/Phó phòng Kê toán và Ngân quỹ - Thành viên. r	X
+c)	Cán bộ kế toán thực hiện nhiệm vụ về nghiệp vụ thẻ - Thành viên.
+d)	Thànlì viên khác (nếu có) do Giám đốc Chi nhánh quyết định.
+3.	Thành phần Ban quản lý ATM tại Phòng giao dịch bao gồm:
+a)	Giám đốc Phòng giao dịch - Trưởng Ban;
+b)	Phó Giám đốc Phòng giao dịch/Tổ trưởng tố Ke toán và Ngân quỹ - Thành viên.
+c)	Cán bộ kế toán thực hiện nhiệm vụ về nghiệp vụ thẻ - Thành viên.
+d)	Thành viên khác (nếu có) do Giám đốc Chi nhánh quyết định.
+4.	Thành phần Tổ vận chuyển hộp tiền gồm 03 thành viên sau:
+a)	Trưởng/Phó phòng Ke toán và Ngân quỹ - Tố trưởng.
+b)	Cán bộ kế toán thực hiện nhiệm vụ về nghiệp vụ thẻ - Thành viên.
+c)	Thành viên khác thuộc Ban quản lý ATM do Trưởng Ban quản lý ATM quyết định.
+5.	Nhiệm vụ của Ban quản lý ATM
+a)	Thực hiện quản lý, giám sát tình trạng hoạt động, tồn quỹ ATM, đảm bảo ATM hoạt động ổn định, an toàn, hiệu quả.
+b)	Thực hiện tiếp quỹ, kiểm quỹ ATM; xác định nguyên nhân thừa/thiếu quỹ ATM và lập Biên bản kiểm quỹ ATM theo quy trình nghiệp vụ Thẻ của Agribank quy định từng thời kỳ.
+c)	Bảo quản chìa khóa và mã khóa két ATM theo quy định.
+d)	Bảo quản, vận chuyển hộp tiền theo quy định (trường họp không thành lập Tổ vận chuyển hộp tiền) hoặc bàn giao hộp tiền từ Ban quản lý ATM cho Tổ vận chuyển hộp tiền thực hiện tiếp quỹ tại ATM, việc bàn giao hộp tiền và nhận lại hộp tiền sau khi tiếp quỹ phải được lập thành Biên bản.
+đ) Thực hiện các nhiệm vụ khác do Giám đốc giao.
+6.	Nhiệm vụ của Tô vận chuyên hộp tiên
+a)	Quản lý, bảo quản chìa khóa và mã khóa két ATM theo quy định.
+b)	Bảo quản, vận chuyển hộp tiền theo quy định. Lí	& 
+’ 23	Ế
+c)	Thực hiện thao tác tiêp quỹ tại ATM.
+d)	Thực hiện các nhiệm vụ khác do Trưởng Ban quản lý ATM giao.
+7.	Quản lý ATM	V
+a)	Giám đốc Chi nhánh chịu trách nhiệm tổ chức thực hiện quản lý, giám sát, vận hành, bảo trì, bảo dưỡng ATM do Chi nhánh trực tiếp quản lý theo đúng quy <^ định hiện hành, đảm bảo ATM hoạt động ổn định, an toàn và hiệu quả.
+b)	Chi nhánh trực tiếp quản lý ATM có trách nhiệm đảm bảo điều kiện về cơ	^
+sở hạ tầng, vị trí đặt ATM phải thuận tiện cho khách hàng sử dụng thẻ và phải	N
+trang bị camera giám sát, hệ thống báo động tại ATM theo quy định.
+c)	ATM, cabin ATM (nếu có) phải có hệ thống điện dự phòng; điều hoà nhiệt độ; Automat chống rò điện, chống giật...đáp ứng các quy định quy chuẩn kỹ thuật quốc gia về kỹ thuật điện và an toàn điện.
+d)	ATM phải có đường mạng truyền thông tốt, đủ ánh sáng cần thiết đảm bảo màn hình hiển thị tốt để việc thao tác giao dịch của khách hàng được thực hiện dễ dàng trong suốt thời gian giao dịch.
+đ) Cabin, biển hiệu, biển vẫy ATM thực hiện theo đúng quy định hiện hành
+vê nhận diện thương hiệu của Agribank.
+e)	Chi nhánh phải thực hiện kiểm quỹ ATM trước khi điều chuyển, thanh lý ATM và đảm bảo tất cả các giao dịch phát sinh đã được hạch toán trước khi điều chuyển, thanh lý.
+8.	Trường hợp tiếp quỹ, kiểm quỹ ATM thông qua Đơn vị đầu mối hoạt động ngân quỹ, các đơn vị thực hiện các nội dung liên quan đến Ban quản lý ATM và quản lý ATM theo quy định riêng của Tổng Giám đốc từng thời kỳ.
+Điều 23. Quy định về ủy quyền, thay thế của các thành viên tham gia quản lý tiền mặt, tài sản và kỉio tiền
+1.	ủy quyền của Trưởng đơn vị
+a)	Trưởng đơn vị được ủy quyền bằng văn bản cho một Phó Trưởng đơn vị thực hiện nhiệm vụ quản lý tiền mặt, tài sản và kho tiền theo Quy định này và quy định của pháp luật, có thể ủy quyền trong thời gian nhất định 01, 03, 06...tháng (từ ngày.. .đến ngày...) nhưng thời hạn ủy quyền không quá ngày 31 tháng 12 của năm ủy quyền.
+Trường họp Phó Trưởng đơn vị được ủy quyên nghỉ phép, đi công tác, đi họp, đi học.. .Trưởng đơn vị ủy quyền bằng văn bản cho Phó Trưởng đơn vị khác chịu trách nhiệm thực hiện nhiệm vụ quản lý tiền mặt, tài sản và kho tiền theo quy định. 
+Phó Trưởng đơn vị đang giữ chìa khóa có thể trực tiếp bàn giao chìa khóa cho Phó Trưởng đơn vị đã được Trưởng đơn vị ủy quyền.
+Việc ủy quyền của Giám đốc Phòng giao dịch cho một Phó Giám đốc phải được Giám đốc Chi nhánh quản lý phê duyệt.
+b)	Người được ủy quyền chịu trách nhiệm trước Trưởng đơn vị về nội dung được ủy quyền theo Quy định này và quy định của pháp luật có liên quan.
+2.	ủy quyền của Trưởng phòng/bộ phận kế toán.
+a)	Trong phạm vi chức năng, nhiệm vụ của mình, Trưởnj
+toán được ủy quyền bằng văn bản cho một Phó Trưởng phòng/bộ phận kế toán thực hiện nhiệm vụ quản lý tiền mặt, tài sản và kho tiền theo Quy định này và quy định của pháp luật trong thời gian nhất định 01, 03, 06...tháng (từ ngày...đến ngày...) nhưng thời hạn ủy quyền không quá ngày 31 tháng 12 của năm ủy quyền.
+b)	Trường họp Phó Trưởng phòng/bộ phận kế toán được ủy quyền nghỉ phép, đi công tác, đi họp, đi học.. .thì Trưởng phòng/bộ phận kế toán làm thủ tục ủy quyền bằng văn bản cho Phó Trưởng phòng/bộ phận kế toán khác chịu trách nliiệm thực hiện nhiệm vụ quản lý tiền mặt, tài sản và kho tiền. Phó Trưởng phòng/bộ phận kế toán đang giữ chìa khóa có thể trực tiếp bàn giao chìa khóa cho Phó Trưởng phòng/bộ phận kế toán đã được Trưởng phòng/bộ phận ủy quyền.
+c)	Các văn bản uỷ quyền của Trưởng phòng/bộ phận kế toán cho Phó Trưởng phòng/bộ phận kế toán phải được Trưởng đơn vị chấp thuận. Người được ủy quyền chịu trách nhiệm trước Trưởng phòng/bộ phận kế toán và Trưởng đơn vị về nội dung được ủy quyền theo Quy định này và quy định của pháp luật có liên quan.
+3.	Thực hiện ủy quyền quản lý của thành viên Ban quản lý kho tiền
+Khi Trưởng đơn vị/Trưởng phòng/bộ phận kê toán (không trực tiêp thực hiện nhiệm vụ và trách nhiệm của Ban quản lý kho tiền) ủy quyền cho cấp phó, ngoài các nội dung quy định tại Điều này, trong Quyết định/văn bản ủy quyền phải nêu rõ nội dung ủy quyền trong phạm vi trách nhiệm của mình (quy định tại Điều 14, Điều 15, Điều 21 Quy định này), thời hạn ủy quyền (quy định tại điểm a khoản 1; điểm a khoản 2 Điều này) và theo đúng quy định về việc ủy quyền. Chỉ được ủy quyền cho một cấp phó trong một quyết định/văn bản ủy quyền. Trường hợp cần thiết, Trưởng đơn vị/Trưởng phòng/bộ phận kế toán có thể ủy quyền cho từng cấp phó trong các khoảng thời gian ủy quyền khác nhau (thời gian ủy quyền kế tiếp, không chồng chéo), nội dung ủy quyền theo quy định.
+4.	Thủ kho tiền, Tổ trưởng tổ Kế toán và Ngân quỹ khi nghỉ phép, đi công tác, đi họp, đi học.. .phải có văn bản đề nghị và được Trưởng đơn vị chấp thuận;^ 
+
+ 
+25.
+Trưởng đơn vị chịu trách nhiệm ký quyết định cử người thay thế tại đơn vị, Phòng giao dịch phụ thuộc, trong đó: .
+a)	Cử người thay thê Tô trưởng tô Kê toán và Ngân quỹ thực hiện trách nhiệm theo quy định tại khoản 2 Điều 15, Điều 21 Quy định này theo thứ tự: Phó Giám đốc Phòng giao dịch/Lãnh đạo phòng Ke toán và Ngân quỹ của Chi nhánh/cán bộ làm công tác kế toán ngân quỹ có uy tín.
+b)	Cử người thay thê Thủ kho tiên thực hiện trách nhiệm theo quy định tại Điều 16, Điều 21 Quy định này căn cứ theo đề nghị của Trưởng phòng/bộ phận kế toán/Giám đốc Phòng giao dịch.
+c)	Người thay thê Thủ kho tiên, Tô trưởng tô Kê toán và Ngân quỹ chịu trách nhiệm về bảo đảm bí mật, an toàn tuyệt đối tiền mặt, tài sản và hoạt động nghiệp vụ kho quỹ trong thời gian được giao nhiệm vụ.
+5.	Người được Trưởng đơn vị, Trưởng phòng/bộ phận kê toán uỷ quyên và người thay thế Thủ kho tiền, Tổ trưởng tổ Ke toán và Ngân quỹ không được uỷ quyền lại cho người khác. Người được ủy quyền, người thay thế có trách nhiệm bạo cáo ngay cho người ủy quyền khi phát sinh các vụ việc hoặc hành vi vi phạm để kịp thời xử lý theo quy định.
+6.	Trường hợp Trưởng đơn vị và các Phó Trưởng đơn vị được ủy quyền đi vắng hoặc đối với các đơn vị chưa bố trí đủ Lãnh đạo, phải làm vãn bản báo cáo và xin ý kiến Giám đốc Chi nhánh quản lý/Tổng Giám đốc để bố trí người thay thế.
+7.	Khi hêt thời hạn uỷ quyên, người được ủy quyên phải bàn giao lài tiền mặt, tài sản, kho tiền và báo cáo công việc đã làm về quản lý tiền mặt, tài sản, kho tiền cho người uỷ quyền.
+Mục 3
+SỬ DỤNG VÀ BẢO QUẢN CHÌA KHOÁ KHO TIỀN, KÉT SẤT
+Điều 24. Quản lý, niêm phong, bảo quản, gửi chìa khóa kho tiền, gian kho, gian đệm, két sắt, tủ sắt, thùng xe chở tiền
+1.	Mỗi ổ khóa cửa kho tiền, cửa gian kho, gian đệm, két sắt, tủ sắt, thùng xe chở tiền, két ATM phải có đủ và đúng hai chìa, một chìa sử dụng hàng ngày và một chìa dự phòng. Chìa khóa của ổ khóa số là một tổ hợp gồm mã số và chìa khóa định vị (nếu có).
+2.	Trường hợp cửa kho tiền, cửa gian kho, gian đệm, két sắt, tủ sắt, thùng xe chở tiền, két ATM có ổ khóa không cần sử dụng (thừa) hoặc ổ khóa có nhiều hơn^
+<
+26	>/
+hai chìa, Trưởng đơn vị tô chức lập Biên bản niêm phong ô khóa không sử dụng, các chìa khóa của ổ khóa này được niêm phong quản lý như chìa khóa dự phòng.
+3.	Các thành viên được giao giữ chìa khóa cửa kho tiền, cửa gian kho, gian đệm, két sắt, tủ sắt, thùng xe chở tiền, két ATM phải quản lý, niêm phong, bảo quản, gửi chìa khóa hằng ngày và chìa khóa dự phòng theo quy định tại Phụ lục V Quy định này.
+Điều 25. Bàn giao chìa khoá cửa kho tiền, két ATM, két sắt 03 ổ khóa
+1.	Khi thay đổi thành viên giữ chìa khóa cửa kho tiền phải thực hiện bàn giao chìa khóa cửa kho tiền, người giao và người nhận ký So theo dõi bàn giao chìa khoá sử dụng hàng ngày (Sổ 08/TTKQ). Đối với khoá mã số, khi bàn giao chìa khoá cửa kho tiền, cả ba thành viên giữ chìa khoá cửa kho tiền phải có mặt để mở cửa kho tiền. Người giao xoá mã số, giao chìa khóa định vị; người nhận phải cài đặt mã số của mình tại ổ khóa được giao quản lý. Nghiêm cấm người nhận sử dụng mã số xuất xưởng hoặc mã số của người giao.y
+2.	Bàn giao chìa khóa két ATM, két sắt 03 ố khóa thực hiện như khoản 1 Điều này.
+Điều 26. Mở hộp chìa khóa dự phòng
+1.	Các trường hợp mở hộp chìa khoá dự phòng
+a)	Mằt chìa khoá đang dùng hàng ngày hoặc cân phải mở cửa kho tiên trong trường hợp khẩn cấp quy địnli tại Điều 31 Quy định này.
+b)	Lưu giữ thêm các chìa khoá dự phòng của các ổ khoá mới, thay mã số khác hoặc các trường hợp thay đổi người quản lý, giữ chìa khoá.
+c)	Rút các chìa khoá dự phòng của các 0 khoá đã được thay mới.
+d)	Kiêm tra, kiêm kê chìa khoá, mã sô dự phòng theo lệnh băng văn bản của Trưởng đơn vị hoặc cấp có thẩm quyền.
+2.	Mỗi lần cần mở hộp chìa khoá dự phòng quy định tại khoản l Điều này
+phải có văn bản đề nghị nhận lại chìa khóa, mã số dự phòng được Trưởng đơn vị chấp thuận. Đối với hộp chìa khoá dự phòng cửa kho tiền, Trưởng đơn vị phải có văn bản đề nghị Trưởng đơn vị nhận gửi chấp thuận. Trưởng đơn vị ký Lệnh điều chuyển kiêm giấy ủy quyền áp tải hàng đặc biệt (Mau 03/TTKQ) trong đó ủy
+quyên cho 01 trong 02 thành viên tham gia giữ chìa khóa cửa kho tiên cùng với thành viên còn lại trực tiếp đến đơn vị nhận gửi để nhận lại hộp chìa khóa dự phòng cửa kho tiền. Khi giao nhận, hai bên phải cùng xem xét, chứng kiến tình trạng nguyên niêm phong của hộp chìa khóa dự phòng đã gửi; sau đó làm thủ tục giao nhận và tổ chức vận chuyển về theo quy định. Lo <^. 
+J
+3.	Khi mở hộp chìa khoá dự phòng cửa kho tiền/két sắt 03 ổ khóa/két ATM phải có sự chứng kiến của các thành viên giữ chìa khóa/mã số và Cán bộ kiểm tra, giám sát. Trưởng đơn vị chỉ định 01 trong 03 thành viên giữ chìa khóa/mã số mở hộp chìa khóa dự phòng. Trường họp khẩn cấp phải mở hộp chìa khóa dự phòng mà người giữ chìa khóa của hộp chìa khóa vắng mặt thì Trưởng đơn vị chỉ định người được ủy quyền/người thay thế của người đó chứng kiến việc mở hộp chìa khóa dự phòng.
+Điêu 27. Sửa chữa thay thê khoá cửa kho tiên, két săt
+1.	Nghiêm cấm làm thêm hoặc sao chụp chìa khoá cửa kho tiền, gian kho, gian đệm, két sắt, két ATM, thùng xe chở tiền...Trường họp ổ khoá hoặc chìa khoá bị hỏng, cần sửa chữa, thay thế phải có văn bản báo cáo và được Trưởng đơn vị chấp thuận. Trưởng đơn vị chịu trách nhiệm khi quyết định chọn đối tác (thợ) sửa chữa, thay thế. Khi thực hiện thay thế, sửa chữa khoá phải có sự chứng kiến của người giữ chìa khoá hoặc người được uỷ quyền, đồng thời lập Biên bản khi sửa chữa, thay thế khoá cửa kho tiền, gian kho, gian đệm, két sắt, két ATM, thùng xe chở tiền...
+2.	Việc sửa chữa thay thế chìa khóa két ATM được thực hiện thông qua đơn vị cung cấp ATM hoặc đơn vị cung cấp dịch vụ bảo trì ATM theo quy định.
+Điêu 28. Trách nhiệm của cán bộ được giao nhiệm vụ quản lý, sử dụng
+chìa khoá kho tiền, két sắt
+1.	Quản lý và bảo quản chìa khóa theo đúng quy định.
+2.	Bảo đảm an toàn bí mật chìa khoá được giao, không làm thất lạc, mất mát, hư hỏng. Tuyệt đối không cho người khác xem, cầm, cất giữ hộ.
+3.	Không mang chìa khoá ra ngoài trụ sở cơ quan. Trường họp chìa khóa két ATM, chìa khóa thùng xe chở tiền khi sử dụng xong phải mang về bảo quản tại trụ sở cơ quan đơn vị theo quy định.
+Điều 29. Trách nhiệm bảo mật chìa khoá cửa kho tiền, két sắt
+1.	Tuyệt đối không để xảy ra tình trạng vì điều động cán bộ hay bất cứ nguyên nhân nào khác mà giao chìa khóa kho tiền và việc mở cửa kho tiền cho
+người không phải là thành viên Ban quản lý kho tiền.
+2.	Không đê xảy ra tình trạng lân lượt các chìa khóa, mã số của các 0 khóa cửa kho tiền/két sắt 03 ổ khóa/két ATM/két sắt phòng nghiệp vụ giao vào tay một người. Nếu xảy ra tình trạng này coi như tất cả các ổ khoá cửa kho tiền/két sắt 03
+ổ khóa/két ATM/két sắt phòng nghiệp vụ đã bị lộ bí mật, bị mất chìa và Trưởng^/
+28	/
+đon vị phải chịu trách nhiệm cho thay thê ô khóa, mã sô mới theo quy định tại Điều 30 Quy định này.
+Điều 30. Xử ỉý khi làm mất, lộ bí mật chìa khoá, mã sổ cửa kho tiền, két sắt
+1.	Các chìa khoá, mã sô cửa kho tiên, gian đệm, gian kho, két săt, két ATM, thùng xe chở tiền không bảo quản theo đúng Quy định này được coi là đã bị lộ bí mật. Khi bị lộ bí mật chìa khoá phải thay thế ổ khoá mới hoặc/và mã số mới.
+2.	Trường hợp chìa khoá đang dùng hàng ngày bị mất, người làm mất chìa khoá phải báo ngay với Trưởng đon vị bằng văn bản, nêu rõ nguyên nhân, thời gian và địa điểm mất chìa khoá. Trưởng đon vị phải báo ngay với cơ quan Công an cùng cấp và Chi nhánh cấp trên về việc mất chìa khoá, sau đó lập biên bản và làm thủ tục xin lấy hộp chìa khoá dự phòng để sử dụng. Việc thay khoá mới phải thực hiện nhanh chóng trong thời gian không quá 36 giờ kể từ thời điểm phát hiện mất chìa khoá; trong thời gian này, phải tăng cường các biện pháp bảo vệ, bảo đảm tuyệt đối an toàn tài sản.
+3.	Người làm lộ, làm mằt chìa khoá phải kiêm diêm nghiêm túc và phải bôi thường chi phí thay ổ khoá mới; phải chịu kỷ luật hoặc bị xử lý theo quy định của pháp luật, NHNN và Agribank.
+Điều 31. Xử lý cửa kho tiền trong trưòng hợp khấn cấp
+Trường hợp khân câp (thiên tai, hỏa hoạn...) nêu thiêu thành viên giữ chìa khoá thì Trưỏng đơn vị cho phép sử dụng chìa khoá dự phòng hoặc quyết định cho phá kho để cứu tiền mặt, tài sản; báo cáo kịp thòi Chi nhánh cấp trên và Tống Giám đốc.
+Mục 4
+VÀO, RA KHO TIỀN
+Điêu 32. Đôi tượng được vào kho tiên
+Khi thực hiện nhiệm vụ, những đối tượng sau được phép vào kho tiền:
+1.	Thống đốc, Phó Thống đốc NHNN kiểm tra các kho tiền trong hệ thống Agribank.
+2.	Cục trưởng Cục Phát hành và Kho quỹ vào các kho tiền trong hệ thống Agribank để thực hiện nhiệm vụ được giao.
+3.	Cán bộ được Thống đốc NHNN cho phép bằng văn bản vào kiểm tra kho tiền trong hệ thống Agribank.
+4.	Giám đôc NHNN chi nhánh, cán bộ được Giám đôc NHNN chi nhánh có văn bản cho phép kiểm tra kho tiền trong hệ thống Agribank trên cùng địa bàn. ^ 
+
+ 
+5.	Chủ tịch Hội đồng thành viên, Tổng Giám đốc kiểm tra kho tiền trong hệ thống Agribank.
+6.	Cán bộ Agribank hoặc cán bộ trong các Đoàn kiêm tra được Chủ tịch Hội đồng Thành viên, Tổng Giám đốc, Trưởng Ban Kiểm soát có văn bản cho phép kiểm tra kho tiền của các đơn vị Agribank.
+7.	Trưởng đơn vị và các thành viên có trách nhiệm giữ chìa khoá cửa kho tiền.
+8.	Cán bộ kiểm tra, giám sát vào kho tiền để giám sát việc xuất/nhập tiền mặt, tài sản; cán bộ kiểm tra kho tiền theo kế hoạch công tác đã được Trưởng đơn
+vị phê duyệt.
+9.	Cán bộ, nhân viên được giao nhiệm vụ tổ chức bốc xếp, vận chuyển tiền	-^
+mặt, tài sản bảo quản trong kho tiền hoặc được giao nhiệm vụ vào kho tiền để cứu	í
+tiền mặt, tài sản trong trường hợp khẩn cấp.	1
+10.	Các thanh viên của Hội đông kiêm kê tiên mặt, tài sản kho quỹ định kỳ, đột xuât.	/
+11.	Cán bộ giám sát và cán bộ kỹ thuật, công nhân sửa chữa kho tiền; sửa	^
+chữa, lắp đặt, bảo dưỡng các thiết bị, các 0 khóa trong kho tiền, có giấy đề nghị, được Trưởng đơn vị chấp thuận cho phép vào kho tiền.
+" L
+Điêu 33. Các trường hợp được vào kho tiên
+1.	Thực hiện lệnh, phiêu xuât, nhập tiên mặt, tài sản trong kho tiên.
+2.	Nhập tiền mặt, tài sản vào bảo quản trong kho tiền hoặc xuất ra để sử dụng trong ngày.
+3.	Kiêm tra, kiêm kê tiên mặt, tài sản trong kho tiên theo định kỳ hoặc đột xuât.
+4.	Vệ sinh kho tiền, bốc xếp, đảo kho.
+5.	Sửa chữa, bảo dưỡng, lăp đặt, kiêm tra trang thiêt bị trong kho tiên.
+6.	Cứu tiền mặt, tài sản trong kho tiền trong các trường họp khẩn cấp.
+7.	Xuất, nhập tiền mặt, tài sản tạm gửi kho NHNN Chi nhánh, KBNN, TCTD khác trên cùng địa bàn hoặc Chi nhánh khác trong hệ thống Agribank.
+8.	Xuất, nhập tài sản làm dịch vụ quản lý, bảo quản tài sản, cho thuê tủ, két an toàn, dịch vụ ngân quỹ khác đang quản lý trong kho tiền.
+9.	Các trường hợp khác theo quyết định của cấp có thẩm quyền.
+Điêu 34. Quy định vào, ra kho tiên
+1.	Việc vào, ra kho tiên phải đây đủ thành phân Ban quản lý kho tiên. Khi vào, Thủ kho tiền vào đầu tiên; khi ra, Thủ kho tiền ra cuối cùng. Việc mở và
+30
+4	1	,
+đóng các ô khoá cửa kho tiên theo nguyên tăc từng người một và theo đúng thứ tự, khi mở cửa kho tiền: Giám đốc, Trưởng phòng/bộ phận kế toán/Tổ trưởng tổ Ke toán và Ngân quỹ, Thủ kho tiền; ngược lại, khi đóng cửa kho tiền: Thủ kho tiền, Trưởng phòng/bộ phận kế toán/Tổ trưởng tổ Kế toán và Ngân quỹ, Giám đốc. Mỗi lần vào, ra kho tiền, các đối tượng được vào, ra kho tiền phải ký tên xác nhận trên sổ đăng ký vào, ra kho tiền (Sổ 06/TTKQ).
+2.	Trước khi vào và sau khi ra khỏi kho tiền, các thành viên Ban quản lý kho tiền phải có mặt đầy đủ để chứng kiến các thành viên giữ chìa khóa, mã số cửa kho tiền mở, đóng cửa kho tiền. Các thành viên giữ chìa khóa, mã số cửa kho tiền phải tự bảo vệ bí mật mã số, chìa khóa cửa kho tiền khi mở, đóng cửa kho tiền.
+Điêu 35. Kiêm tra trước khi vào, ra kho tiên
+1.	Trước khi mở khoá, các thành viên giữ chìa khoá kho tiền phải quan sát kỹ tình trạng bên ngoài ổ khoá và cửa kho tiền
+a)	Nếu thấy có vết tích nghi vấn, phải ghi đầy đủ nghi vấn trước khi mở khoá.
+b)	Nêu thây vêt tích đã có kẻ gian xâm nhập kho tiên, phải giữ nguyên hiện trường và thông báo cho cơ quan Công an đến xem xét, lập Biên bản; sau đó mới mở khoá vào kho tiền.
+2.	Trước khi ra khỏi kho tiên
+T z
+a)	Kiêm tra các hiện vật cân mang ra ngoài kho.
+b)	Kiểm tra lại hệ thống các thiết bị an toàn.
+c)	Thủ kho tiền phải kiểm tra lại lần cuối cùng trước khi đóng cửa kho tiền.
+Mục 5
+CANH GÁC, BẢO VỆ KHO TIỀN, QUẦY GIAO DỊCH
+Điều 36. Nội quy kho tiền, quầy giao dịch tiền mặt
+1.	Những người có nhiệm vụ vào quầy giao dịch tiền mặt hoặc kho tiền phải mặc trang phục không có túi hoặc bảo hộ lao động.
+2.	Không được mang theo tư trang, túi xách, tiền mặt, tài sản của cá nhân vào quầy giao dịch tiền mặt, kho tiền.
+3.	Người không có nhiệm vụ không được vào trong quầy giao dịch tiền mặt hoặc kho tiền.	ể 
+4.	Quầy giao dịch tiền mặt phải có niêm yết Nội quy quầy giao dịch tiền mặt (mẫu 18/TTKQ), kho tiền phải có niêm yết Nội quy vào ra kho tiền (mẫu 17/TTKQ) theo quy định.
+Điều 37. Làm việc ngoài giờ tại trụ sở kiêm kho tiền
+Hêt giờ làm việc, phải khoá cửa quây giao dịch và các cửa thuộc khu vực /Ọ-
+kho tiền. Ngoài lực lượng bảo vệ, nhân viên trực điêu khiên thiêt bị an toàn kho tiền đã được phân công (nếu có), không ai được tự ý ở lại một mình tại nơi làm
+việc trong khu vực kho tiền. Nếu có yêu cầu làm việc ngoài giờ, ít nhất phải có 02 người, được Trưởng đơn vị cho phép bằng văn bản và phải thông báo cho bộ
+phận bảo vệ biết.
+Điều 38. Canh gác, bảo vệ
+1.	Kho tiền phải được canh gác, bảo vệ thường xuyên đảm bảo an toàn 24 giờ/ngày kể cả ngày nghỉ, lễ, Tết. Việc canh gác, bảo vệ kho tiền chủ yếu do lực lượng bảo vệ chuyên trách của đơn vị đảm nhiệm. Cán bộ bảo vệ phải được trang bị các công cụ phòng vệ được Công an địa phương cho phép.
+2.	Trưởng đơn vị phân công Lãnh đạo, nhân viên trực cơ quan trong những ngày nghỉ, lễ, Tet. Việc bảo vệ kho tiền được kết hợp chặt chẽ với việc bảo vệ trụ sở cơ quan.
+~ . . ..
+3.	Các đơn vị phôi họp chặt chẽ với lực lượng Công an liên quan tại địa phương xây dựng phương án bảo vệ kho tiền và trụ sở làm việc; chủ động xây dựng các phương án bảo vệ ATM, phòng chống đột nhập, trộm cướp, phòng chống lụt bão, thiên tai.. .Đối với Phòng giao dịch không có kho, phương án bảo vệ phải nêu rõ nội dung, trách nhiệm bảo vệ tiền mặt, tài sản trong thời gian nghỉ trưa. Phương án phòng cháy chữa cháy phải được cấp có thẩm quyền phê duyệt theo quy định. Đơn vị chủ động hoặc phối hợp với các đem vị có liên quan để thực hiện tập huấn, diễn tập các phương án đảm bảo tuyệt đối an toàn tài sản.
+4.	Các đơn vị có hợp đồng thuê lực lượng vệ sĩ bảo vệ cần có quy định cụ thế về tiêu chuấn, phấm chất đạo đức, tiêu chuẩn nghiệp vụ; có biện pháp thích họp để chọn người có đạo đức tốt; nhân viên bảo vệ phải được đào tạo qua trường lớp nghiệp vụ và có chứng chỉ. Hợp đồng phải kèm theo danh sách lý lịch trích ngang của nhân viên bảo vệ.
+Điều 39. Trách nhiệm của bảo vệ
+Những người có nhiệm vụ bảo vệ phải chịu trách nhiệm về an toàn tiền mặt, tài sản và kho tiền trong phạm vi được phân công. 10 
+32
+Chương III
+VẬN CHUYỂN HÀNG ĐẶC BIỆT	Á?
+J o	J
+Điêu 40. Quy trình vận chuyên
+Việc tô chức vận chuyên hàng đặc biệt phải tuân theo quy trình: Băt đâu từ khi nhận, đóng gói niêm phong hàng đặc biệt; bốc xếp lên phương tiện vận chuyển; vận chuyển trên đường đến địa điểm nhận; giao hàng và hoàn thành đầy đủ các thủ tục giao nhận mới kết thúc.
+Điêu 41. Trách nhiệm tô chức vận chuyên
+1.	Vận chuyển ngoại tệ tiền mặt của Chi nhánh đầu mối (được Tổng Giám đốc uỷ quyền mở tài khoản thanh toán biên mậu) tại khu vực biên giới để thực hiện thanh toán biên mậu do Giám đốc Chi nhánh đầu mối ký Lệnh điều chuyển kiêm giấy ủy quyền áp tải hàng đặc biệt (Mau 03/TTKQ).
+2.	Vận chuyển ngoại tệ tiền mặt khi mua, bán với đối tác nước ngoài (không bao gồm các nước có chung biên giới) thực hiện theo quy định riêng của Tổng Giám đốc từng thời kỳ.
+1	9	'
+3.	Vận chuyên tiên mặt, tài sản trong nước
+a)	Điều chuyển tiền mặt, tài sản quý, GTCG, ACQT giữa các Chi nhánh loại I trong hệ thống phải có Lệnh điều chuyển vốn thanh toán (Mầu 04/TTKQ) do Tổng Giám đốc ký (trừ trường hợp điều chuyển tiền mặt VND giữa Chi nhánh loại I với Chi nhánh đầu mối do Giám đốc Chi nhánh đầu mối ký Lệnh điều chuyển vốn thanh toán theo Quyết định hiện hành của Tổng Giám đốc).
+b)	Điều chuyến tiền mặt, tài sản quý, GTCG, ACQT (nộp, lĩnh/giao, nhận) với Sở giao dịch NHNN, NHNN khu vực, NHNN chi nhánh; KBNN, TCTD khác trong cùng tỉnh, thành phố: Giám đốc Chi nhánh loại I trực tiếp thực hiện ký Lệnh điều chuyển (Mau 03/TTKQ).
+c)	Điều chuyển tiền mặt, tài sản trong nội bộ Chi nhánh (bao gồm cả thu, chi tiền mặt lưu động tại địa chỉ của khách hàng) do Giám đốc Chi nhánh ký lệnh:
+(i)	Điều chuyển giữa các Chi nhánh loại II trong cùng Chi nhánh loại I quản lý: Căn cứ vào Giấy đề nghị tiếp quỹ (Mầu 13/TTKQ) của đơn vị nhận điều chuyển và khả năng cung ứng của đơn vị điều chuyển, Chi nhánh loại I cân đối vốn và lập Lệnh điều chuyển vốn thanh toán (Mau 04/TTKQ) gửi đơn vị nhận điều chuyển và đơn vị điều chuyến; căn cứ Mầu 04/TTKQ, đơn vị nào trực tiếp thực hiện vận chuyển thì lập Lệnh điều chuyển (Mầu 03/TTKQ). ố^ 
+(ii)	Điều chuyển giữa Chi nhánh loại I với Chi nhánh loại II
+-	Trường hợp Chi nhánh loại I tiếp quỹ cho Chi nhánh loại II
++ Căn cứ Giấy đề nghị tiếp quỹ (Mau 13/TTKQ) của Chi nhánh loại II; Chi nhánh loại I phê duyệt và gửi văn bản phê duyệt tiếp quỹ tiền mặt, ngoại tệ tiền mặt (Mau 15/TTKQ) cho Chi nhánh loại II (qua fax hoặc đường nội bộ).
++ Căn cứ văn bản phê duyệt (Mâu 15/TTKQ), Chi nhánh trực tiêp vận chuyên lập Lệnh điều chuyển (Mau 03/TTKQ) và tổ chức vận chuyển theo đúng quy định.
+-	Trường hợp Chi nhánh loại II nộp quỹ về Chi nhánh loại I
+Căn cứ Giấy đề nghị nộp quỹ (Mầu 14/TTKQ), Chi nhánh trực tiếp thực hiện vận chuyển thì lập Lệnh điều chuyển (Mau 03/TTKQ) và tổ chức vận chuyển theo đúng quy định.
+(iii)	Điều chuyển giữa Chi nhánh loại I/loại II với Phòng giao dịch
+Căn cứ Giấy đề nghị tiếp quỹ/nộp quỹ của Phòng giao dịch, Chi nhánh loại I/loại II lập Lệnh điều chuyển (Mầu 03/TTKQ) và tổ chức vận chuyển theo đúng quy định.
+d) Điều chuyển ngoại tệ tiền mặt giữa Chi nhánh loại I với đơn vị đầu mối khu vực, giữa đơn vị đầu mối khu vực với đơn vị đầu mối miền thực hiện theo quy định riêng của Tổng Giám đốc trong từng thời kỳ.
+đ) Điêu chuyên tiên mặt, tài sản, thùng/hòm niêm phong giữa Đơn vị đâu mối hoạt động ngân quỹ với các đơn vị thực hiện theo quy định riêng của Tổng Giám đốc trong từng thời kỳ.
+4.	Khi thực hiện vận chuyển hàng đặc biệt phải có Lệnh điều chuyển (Mầu 03/TTKQ), trong đó ủy quyền và giao trách nhiệm cụ thể cho từng thành viên trong Tổ vận chuyển (người áp tải; bảo vệ; lái xe...) theo quy định. Trường hợp cùng địa bàn tỉnh, thành phố hoặc trong nội bộ Chi nhánh, có thể ủy quyền cho người được giao nhiệm vụ đi giao, nhận tiền, áp tải trên đường trong một thời gian (nếu thực hiện nhiệm vụ liên tục, không thay người khác).
+5.	Lệnh điều chuyển phải nêu rõ nội dung, thời gian, phương tiện vận chuyển (nếu có), nơi đi, nơi đến, số lượng, giá trị tiền mặt, tài sản; trách nhiệm của người tham gia thực hiện.
+6.	Hàng đặc biệt khi vận chuyển phải được đóng gói, niêm phong và bảo quản trong thùng/hòm tôn/vali/hộp/bao/túi có khóa hoặc buộc chặt, để trong thùng xe chở tiền theo quy định. Ấp 
+■ 7. Vận chuyển hàng đặc biệt phải trang bị các phương tiện thông tin liên lạc, phương tiện vận chuyển và lực lượng bảo vệ theo quy định của Agribank.
+ẠX
+Điêu 42. Giây uỷ quyên vận chuyên hàng đặc biệt
+1.	Khi giao nhận và vận chuyển hàng đặc biệt, người áp tải hàng đặc biệt phải được uỷ quyền của cấp có thẩm quyền.
+2.	Đối với các Chi nhánh có thanh toán biên mậu, giao Giám đốc Chi nhánh loại I hoặc Chi nhánh được uỷ quyền mở tài khoản thanh toán biên mậu ký Lệnh điều chuyển (Mầu 03/TTKQ) trong đó ủy quyền, giao trách nhiệm cho các thành viên trong To vận chuyển đảm bảo an toàn tuyệt đối tài sản.
+3.	Trước khi giao hàng đặc biệt cho người nhận, người giao phải kiêm tra tính họp lệ và hợp pháp của giấy ủy quyền; kiểm tra các yếu tố đảm bảo an toàn theo quy định mới cho phép vận chuyển hàng đặc biệt ra khỏi trụ sở Agribank.
+Điều 43. Phương tiện vận chuyển
+1.	Vận chuyển hàng đặc biệt phải sử dụng xe chở tiền và các phương tiện kỹ thuật cần thiết, trong khoang chứa hàng chỉ được chứa hàng đặc biệt theo đúng Lệnh điều chuyển (tiêu chuẩn kỹ thuật của xe chở tiền thực hiện theo quy định của NHNN).
+2.	Trường họp chưa được trang bị xe chở tiên hoặc khi có nhu câu vận chuyển hàng đặc biệt đi nhiều nơi cùng một lúc, không đủ xe chở tiền, đơn vị có thể sử dụng xe ô tô của cơ quan, nhưng với điều kiện hàng đặc biệt và người áp tải, bảo vệ phải cùng ở trong một khoang xe, không được để hàng đặc biệt ở cốp xe và phải có phương án bảo vệ hàng đặc biệt trên đường vận chuyến đảm bảo an
+toàn tài sản.
+3.	Đối với những đơn vị có trụ sở đóng tại vùng hải đảo, việc vận chuyển hàng đặc biệt phải thực hiện bằng tàu biển hoặc máy bay. Giám đốc Chi nhánh phải ban hành quy định cụ thể giao trách nhiệm cho từng thành viên trong Tố vận chuyển hàng đặc biệt. Hàng đặc biệt bảo quản trong thùng/hòm tôn chuyên dụng/vali loại tốt, có khóa tốt, được khóa chắc chắn và niêm phong theo quy định. Tổ vận chuyển được trang bị công cụ, dụng cụ hỗ trợ bảo vệ, phải có phương án bảo vệ hàng đặc biệt trên đường vận chuyển được Giám đốc Chi nhánh loại I phê duyệt đảm bảo an toàn tuyệt đối tài sản.
+4.	Đối với những nơi có đường giao thông khó khăn, hoặc vùng sông nước... không thể đi xe ô tô thì được phép vận chuyển bằng các phương tiện vận chuyển khác (xe gắn máy, xuồng máy...) thì số tiền vận chuyển một lần không được vượt quá 500.000.000 đồng (Năm trăm triệu đồng) hóặc tương đương. Trường hợp này, Giám đốc Chi nhánh phải quy định cụ thể trách nhiệm của từng người, phải có biện pháp chống thấm nước; tiền mặt, tài sản quý, GTCG, ACQT phải bảọ quản 
+trong thùng/hòm tôn chuyên dụng/vali loại tốt, có khóa tốt, được khóa chắc chắn và niêm phong theo quy định, phải có phương án bảo vệ hàng đặc biệt trên đường vận chuyển được Giám đốc phê duyệt đảm bảo an toàn tuyệt đối tài sản.
+5.	Trường họp Chi nhánh loại I, Chi nhánh loại II thực hiện vận chuyến hàng đặc biệt trên tuyến đường vận chuyển bằng đường bộ kết họp với đường sông để tiếp quỹ cho Chi nhánh loại Il/Phòng giao dịch phụ thuộc hoặc Chi nhánh loại II/Phòng giao dịch phụ thuộc nộp về Chi nhánh quản lý, Giám đốc các Chi nhánh phải tuân thủ theo đúng các quy định trên đây, đồng thời tăng cường thêm bảo vệ được trang bị công cụ phòng vệ. Khi tiếp quỹ, Chi nhánh loại I, Chi nhánh loại II phải căn cứ tình hình kinh doanh và nhu cầu XÙI tiếp quỹ của Chi nhánh loại II/Phòng giao dịch phụ thuộc để quyết định số tiền tiếp quỹ trên nguyên tắc an toàn, hợp lý. Giám đốc các đơn vị phải chịu trách nhiệm tổ chức giám sát chặt chẽ quá trình thực hiện Lệnh điều chuyển, tránh rủi ro, phải có phương án bảo vệ hàng đặc biệt trên đường vận chuyển cụ thế được Giám đốc Chi nhánh cấp quản lý phê duyệt, trong đó quy định rõ trách nhiệm đối với từng người, đảm bảo an toàn tuyệt đối tài sản.
+6.	Trường họp đặc biệt khác phải thuê phương tiện như: Máy bay, tàu hỏa, tàu biển do Tổng Giám đốc quyết định.
+Điều 44. Đảm bảo bí mật thông tin vận chuyển
+1.	Những người tổ chức và tham gia vận chuyển hàng đặc biệt phải tuyệt đối giữ bí mật các thông tin về thời gian, hành trình, loại hàng, khối lượng, giá trị, phương tiện vận chuyển, phương tiện bảo quản tài sản theo quy định bảo vệ bí mật Nhà nước.
+2.	Người không có nhiệm vụ không được đi cùng trên phương tiện vận chuyển hàng đặc biệt.
+3.	Các văn bản liên quan đên công tác vận chuyên tiền mặt, tài sản sử dụng cụm từ “hàng đặc biệt” thay cho cụm từ “tiền mặt, tài sản” để đảm bảo bí mật thông tin vận chuyển.
+Điều 45. Đảm bảo an toàn trên đường vận chuyển
+1.	Phải tổ chức vận chuyển hàng đặc biệt vào ban ngày và kết thúc ngay trong ngày (trừ trường hợp đặc biệt như vận chuyển bằng tàu hoả, máy bay, tàu biển), hạn chế vận chuyển và giao nhận hàng vào ban đêm.
+2.	Vận chuyên đường dài cân nghỉ dọc đường hoặc nghỉ qua đêm, phải đưa xe chở hàng đặc biệt vào trụ sở Chi nhánh Agribank, NHNN chi nhánh, KBNN, TCTD khác hoặc đon vị Công an, quân đội để đảm bảo an toàn, phối họp bố trí trực canh gác xe hàng hoặc gửi hàng vào bảo quản trong kho tiền (nếu có). Nếu tại địa điểm nghỉ qua đêm có kho tiền đủ sức chứa, có khu vực bảo quản riêng để gửi hàng thì Tổ trưởng/người áp tải làm Giấy đề nghị gửi hàng (ghi rõ từng loại (^, 
+36	Ẩ
+.	1	L ' ' *	7 * X	L 1	A 7 r X
+hàng, sô lượng từng loại, thời gian gửi); có đây đủ chữ ký xác nhận của Giám đôc, Trưởng phòng Ke toán, Thủ kho tiền của đơn vị nhận gửi và chữ ký của Tổ trưởng/người áp tải của Tố vận chuyến. Khi nhận lại hàng, phải kiểm tra, ghi cụ thể số lượng của từng loại và chữ ký xác nhận của các thành phần trên.
+Điêu 46. Phôi hợp bảo vệ trên tuyên đường vận chuyên
+Chi nhánh Agribank nhận được thông báo xe vận chuyển hàng đặc biệt của ngành Ngân hàng gặp sự cố trên tuyến đường thuộc địa phương mình, phải chủ động liên lạc, phối hợp với cơ quan Công an, cùng lực lượng của xe vận chuyển có biện pháp đảm bảo an toàn tài sản. Trường hợp cần thiết, đề nghị chính quyền địa phương phối hợp và có trách nhiệm xử lý kịp thời những sự cố xảy ra.
+Điều 47. Tổ chức tiếp nhận
+Khi hàng đặc biệt vận chuyển đến nơi nhận, đơn vị nhận hàng phải bố trí lực lượng bảo vệ và tổ chức tiếp nhận hàng nhanh nhất theo đúng quy định (kể cả ngoài giờ làm việc hoặc ngày nghỉ) để đưa hàng vào kho tiền bảo quản an toàn.
+Điêu 48. Lực lượng tham gia vận chuyên và trách nhiệm của ngưòi áp tải
+1.	Khi vận chuyển hàng đặc biệt, tối thiểu phải có đủ lực lượng điều khiến phương tiện, áp tải, bảo vệ gồm:	tỹ
+a)	Người áp tải.
+b)	Bảo vệ chuyên trách hoặc Công an.
+c)	Lái xe.
+Trường họp vận chuyển đường xa, số tiền giá trị lớn hoặc phải đi qua vùng hẻo lánh, an ninh trật tự phức tạp, cần tăng cường thêm bảo vệ hoặc Công an, được trang bị công cụ hỗ trợ, phòng vệ được phép sử dụng theo quy định của pháp luật.
+Trường hợp vận chuyển bằng tàu thủy, tàu hỏa, máy bay không có lái xe, cần tăng thêm lực lượng bảo vệ hoặc Công an được trang bị công cụ hỗ trợ, phòng vệ được phép sử dụng, ít nhất trong Tổ vận chuyển phải có 03 người. Tùy theo khối lượng giá trị và tính chất của mỗi chuyến hàng đặc biệt mà đơn vị quyết định số lượng người bảo vệ phù họp trên cơ sở phương án bảo vệ hàng đặc biệt trên đường vận chuyển đã được Trưởng đon vị phê duyệt. Riêng đối với trường họp vận chuyển bằng máy bay, công cụ hỗ trợ trang bị cho bảo vệ hoặc Công an thực hiện theo quy định của cơ quan nhà nước có thẩm quyền.
+2.	Người áp tải hàng đặc biệt là người phụ trách chung, chỉ huy trên đường vân chuvển, chịu trách nhiệm đảm bảo an toàn tiền mặt, tài sản; tổ chức thực hiện việc giao nhận, bảo quản, vận chuyên, áp tải đúng theo Quy định này. Trường họp khối lượng, giá trị tiền mặt, tài sản vận chuyển lớn phải tổ chức thành đoàn xe, có z	^ 
+một số người áp tải thì Trưởng đơn vị chỉ định một cán bộ áp tải hàng đặc biệt làm Tổ trưởng tổ vận chuyến.
+Điều 49. Trách nhiệm bảo vệ vận chuyển
+1.	Lực lượng bảo vệ hoặc Công an bảo vệ hàng đặc biệt có trách nhiệm: Có phương án bảo vệ hàng đặc biệt trên đường vận chuyển, người và phương tiện từ khi bắt đầu nhận hàng đặc biệt đến khi giao hàng xong và trở về trụ sở đơn vị an toàn; chấp hành đúng quy định trong vận chuyển theo Quy định này; xử lý các trường hợp cụ thể xảy ra, không để xe bị kiểm tra, khám xét dọc đường. Khi xảy ra sự cố mất an toàn, phải trực tiếp chiến đấu và phân công các thành viên trong Tổ vận chuyển cùng phối họp bảo vệ người, hàng đặc biệt và phương tiện vận chuyến.
+2.	Lực lượng bảo vệ hàng đặc biệt phải mang theo công cụ hỗ trợ (súng, dùi cui điện, roi điện, bình xịt hơi cay...) kèm giấy chứng nhận, giấy phép sử dụng công cụ hỗ trợ còn hiệu lực.
+Điều 50. Trách nhiệm của người điều khiển phương tiện
+Người điều khiển phương tiện chịu trách nhiệm về kỹ thuật của phương tiện vận chuyển; chấp hành đúng quy định vận chuyến hàng đặc biệt theo Quy định này; chấp hành luật giao thông, chủ động xin giấy ưu tiên hoặc mua vé qua cầu, phà, trạm thu phí giao thông nhanh chóng.
+Điêu 51. Sô sách theo dõi vận chuyên
+Đơn vị tô chức vận chuyên hàng đặc biệt phải mở sô theo dõi từng chuyên hàng, từ bố trí nhân lực, phương tiện và lịch trình vận chuyển cho đến khi hàng đặc biệt được bàn giao đầy đủ cho nơi nhận.
+Chương IV
+KIỂM TRA, KIỂM KÊ, BÀN GIAO, BÁO CÁO,
+XỬ LÝ THỪA THIẾU TIỀN MẶT, TÀI SẢN, SỔ SÁCH KHO QUỸ
+^	Mục 1
+KIỂM TRA, KIỂM KÊ, BÀN GIAO TIỀN MẶT, TÀI SẢN
+Điều 52. Định kỳ kiểm tra, kiểm kê
+1.	Kiểm tra toàn diện công tác đảm bảo an toàn kho quỹ và tổng kiểm kê tiền mặt, tài sản mỗi năm 02 lần, thời điểm 0 giờ ngày 01 tháng 01 và ngày 01 tháng 07.
+2.	Kiểm kê tiền mặt, tài sản bảo quản trong kho tiền mỗi tháng 01 lần, thời điểm 0 giờ ngày 01 hàng tháng (nếu trùng vào ngày nghỉ thì chuyển sang ngày 
+3.	Đối với TSGH, Giám đốc Chi nhánh có thể xem xét quyết định bằng văn bản cho phép thực hiện kiểm kê mỗi quý tối thiểu 01 lần (thời điểm 0 giờ ngày 01 của tháng/quý tiếp theo) và chịu trách nhiệm đảm bảo an toàn tài sản.
+4.	Việc kiểm tra, kiểm kê định kỳ có thể được thực hiện và(
+thời điêm 0 giờ của kỳ báo cáo tại khoản 1, khoản 2, khoản 3 Điêu này (trong thời gian này không có số liệu phát sinh so với thời điểm khóa sổ đon vị).
+5.	Khi kết thúc giao dịch vào cuối giờ làm việc hàng ngày, phải thực hiện kiểm kê tiền mặt, tài sản quý, GTCG, ACQT (bao gồm cả trong kho) đảm bảo tồn thực tế khớp với số dư trên sổ sách kho quỹ, sổ sách kế toán trên hệ thống IPCAS.
+6.	Kiếm tra, kiêm kê đột xuất trong các trường họp
+a)	Khi thay đổi các thành viên giữ chìa khoá, mã số cửa kho tiền/két sắt 03 ổ khóa.
+b)	Khi thay đổi ổ khoá hoặc bị mất chìa khoá cửa kho tiền.
+c)	Khi nghi có kẻ gian xâm nhập kho tiền, quầy thu chi tiền mặt hoặc tiền mặt, tài sản vận chuyển trên đường; phát hiện có nhầm lẫn về tài sản trong khi
+xuất/nhập kho tiền và thu/chi tiền.
+d)	Khi có lệnh hoặc văn bản kiểm tra kho tiền của cấp có thẩm quyền quy định tại khoản 1, khoản 2, khoản 3, khoản 4, khoản 5, khoản 6, khoản 8, khoản 10 Điều 32 Quy định này.
+đ) Kiêm tra việc kiêm đêm, tuyên chọn tiên mặt.
+7.	Trưởng đơn vị có quyên tô chức kiêm kê, tông kiêm kê đột xuât tiên mặt, tài sản bất kỳ lúc nào tại các đơn vị do mình phụ trách, quản lý.
+Điêu 53. Nội dung, phương pháp kiêm tra, kiêm kê
+1.	Nội dung, phương pháp kiểm tra
+a)	Kiểm tra toàn diện hoặc từng phần việc chấp hành văn bản quy định của Agribank về công tác tiền tệ kho quỹ, có nhận xét đánh giá bằng văn bản; nêu rõ, cụ thể những vấn đề tồn tại và kiến nghị biện pháp, thời gian khắc phục.
+b)	Kiểm tra sự chính xác của việc ghi chép sổ sách; khớp đúng số liệu giữa thực tế với chứng từ sổ sách của Thủ kho tiền, Giao dịch viên, Thủ quỹ chính/Thủ quỹ và số liệu hạch toán trên IPCAS.
+2.	Nội dung, phương pháp kiêm kê
+a)	Kiểm kê hiện vật các loại tiền mặt, tài sản để đảm bảo khóp đúng giữa tồn thực tế với số dư sổ sách kho quỹ, sổ sách kế toán trên hệ thống IPCAS. 
+b)	Các thành viên tham gia kiểm kê phải trực tiếp kiểm đếm từng bó, túi, bao, hộp, thùng nguyên niêm phong đối với tiền mặt, tài sản đã đóng gói theo quy định; xem xét tình trạng nguyên niêm phong bó, túi, bao, hộp, thùng tiền mặt, tài sản. Đối với tiền chưa chẵn bó (túi) phải kiểm đếm tờ (miếng). Khi thấy cần thiết, phải mở ra kiểm đếm hiện vật bên trong hoặc kiểm đếm lại từng tờ (đối với tiền mặt). Phải ghi kết quả kiểm kê (chi tiết các loại tài sản theo số lượng, giá trị) vào sổ sách theo quy định. Đối chiếu tài sản thực tế đã kiểm kê (số lượng, giá trị) với số dư trên sổ sách kho quỹ, sổ sách kế toán trên hệ thống IPCAS; nếu có chênh lệch (thừa hoặc thiếu) thì phải lập biên bản và xử lý theo quy định.
+3.	Thủ kho tiên/Thủ quỹ chính/Thủ quỹ có trách nhiệm chuân bị đây đủ điêu kiện cho công tác kiểm tra, kiểm kê:
+a)	Đóng gói, niêm phong, săp xêp gọn gàng, khoa học theo đúng quy định; xuằt trình đầy đủ hiện vật, chứng từ, sổ sách có liên quan phục vụ cho kiểm tra, kiểm kê.
+b)	Có mặt tại chô đê bảo quản tiên mặt, tài sản, sô sách và chứng kiên việc kiểm tra, kiểm kê, tạo điều kiện cho kiểm tra, kiểm kê được chính xác, đầy đủ nhưng không được trực tiếp tham gia kiểm đếm tiền mặt, tài sản.
+c)	Có quyền và nhiệm vụ xem xét lại toàn bộ tiền mặt, tài sản, sổ sách, giấy tờ, nội dung biên bản trước khi xác nhận kết quả kiểm tra, kiếm kê để ký vào Biên bản với vai trò người chứng kiến.
+4.	Biên bản kiểm tra, kiếm kê được thông qua công khai, các thành viên trực tiếp tham gia phải ký tên xác nhận số liệu trong biên bản, chứng từ đính kèm và sổ sách kho quỹ theo quy định.^
+Điêu 54. Bàn giao tiên mặt, tài sản
+1.	Khi có quyết định bằng văn bản về tổ chức cán bộ có thay đổi một trong ba thành viên giữ chìa khóa cửa kho tiền/két sắt 03 0 khóa (Trưởng đon vị, Trưỏng phòng/bộ phận kế toán/Tổ trưởng tổ Ke toán và Ngân quỹ, Thủ kho tiền/Thủ quỹ chính/Thủ quỹ) và trong bất kỳ trường hợp nào thay thế Thủ kho tiền/Thủ quỹ chính/Thủ quỹ phải kiểm kê, bàn giao toàn bộ tiền mặt, tài sản thuộc phạm vi được giao quản lý.
+2.	Trường hợp Trưởng đon vị, Trưởng phòng/bộ phận kê toán ủy quyên có thời hạn cho cấp phó về yiệc quản lý kho tiền, thì khi hết thời hạn ủy quyền phải kiếm kê, bàn giao tiền mặt, tài sản.
+3.	Tùy theo công việc và thời gian nghỉ phép, đi công tác, đi họp, đi học.. .của Trưởng đon vị, Trưỏng phòng/bộ phận kế toán/Tổ trưởng tổ Kế toán và Ngân quỹ; Trưởng đon vị có thể quyết định bằng văn bản việc kiểm kê bàn giao tùng phần hay toàn bộ tiền mặt, tài sản đảm bảo hoạt động kinh doanh của đơn vị. U
+ 
+
+ 
+4.	Nội dung bàn giao toàn bộ
+a)	Toàn bộ các loại tiền mặt, tài sản.
+b)	Toàn bộ số sách, tài liệu chứng từ, số liệu về tiền mặt và tài sản.
+c)	Toàn bộ sô sách, giây tờ vê công tác quản lý tiên mặt, tài sản bảo quản trong kho tiền.
+d)	Chìa khóa cửa kho tiền, gian đệm, các gian kho, chìa khóa két, tủ sắt,....
+đ) Các phương tiện chuyên dùng cho công tác kho quỹ.
+e)	Đội ngũ nhân viên kho quỹ.
+g)	Các công việc khác có liên quan.
+5.	Người nhận bàn giao phải trực tiếp xem xét, kiểm tra, kiểm kê, kiểm đếm, không được uỷ quyền cho người khác nhận thay.
+Điều 55. Hội đồng kiểm kê, Hội đồng kiểm đếm
+1.	Hội đồng kiểm kê
+a)	Trưởng đơn vị phải ký quyết định thành lập Hội đồng kiểm kê tại đơn vị và Phòng giao dịch phụ thuộc trong các trường hợp: khi thực hiện kiểm kê định kỳ, đột xuất theo quy định tại khoản 1, khoản 2, khoản 3, khoản 6, khoản 7 Điều 52 của Quy định này và các trường hợp bàn giao tiền mặt, tài sản trong kho tiền.
+b)	Thành phần Hội đồng kiểm kê:
+(i)	Trưởng đơn vị/người được ủy quyền - Chủ tịch Hội đồng.
+(ii)	Trưởng phòng/bộ phận kế toán (hoặc người được ủy quyền)/Tổ trưởng tổ Ke toán và Ngân quỹ - Thành viên.
+(iii)	Cán bộ kiêm tra, giám sát - Thành viên.
+(iv)	Một số cán bộ giúp việc khác do Trưởng đơn vị quyết định - Thành viên.
+(v)	Thủ kho tiền/Thủ quỹ chính/Thũ quỹ - Thành phần chứng kiến.
+c)	Nhiệm vụ của Hội đồng kiểm kê thực hiện theo Điều 53 Quy định này.
+2.	Hội đồng kiểm đếm
+a)	Trưởng đơn vị ký quyết định thành lập Hội đồng kiểm đếm đối với các trường họp kiểm đếm, phân loại tiền, GTCG, ACQT đã nhận theo bao, thùng, bó, túi, hộp nguyên niêm phong.
+b)	Thành phần Hội đồng kiểm đếm
+(i)	Trưởng đơn vị/người được ủy quyền - Chủ tịch Hội đồng.
+(ii)	Trưởng phòng/bộ phận kế toán (hoặc người được ủy quyền) - Thành viên.
+(iii)	Cán bộ kiểm tra, giám sát - Thành viên.
+(iv)	Một số cán bộ giúp việc khác do Trưởng đơn vị quyết định - Thành viên.
+(v)	Thủ kho tiền/Thủ quỹ chính/Thủ quỹ - Thành viên (nếu cần).
+c)	Người chứng kiến của bên giao tiền (nếu có) tham gia chứng kiến việc kiểm đếm của Hội đồng kiểm đếm của đơn vị nhận tiền.
+d)	Nhiệm vụ của Hội đông kiêm đêm
+Tổ chức kiểm đếm tờ, miếng của bó, túi tiền theo trình tự sau:
+(i)	Trước tiên phải kiêm đêm bó, túi tiên theo đúng quy định sau đó mới căt dây buộc bó, túi tiền để kiểm đếm. Giữ giấy niêm phong cho đến khi kiểm đếm xong bó, túi tiền. Không được để lẫn giấy niêm phong của bó, túi tiền này với giấy niêm phong bó, túi tiền khác.
+(ii)	Bó, túi tiền không có sai sót thì hủy ngay niêm phong cũ, dán niêm phong mới của người kiểm đếm, đóng gói tại đơn vị.
+(iii)	Người kiểm đếm phát hiện bó, túi tiền có thừa, thiếu, lẫn loại hoặc có tiền giả...phải báo ngay Hội đồng kiểm đếm và người chứng kiến (nếu có) để kiểm tra lại. Khi Hội đồng kiểm đếm đã xác định đúng sai sót, người kiểm đếm ghi ở mặt sau của tờ niêm phong các yếu tố: ngày, tháng, năm kiểm đếm; kết quả kiểm đếm bó, túi tiền thừa hoặc thiếu (số tờ, miếng; thành tiền), kể cả trường hợp lẫn loại hoặc tiền giả.. .dẫn đến thừa hoặc thiếu tiền; ký xác nhận, đồng thời yêu cầu người chứng kiến ký tên (nếu có), sau đó nộp cho Hội đồng kiểm đếm để làm căn cứ lập và ký xác nhận trên biên bản.
+(iv)	Bên nhận tiên sau khi kiêm đêm xong gửi biên bản kèm niêm phong của bó, túi tiền có sai sót đã được Hội đồng kiếm đếm xác nhận cho bên giao tiền chịu trách nhiệm xử lý, thanh toán.
+3.	Việc kiểm kê cuối ngày do các thành viên Ban quản lý kho tiền/thành viên giữ chìa khóa két sắt 03 0 khóa/két sắt phòng nghiệp vụ thực hiện; Giám đốc có thê bô trí một sô cán bộ nhân viên giúp việc kiêm kê cuôi ngày. Việc giám sát kiểm kê cuối ngày thực hiện theo quy định.
+4.	Cuôi tháng, các Phòng giao dịch đang gửi bảo quản tiên mặt, tài sản theo thùng/hòm niêm phong tại kho tiền của Đơn vị đầu mối hoạt động ngân quỹ phải điều chuyển số dư tồn quỹ trên IPCAS và nộp toàn bộ tiền mặt, tài sản quý, ACQT tồn thực tế về Chi nhánh quản lý để thực hiện kiểm kê theo quy định. ẤP 4 
+42
+5.	Tại thời điểm 0 giờ ngày 01 tháng 01 và ngày 01 tháng 07 hàng năm:
+X	X
+a)	Trưởng đơn vị và Trưởng phòng/bộ phận kê toán/Tô trưởng tô Kê toán và Ngân quỹ phải trực tiếp tham gia kiểm kê tiền mặt, tài sản bảo quản trong kho tiền theo quy định để đảm bảo an toàn tài sản.
+b)	Tất cả các Phòng giao dịch phải thực hiện điều chuyển số dư tồn quỹ trên IPCAS và nộp toàn bộ tiền mặt, tài sản quý, ACQT tồn thực tế về Chi nhánh quản lý để thực hiện tổng kiểm kê.
+6.	Việc kiểm kê tiền mặt tại máy ATM do Ban quản lý ATM thực hiện theo quy định của Tổng Giám đốc từng thời kỳ.
+Mục 2
+xử LÝ THỪA, THIẾU TIỀN MẶT, TÀI SẢN
+Điều 56. Xử lý thưa, thiêu tiên mặt, tài sản quý, giây tờ có giá, ân chỉ quan trọng trong khâu kiểm đếm, đóng gói
+1.	Trường họp thiếu tiền mặt, tài sản quý, GTCG, ACQT theo biên bản của Hội đồng kiểm kê/Hội đồng kiểm đếm theo Quy định này, người có tên trên niêm phong bó, túi, hộp, bao, thùng tiền mặt, tài sản quý, GTCG, ACQT phải bồi thường 100% giá trị tài sản thiếu. Nếu tái phạm thì tuỳ thuộc mức độ, phải chịu hình thức kỷ luật theo quy định của pháp luật, NHNN và Agribank. Trường hợp thừa tiền: Sau khi nhận được báo có số tiền thừa của Đon vị nhận tiền, thực hiện theo điểm b khoản 2 Điều này.
+2.	Trường hợp Đơn vị giao nhận tiền trong hệ thống Agribank theo Lệnh điều chuyển của Tổng Giám đốc (hoặc Giám đốc Chi nhánh) việc thanh toán, xử lý các trường hợp thừa, thiếu như sau:
+a)	Tại Đơn vị nhận tiền
+Việc thanh toán thừa, thiếu được phép hạch toán ngay vào tài khoản điều chuyển vốn nội bộ. Căn cứ theo biên bản của Hội đồng kiểm đếm kèm niêm phong của người có tên trên các bó, túi tiền có thừa, thiếu gửi cho Đơn vị giao tiền.
+b)	Tại Đơn vị giao tiền
+Căn cứ báo có/báo nợ, biên bản của Hội đồng kiểm đếm của bên nhận tiền kèm niêm phong của người có tên trên các bó, túi tiền có sai sót:
+(i)	Nêu thừa tiên, hạch toán vào tài khoản thừa quỹ, tài sản thừa chờ xử lý đe
+theo dõi xác định rõ nguyên nhân thừa tiền, khi xác định chính xác khách hàng nộp thừa tiền thì có trách nhiệm trả lại cho khách hàng; sau 06 tháng nếu không^/ 
+
+
+ 
+
+
+ 
+xác định được nguyên nhân thì phải thành lập Hội đồng xử lý thừa quỹ để ghi thu nghiệp vụ.
+(ii)	Nêu thiêu tiên, thì người có tên trên niêm phong các bó, túi tiên thiêu phải bồi thường 100% giá trị tài sản thiếu.
+3. Xử lý trường hợp thừa, thiếu trong nội bộ Chi nhánh với các Phòng giao dịch phụ thuộc.
+a)	Nếu Phòng giao dịch có mã cân đối riêng thì việc thanh toán, xử lý thừa thiếu như khoản 2 Điều này.
+b)	Trường họp Phòng giao dịch hoạt động trong cùng cân đối của Chi nhánh quản lý (mô hình Teller kéo dài), xử lý thừa thiếu như điểm b khoản 2 Điều này.
+Điều 57. Trình tự xử lý các trường hợp thừa (thiếu) tiền mặt, tài sản bảo quản trong kho tiền, quầy giao dịch, trên đường vận chuyển
+1.	Các trường hợp phát hiện thừa hoặc thiêu tiên mặt, tài sản trong kho tiên, quầy giao dịch, trong quá trình vận chuyển, Trưởng đơn vị phải quyết định kiểm kê toàn bộ tài sản có liên quan. Trưởng đon vị, Trưỏng phòng/bộ phận kế toán, Cán bộ kiểm tra, giám sát phải trực tiếp xem xét, kiểm tra, lập biên bản, ghi sổ sách và truy cứu trách nhiệm cá nhân của những người được giao nhiệm vụ bảo quản tài sản, trách nhiệm của những người có liên quan đê kịp thòi thu hôi toàn bộ giá trị tài sản thiếu, mất. ,<
+2.	Trường họp thừa tiên mặt, tài sản quý xử lý như sau:
+a)	Trường hợp đã xác định được nguyên nhân: Căn cứ vào biên bản có đầy đủ chữ ký của các thành phần tham gia, chứng từ có liên quan để hoàn trả lại cho khách hàng. Neu không hoàn trả được trong ngày, Đơn vị hạch toán vào tài khoản thừa quỹ, tài sản thừa chờ xử lý để theo dõi và xử lý khi khách hàng đến giao dịch.
+b)	Trường họp chưa xác định được nguyên nhân: Căn cứ vào biên bản có đầy đủ chữ ký của các thành phần tham gia, Đơn vị hạch toán trên tài khoản thừa quỹ, tài sản thừa chờ xử lý để theo dõi. Sau thời gian 06 tháng nếu vẫn chưa xác định được nguyên nhân, không có phản ánh của khách hàng.. .Đơn vị thành lập Hội đồng xử lý thừa quỹ, thành phần Hội đồng gồm: Trưởng đơn vị, Trưởng phòng/bộ phận kế toán, Cán bộ kiểm tra, giám sát và các thành phần khác có liên quan do Trường đơn vị quyết định để xử lý các khoản thừa quỹ nghiệp vụ.
+3.	Những vụ thiếu, mất tiền mặt, tài sản quý có giá trị tương đương từ 5 0.000.000 đồng (Năm mươi triệu đồng) trở lên phải báo cáo ngay về Trụ sở chính (qua Ban Tài chính Kế toán) và NHNN chi nhánh trong 24 giờ kể từ thời điểm 
+phát hiện thiếu, mất. Đối với thiếu, mất GTCG, ACQT đơn vị thực hiện ngay việc đăng ký tình trạng mất thẹo từng Seri GTCG, ACQT trên hệ thống IPCAS; đồng
+thời phải báo cáo về Trụ sở chính (qua đơn vị đầu mối); thông báo cho NHNN chi nhánh (nếu GTCG nhận từ NHNN) và các TCTD khác trên toàn quốc trong vòng
+24 giờ kể từ thời điểm phát hiện thiếu, mất.
+4.	Những vụ mất tiền mặt, tài sản có dấu hiệu do kẻ gian đột nhập lấy cắp, trộm cướp; do tham ô, lợi dụng (có dấu hiệu cấu thành tội phạm) phải giữ nguyên hiện trường, báo cáo cơ quan Công an và báo cáo khẩn về Chi nhánh cấp trên và
+Trụ sở chính.
+Điêu 58. Xử lý thiêu mât tiên mặt, tài sản do sơ xụât trong nghiệp vụ
+Trường hợp do sơ xuất trong giao nhận, kiểm đếm, bảo quản dẫn đến thiếu, mất tiền mặt, tài sản phải lập Biên bản quy trách nhiệm cá nhân về việc thiếu, mất tiền mặt, tài sản. Cá nhân chịu trách nhiệm trong Biên bản phải bồi thường toàn
+bộ thiệt hại và xử lý theo quy định của của pháp luật, NHNN và Agribank.
+Điều 59. Xử lý trường họp thiếu mất tiền mặt, tài sản do nguyên nhân chủ quan
+1.	Trưởng đơn vị và những người có trách nhiệm quản lý, giám sát, bảo quản an toàn tiền mặt, tài sản nếu không hoàn thành nhiệm vụ để xảy ra thiếu mất tiền mặt, tài sản trong kho quỹ hoặc để cán bộ thuộc quyền quản lý tham ô, lợi dụng, lấy cắp tài sản, thì bị xử lý kỷ luật theo quy định của pháp luật, NHNN và Agribank; nếu có liên đới trách nhiệm vật chất đến vụ thiếu mất tiền mặt, tài sản thì phải bồi thường hoặc phải chịu trách nhiệm theo quy định của pháp luật, NHNN và Agribank. ^ỉ
+2.	Đối với cán bộ, nhân viên làm công tác kho quỹ, nếu tham ô, lợi dụng lấy cắp tiền mặt, tài sản thì phải bồi thường 100% giá trị và buộc thôi việc hoặc phải chịu trách nhiệm theo quy định của pháp luật, NHNN và Agribank.
+Mục 3
+QUYEN LỢI CỦA CÁN BỘ KHO QUỸ,
+SỎ SÁCH VÀ BÁO CÁO AN TOÀN KHO QUỸ
+„sỉ„.
+Điêu 60. Quyên lợi của cán bộ kho quỹ
+1.	Những cán bộ, nhân viên làm nhiệm vụ quản lý, bảo quản, vận chuyển tiền mặt, tài sản và chiến sĩ Công an làm nhiệm vụ bảo vệ có thành tích xuất sắc,
+dũng cảm bảo vệ tài sản thì được khen thưởng.
+2.	Những cán bộ, nhân viên làm công tác kho quỹ quy định tại Quy định này được hưởng phụ cấp trách nhiệm; phụ cấp độc hại, nặng nhọc; bồi dưỡng độc hại
+  
+bằng hiện vật; trang bị phương tiện bảo vệ bản thân, trang bị bảo hộ lao động và các quyền lợi khác theo quy định của pháp luật, NHNN và Agribank.
+Điêu 61. Sô sách kho quỹ và mâu biêu
+1.	Danh mục sổ sách kho quỹ gồm 13 loại sổ quy định tại Phụ lục VI kèm
+theo Quy định này, trong đó:
+a)	Sổ sách kho quỹ in từ hệ thống IPCAS và các phần mềm Sổ 01/TTKQ đến sổ 03/TTKQ.
+b)	Sổ sách kho quỹ lập thủ công: từ sổ 04/TTKQ đến sổ 13/TTKQ.
+Đối với sổ sách kho quỹ in từ hệ thống IPCAS và các phần mềm hỗ trợ khác: Chi tiêt thực hiện theo hướng dân của Tông Giám đôc/Trung tâm Công nghệ thông tin.
+c)	Thống nhất sử dụng theo mẫu, màu thương hiệu, logo trên trang bìa cứng của sổ, quy định sử dụng và hướng dẫn ghi chép đối với từng loại sổ sách kho quỹ trong toàn hệ thống.
+2.	Danh mục mẫu biểu gồm 19 loại mẫu quy định tại Phụ lục VII kèm theo Quy định này.
+Điều 62. Báo cáo công tác an toàn kho quỹ
+Hàng năm, các đơn vị báo cáo công tác an toàn kho quỹ theo các nội dung sau:
+1.	Nội dung: Báo cáo vê tmh hình, kêt quả thực hiện, những tôn tại và hạn chê trong công tác an toàn kho quỹ theo Báo cáo công tác an toàn kho quỹ (Mau 19/rTKQ).
+2.	Cơ quan, đơn vị nhận báo cáo và thời hạn báo cáo:
+a)	Chi nhánh loại I, Đon vị đầu mối hoạt động ngân quỹ tổng họp báo cáo và gửi về Trụ sở chính trước ngày 25/12 của năm báo cáo; gửi NHNN chi nhánh trước ngày 01/01 năm liền kề sau năm báo cáo.
+b)	Trụ sở chính: Gửi báo cáo tổng kết toàn hệ thống Agribank về NHNN (qua Cục Phát hành và Kho quỹ) trước ngày 15/01 năm liền kề sau năm báo cáo.
+3.	Phương thức gửi, nhận báo cáo:
+a)	Báo cáo gửi về NHNN: báo cáo được lập thành văn bản giấy, gửi trực tiếp hoặc qua dịch vụ bưu chính.
+b)	Báo cáo gửi về Trụ sở chính: báo cáo được scan gửi theo đường dẫn nội bộ của Agribank (qua Ban Tài chính Ke toán).
+4.	Thời gian chôt sô liệu: từ ngày 15/12 năm trước kỳ báo cáo đên ngày 14/12 của kỳ báo cáo. kf 
+Chương V
+ĐIÈU KHOẢN THI HÀNH
+,
+Điêu 63. Hiệu lực thi hành
+1.	Quy định này có hiệu lực thi hành kể từ ngày 01/02/2025. Quy địnli số 4106/QĐ-NHNo-TTKQ ngày 29/12/2017 của Tổng Giám đốc về giao nhận, bảo quản, vận chuyển tiền mặt, tài sản quý, giấy tờ có giá và Quy định số 2555/QĐ- NHNo-TTKQ ngày 28/11/2018, Quy định số 2868/QyĐ-NHNo-TTKQ ngày 28/12/2021, Quy định số 2398/QyĐ-NHNo-TCKT ngay 06/10/2023 của Tong Giám đốc về sửa đổi, bổ sung Quyết định sô 4106/QĐ-NHNo-TTKQ ngày 29/12/2017 của Tổng Giám đốc quy định về giao nhận, bảo quản, vận chuyển tiền mặt, tài sản quý, giấy tờ có giá hết hiệu lực thi hành.
+2.	Việc sửa đổi, bổ sung, thay thế Quy định này do Tống Giám đốc quyết định.
+3.	Những nội dung khác không quy định cụ thê trong Quy định này được thực hiện theo quy định của Thông tư số 01/2014/TT-NHNN và các văn bản sửa đối bổ sung, hướng dẫn thực hiện Thông tư số 01/2014/TT-NHNN.
+4.	Trong trường hợp NHNN và Agribank có những quy định mới liên quan đến nội dung trong quy định này mà Quy định này chưa được sửa đổi, bổ sung, chấm dứt hiệu lực thi hành thì đương nhiên áp dụng theo các quy định mới đó.
+5.	Trưởng các đơn vị có liên quan tại Trụ sở chính, Trưởng Văn phòng đại diện, Đơn vị sự nghiệp, Giám đốc Chi nhánh và các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quy định này./.^-^ẢT
+Nơi nhận:
+-	Như khoản 5 Điều 63 (để thực hiện);
+-	Cục PHKQ-NHNN (để báo cáo);
+-	Hội đồng thành viên (để báo cáo);
+-	Ban Kiểm soát;
+-	Tổng Giám đốc (để báo cáo);
+-	Các Phó TGĐ (để phối họp chỉ đạo);
+-	Ke toán trưởng; 
+47	/
+MỤC LỤC	^y
+Phần I. QUY ĐỊNH CHUNG		1
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng	1
+Điều 2. Giải thích từ ngữ và viết tắt	  2
+Phần II. QUY ĐỊNH CỤ THỂ	4
+Chương I. KIỂM ĐẾM, ĐÓNG GÓI VÀ GIAO NHẬN TIỀN MẶT	4
+TÀI SẢN QUÝ, GIẤY TỜ CÓ GIÁ, ẨN CHỈ QUAN TRỌNG, TÀI SẢN KHAC	4
+Mục 1. ĐÓNG GÓI, NIÊM PHONG TIỀN MẶT, TÀI SẢN QUÝ, GIẤY TỜ CÓ GIÁ.... 4	s
+TA' A A TA .	, . . A ,	. X	- y . ,	,	. , . ,
+Điêu 3. Đóng gói, niêm phong tiên mặt, tài sản quý, giây tờ có giá	4	TH
+Mục 2. KIỂM ĐẾM VÀ GIAO NHẬN TIỀN MẶT, NGOẠI TỆ TIỀN MẶT, GIẤY TỜ
+CÓ GIÁ, ẤN CHỈ QUAN TRỌNG, TÀI SẢN KHÁC 	4
+Điêu 4. Nguyên tăc thu, chi tiên mặt, ngoại tệ tiên mặt, giây tờ có giá	4
+Điều 5. Bảng kê các loại tiền thu, chi	5
+Điều 6. Kiểm đếm tiền mặt, ngoại tệ tiền mặt, giấy tờ có giá, ấn chỉ quan trọng	6
+Điều 7. Thu, chi tiền mặt, ngoại tệ tiền mặt với khách hàng	6
+Điều 8. Giao nhận tiền mặt trong ngành Ngân hàng	7
+Điều 9. Kiểm đếm tiền mặt giao nhận trong ngành Ngân hàng	7
+Điều 10. Giao nhận ngoại tệ tiền mặt, giấy tờ có giá, ấn chỉ quan trọng	9
+Điều 11. Giao nhận tài sản bảo đảm, tài sản giữ hộ	9
+Chương II. BẢO QUẢN TIỀN MẶT, TÀI SẢN	10
+Mục 1. SẮP XẾP, BẢO QUẢN TIỀN MẶT, TÀI SẢN TẠI QUẦY GIAO DỊCH VÀ
+TRONG KHO TIÊN	.....:	  ’......	:	10
+Điều 12. Sắp xếp, bảo quản tiền mặt, tài sản tại quầy giao dịch và trong kho tiền	10
+Điều 13. Bảo quản tài sản khi thực hiện các dịch vụ ngân quỹ khác	13
+Mục 2. QUẢN LÝ TIỀN MẶT, TÀI SẢN VÀ KHO TIỀN	13
+Điều 14. Trách nhiệm của Trưởng đơn vị	13
+Điều 15. Trách nhiệm của Trưởng phòng/bộ phận kế toán	15
+Điều 16. Trách nhiệm của Thủ kho tiền	17
+Điều 17. Trách nhiệm cửa Thủ quỹ, Thủ quỹ chính, Giao dịch viền, Giao dịch viên quỹ . 18 .	z	, '.A	,	A
+Điêu 18. Trách nhiệm của Kiêm ngân	19
+Điều 19. Tiêu chuẩn chức danh cán bệ làm công tác tiền tệ kho quỹ	19
+Điêu 20. Các trường họp không được bô trí làm cán bộ quản lý kho quỹ của Agribank 	            2	... .20
+  
+
+Điều 21. Ban quản lý kho tiền	
+Điều 22. Ban quản lý ATM và quản lý ATM
+Điều 23. Quy định về ủy quyền, thay thế của các thành viên tham gia quản lý tiền mặt, tài sản và kho tiền	23
+Mục 3. SỬ DỤNG VÀ BẢO QUẢN CHÌA KHOÁ KHO TIỀN, KÉT SẮT	25
+Điều 24. Quản lý, niêm phong, bảo quản, gửi chìa khóa kho tiền, gian kho, gian đệm, két sắt, tủ sắt, thùng xe chở tiền	25
+Điều 25. Bàn giao chìa khoá cửa kho tiền, két ATM, két sắt 03 ổ khó:
+Điều 26. Mở hộp chìa khóa dự phỏng	
+Điều 27. Sửa chữa thay thế khoá cửa kho tiền, két sắt	
+tiền, két sắt	
+Điều 29. Trách nhiệm bảo mật chìa khoá cửa kho tiền, két sắt	 Điều 30. Xử lý khi làm mất, lộ bí mật chìa khoá, mã số cửa kho tiền, két sắt Điều 31. Xử lý cửa kho tiền trong trường hợp khẩn cấp	 Mục 4. VÀO, RA KHO TIỀN 	 Điêu 32. Đôi tượng được vào kho tiên	 Điều 33. Các trường họp được vào kho tiền	 Điêu 34. Quy định vào, ra kho tiên	 Điêu 35. Kiêm tra trước khi vào, ra kho tiên	 Mục 5. CANH GÁC, BẢO VỆ KHO TIỀN, QUẦY GIAO DỊCH	 Điều 36. Nội quy kho tiền, quầy giao dịch tiền mặt	 Điều 37. Làm việc ngoài giờ tại trụ sở kiêm kho tiền	 Điều 38. Canh gác, bảo vệ	 Điều 39. Trách nhiệm của bảo vệ	 Chương III. VẬN CHUYÊN HÀNG ĐẶC BIỆT	 Điều 40. Quy trình vận chuyển	 Điều 41. Trách nhiệm tổ chức vận chuyển	 Điều 42. Giấy uỷ quyền vận chuyển hàng đặc biệt	 Điều 43. Phương tiện vận chuyển	 Điều 44. Đảm bảo bí mật thông tin vận chuyển			
+Điều 45. Đảm bảo an toàn trên đường vận chuyển	 Điêu 46. Phôi hợp bảo vệ hên tuyên đường vận chuyên	 Điều 47. Tổ chức tiếp nhận	 
+Điều 48. Lực lượng tham gia vận chuyển và trách nhiệm của người áp tải	
+Điều 49. Trách nhiệm bảo vệ vận chuyển	
+Điều 50. Trách nhiệm của người điều khiển phương tiện	
+Điều 51. Sổ sách theo dõi vận chuyển	37
+Chương IV. KIỂM TRA, KIÊM KÊ, BÀN GIAO, BÁO CÁO, xử LÝ THỪA THIẾU
+TIỀN MẶT, TÀI SẢN, SỔ SÁCH KHO QUỸ	37
+Mục 1. KIỂM TRA, KIÊM KÊ, BÀN GIAO HÈN MẶT, TÀI SẢN	37
+_ " ~, _ , , , A
+Điêu 52. Định kỳ kiêm tra, kiêm kê			37
+Điều 53. Nội dung, phương pháp kiểm ha, kiểm kê	38
+Điều 54. Bàn giao tiền mặt, tài sản	  39
+Điều 55. Hội đồng kiểm kê, Hội đồng kiểm đếm	40
+Mục 2. XỬ LÝ THỪA, THIỂU TIỀN MẶT, TÀI SẢN	42
+Điều 56. Xử lý thừa, thiếu tiền mặt, tài sản quý, giấy tờ có giá, ấn chỉ quan trọng trong
+khâu kiểm đếm, đóng gói	42
+Điều 57. Trình tự xử lý các trường họp thừa (thiếu) tiền mặt, tài sản bảo quản trong kho tiền, quầy giao dịch, trên đường vận chuyển	43
+Điều 58. Xử lý thiếu mất tiền mặt, tài sản do sơ xuất trong nghiệp vụ	44
+Điều 59. Xử lý trường hợp thiếu mất tiền mặt, tài sản do nguyên nhân chủ quan	44
+Mục 3. QUYỀN LỢI CỦA CÁN BỘ KHO QUỸ, SỔ SÁCH VÀ BÁO CÁO AN TOÀN
+KHO QUỸ			  44
+Điều 60. Quyền lợi của cán bộ kho quỹ	44
+Điều 61. Sổ sách kho quỹ và mẫu biểu	 45
+Điều 62. Báo cáo công tác an toàn kho quỹ	   45
+Chương V. ĐIỀU KHOẢN THI HÀNH	46
+Điều 63. Hiệu lực thi hành	46 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+DANH MỤC PHỤ LỤC
+(Kèm theo Quy định số 4-Ĩ&8 /QyĐ-NHNo-TCKT ngày2T/ẬƯZ024của Tống Giám đốc,
+STT	Tên phụ lục	Tiêu đê của phụ lục	
+1	Phụ lục I	Quy định đóng gói, niêm phong tiền mặt	
+2	Phụ lục II	Quy trình thu, chi tiền mặt với khách hàng ^	
+3	Phụ lục III	Quy trình thu tiền mặt theo túi niêm phong	
+4	Phụ lục IV	Quy trình gửi, nhận tiền mặt, tài sản tại kho tiền Chi nhánh khác trong hệ thống Agribank	
+5	Phụ lục V	Quản lý và bảo quản chìa khóa kho tiền, két sắt	
+6	Phụ lục VI	Danh mục sổ sách kho quỹ	
+7	Phụ lục VII	Danh mục mẫu biểu	
+			
+
+ 
+
+
+ 
+
+
+  
+Phụ lục I
+QUY ĐỊNH ĐÓNG GÓI, NIÊM PHONG TIỀN MẶT
+(Kèm theo Quy định sổ^&QyĐ-NHNo-TCKTngày^?/ị^/-ĩ^ủa Tổng Giám đốc)
+I. Đóng gói tiền mặt
+1.	Đóng gói tiền cotton
+a)	Đóng thếp tiền: 100 (một trăm) tờ tiền cotton cùng mệnh giá, đóng thành một thếp, thếp tiền được buộc bằng dây (đay, gai...) hoặc quấn băng giấy ở vị trí 1/3 chiều dài của thếp tiền.
+b)	Đóng bó tiền: Một bó tiền cotton gồm 10 (mười) thếp tiền cotton cùng mệnh giá, đặt 05 thếp có hàng dây buộc cùng phía và 05 thếp kia có hàng dây buộc phía đối diện, đóng bó tiền bằng dây sợi xe không có mối nối (sợi, đay, gai ...) được buộc 03 vòng ngang song song, cách đều và 1 vòng chạy giữa chiều dọc bó tiền (gọi là 03 ngang 01 dọc). Tại các điểm giao nhau giữa các dây, phải quấn vòng qua lại để giữ cho bó tiền chắc chan, nút buộc thắt hai đầu dây đặt trên bề mặt tờ lót niêm phong bó tiền.
+,	.	,) tờ tiền polymer cùng mệnh giá, đóng thành
+một thếp, quấn thếp tiền bằng băng giấy rộng 2-3 cm ở vị trí 1/3 chiều dài của
+thếp tiền và ở phía đối diện với mệnh giá tiền in bằng số. Giấy quấn tiền dùng loại giấy chuyên dùng có sẵn keo dán, dai, bền và thực hiện dán 02 đầu băng giấy khi đóng thếp tiền.
+c)	Đóng bó tiền: Một bó tiền polymer gồm 10 (mười) thếp tiền polymer cùng mệnh giá được đóng bó như đôi với tiên cotton, dùng 02 miêng bìa cứng (dày khoảng 0,5 mm), kích thước phù hợp với kích thước loại tiền để chặn giữ 02 mặt bó tiền.
+(i)	ơ mặt dán niêm phong: Đặt miêng bìa cứng trên mặt bó tiên, sau đó đặt tờ lót niêm phong lên trên bìa cứng, dán giấy niêm phong lên trên nút buộc bó tiền.
+(ii)	Ở mặt không dán niêm phong: Đặt miếng bìa cứng có ô trống định vị khớp đúng với vị trí in mệnh giá tiền bằng số để nhìn rõ mệnh giá bó tiền.
+3.	Đóng bao tiền
+' a) Một bao tiền gồm 20 (hai mươi) bó tiền cùng mệnh giá, cùng chất liệu, xếp các bó tiền thành khối hình hộp chữ nhật, miệng bao buộc thắt nút chặt hoặc gấp miệng và khâu kín. 
+b)	Chất liệu bao đóng tiền: Vải sợi bông loại tốt, dai, bền; may bằng loại chỉ tốt, chắc chắn, may dấu đường chỉ ở đáy và thành bao (không dùng bao nylon).
+c)	Môi loại tiên dùng một loại bao riêng (màu săc vải hoặc màu săc, sô đường sọc): Bao tiên Cotton, tiên kim loại: có các sọc liên, rộng khoảng 2,5- 3cm, song song cách đều. Bao tiền polymer có sọc đứt quãng.
+d)	Bao tiền mệnh giá lOOđ (có 01 sọc màu vàng), mệnh giá 200đ (có 02 sọc màu vàng), mệnh giá 500đ (có 03 sọc màu vàng).
+đ) Bao tiền mệnh giá l.OOOđ (có 01 sọc màu xanh), mệnh giá 2.000đ (có 02 sọc màu xanh), mệnh giá 5.000đ (có 03 sọc màu xanh).
+e)	Bao tiên mệnh giá lO.OOOđ (có 01 sọc màu đỏ), mệnh giá 20.000đ (có 02 sọc màu đỏ), mệnh giá 50.000đ (có 03 sọc màu đỏ).
+g)	Bao tiên mệnh giá lOO.OOOđ (có 01 sọc màu đen), mệnh giá 200.000đ (có 02 sọc màu đen), mệnh giá 500.000đ (có 03 sọc màu đen).
+4.	Đóng gói tiền kim loại
+a)	Đóng thỏi tiên kim loại: Một thỏi gôm 50 (năm mươi) miêng, dùng giây quấn tròn, giấu kín hai đầu giấy vào mép dọc thỏi hoặc dùng túi nilon chuyên
+b)	Đóng túi tiền kim loại: Một túi tiền kim loại gồm 1.000 (một nghìn) miếng tiền kim loại cùng mệnh giá, được đóng thành 20 (hai mươi) thỏi, dùng túi vải sợi bông loại tốt, dày (có the dùng vải bạt mỏng loại không phun sơn), may giấu các đường chỉ ở đáy và thành túi. sắp xếp các thỏi tiền kim loại thành hình khối, buộc thắt chặt miệng túi tiền và niêm phong, khi niêm phong túi tiền phải đặt thêm 01 tờ giấy niêm phong của túi tiền vào trong túi trước khi niêm phong, để xử lý các trường họp rách giấy niêm phong túi tiền.
+c)	Một thùng tiền kim loại gồm 10 (mười) túi tiền cùng mệnh giá.
+5.	Để tăng cường an toàn cho bó tiền, đơn vị có thể thêm dây buộc bó tiền trên mức quy định là 03 ngang, 02 dọc hoặc bảo quản bó tiền polymer trong túi nilon chuyên dùng (loại túi màu trắng, trong suốt, dai, mỏng, bền) có keo dính đặc biệt (khi dán kín chỉ sử dụng một lần). Có thể ứng dụng các thiết bị đóng bó tự động (sử dụng dây buộc, cách thức đóng bó theo công nghệ của thiết bị) nhưng phải đảm bảo an toàn cho thếp, bó tiền. Đơn vị phải thống nhất với NHNN và được NHNN chấp thuận về mẫu túi nilon, mẫu niêm phong để bảo quản bó tiền 
+11.	Niêm phong tiên mặt
+1.	Giấy niêm phong bó tiền của Agribank được quy định thống nhất là giấy mỏng màu trắng, mực in màu xanh Coban (được chấp thuận của NHNN), kích
+' 11 Ầ w	h 7 K 7 hA	X
+2.	Trên bê mặt tờ niêm phong bó, bao, túi, hộp, thùng tiên phải có đây đủ, rõ ràng các yếu tố: Tên đơn vị; loại tiền; số lượng (tờ, miếng, bó, túi) tiền; số tiền; họ tên và chữ ký của người kiểm đếm, đóng gói; ngày, tháng, năm đóng gói niêm ^ phong, (người kiểm đếm có thể sử dụng dấu họ tên để đóng trên niêm phong).
+a)	Giấy niêm phong bó tiền được dán trên tờ giấy lót và mối dây buộc thắt ^ nút 02 đầu dây của bó tiền, các nội dung trên giấy niêm phong phải dùng bút bi viết bằng tay, không được dùng bút chì, bút đỏ và mực dễ phai, không đánh máy, không photocopy, không scan.
+b)	Niêm phong túi, bao tiền dùng dây sợi se (không có mối nối) buộc thắt chặt miệng túi, bao (hoặc gấp miệng, khâu kín 02 lần qua lại, mũi khằu dầy, cách nhau 2 -3 cm) dán tờ niêm phong sát nút buộc miệng túi, bao tiền. Khi dán giấy niêm phong phải tách riêng cho 02 đầu dây cách nhau.
+c)	Niêm phong băng kẹp chì phải xuyên 02 đâu dây buộc qua bao (túi) và qua viên chì, phải tách riêng cho 02 đầu dây cách nhau, dán giấy niêm phong rồi mới kẹp chì, sau khi kẹp dấu hiệu của đơn vị phải nổi rõ trên mặt viên chì.
+3.	Người có họ tên, chữ ký trên giấy niêm phong phải chịu trách nhiệm về bó, túi, bao, hộp, thùng tiền do mình niêm phong.
+ 
+
+
+  
+Phụ lục II
+QUY TRÌNH THU, CHI TIỀN MẶT VỚI KHÁCH HÀNG
+(Kèm theo Quy định so^M/QyĐ-NHNo-TCKTngày^/ị^/^iủa Tổng Giám đổc)
+L Quy trình thu tiền mặt
+1.	Bước 1. Tiếp nhận yêu cầu
+a)	Giao dịch viên hướng dân khách hàng lập chứng từ nộp tiên theo mẫu in sẵn của Ngân hàng hoặc tiếp nhận xử lý chứng từ giao dịch của các Đon vị xử lý nghiệp vụ thuộc phạm vi thẩm quyền và hạn mức được phân cấp.
+b)	Giao dịch viên kiểm tra tính họp lệ, họp pháp của chứng từ; đối chiếu số	N
+tiền bằng số, bằng chữ ghi trên chứng từ phải khóp với số tiền bằng số, bằng chữ	R
+ghi trên bảng kê nộp tiền.
+c)	Giao dịch viên chuyển chứng từ cho Thủ quỹ/Thủ quỹ chính (đối với quầy giao dịch loại 1).
+2.	Bước 2. Thu tiền
+a)	Đối với quầy giao dịch loại 1:
+(i)	Thủ quỹ/Thủ quỹ chính căn cứ vào chứng từ thu tiền, kiểm tra sự khớp đúng giữa chứng từ và bảng kê nộp tiền về các nội dung: số tiền bằng số, bằng chữ.
+(ii)	Thủ quỹ/Thủ quỹ chính nhận tiền từ khách hàng, kiểm đếm theo điểm c mục này; sau khi thu đủ tiền, đóng dấu “Đã thu tiền”, xác nhận sổ quỹ trên hệ thống IPCAS và ký vào noi quy định trên chứng từ, chuyển chứng từ cho Giao dịch viên hạch toán kế toán.
+b)	Đối với quây giao dịch loại 2: Giao dịch viên thực hiện nhận, kiêm đêm theo điểm c mục này; sau khi thu đủ tiền, đóng dấu “Đã thu tiền” và ký vào nơi quy định trên chứng từ.
+c)	Nhận, kiểm đếm tiền:
+(i)	Nhận toàn bộ số tiền mặt từ khách hàng cùng một lúc gồm đủ các loại tiền theo bó (túi), thếp, tờ, miếng lẻ.
+(ii)	Mở bó (túi) tiền mặt kiểm đếm từng tờ (miếng) trước sự chứng kiến của khách hàng. Kiểm đếm, sắp xếp gọn gàng ngăn nắp theo từng mệnh giá và sắp xếp riêng tiền đủ tiêu chuẩn lưu thông, tiền không đủ tiêu chuẩn lưu thông. Đem
+loại nào xong loại đó và đánh dấu theo dõi trên bảng kê. Kiểm tra phát hiện tiền lẫn loại, tiền giả để xử lý kịp thời theo quy định. Neu có thừa, thiếu tiền phải xử lý như sau:
+(iii)	Trường hợp thừa, khách hàng nhận lại sô tiên thừa và ký xác nhận vào Sô theo dõi trả tiền thừa cho khách hàng (Sổ 12/TTKQ). 
+(iv)	Trường hợp thiếu, khách hàng phải nộp tiền vào cho đủ, nếu khách hàng không có đủ thì phải lập lại chứng từ nộp tiền và bảng kê theo số tiền thực tế ngân hàng đã nhận.
+d)	ii) Kiếm tra lại toàn bộ số tiền đã kiểm đếm đảm bảo tổng số tiền đã nhận của khách hàng khớp với bảng kê nộp theo từng loại tiền và chứng từ.
+e)	v) Toàn bộ số tiền đã thu xong phải bảo quản trong két sắt/tủ sắt theo quy định.
+3.	Bước 3. Xử ỉý giao dịch trên hệ thong ỈPCAS/chưcmg trình ứng dụng
+khác của Agribank:
+a)	Giao dịch viên nhập dữ liệu trên hệ thống IPCAS/chương trình ứng dụng khác của Agribank, ký và chuyển chứng từ cho Kiểm soát viên phê duyệt (nếu nghiệp vụ yêu cầu phải qua kiểm soát).
+b)	Giao dịch viên in chứng từ giao dịch (nếu cần), chuyển chứng từ cho khách hàng ký, đóng dấu “Đã thu tiền” trên chứng từ, chuyển Kiểm soát viên ký chứng từ giao dịch (nếu cần).
+II. Quy trình chi tiền mặt
+ỉ. Bước 1. Tiêp nhận yêu câu
+a)	Giao dịch viên nhận chứng từ từ khách hàng hoặc chứng từ giao dịch do các Đơn vị xử lý nghiệp vụ chuyển đến.
+b)	Giao dịch viên kiểm tra tính họp lệ, họp pháp của chứng từ.
+2.	Bước 2. Xử ỉý giao dịch trên hệ thống IPCAS/chương trình ứng dụng khác của Agribank.
+a)	Giao dịch viên xử lý giao dịch tại các phân hệ nghiệp vụ thích hợp trên hệ thống IPCAS/chương trình ứng dụng khác của Agribank, in chứng từ giao dịch (nếu cần), ký chứng từ và chuyển Kiểm soát viên phê duyệt (nếu cần).
+b)	Giao dịch viên chuyển chứng từ cho Thủ quỹ/Thủ quỹ chính chi tiền (đối với quầy giao dịch loại 1).
+3.	Bước 3. Chi tiền
+a)	Giao dịch viên/Thủ quỹ/Thủ quỹ chính chuẩn bị tiền đúng với số tiền trên chứng từ, lập bảng kê các loại tiền chi (Thủ quỹ/Thủ quỹ chính xác nhận sổ quỹ trên hệ thống IPCAS số tiền phải chi cho khách hàng).
+b)	Giao dịch viên/Thủ quỹ/Thủ quỹ chính chi tiền cho khách hàng và chứng kiến khách hàng kiểm đếm tiền. Yêu cầu khách hàng ký, ghi rõ họ tên vào chứng từ và bảng kê chi tiền.
+c)	Giao dịch viên/Thủ quỹ/Thủ quỹ chính đóng dấu “Đã chi tiền” lên chứng từ và bảng kê chi tiền.	Ặ 
+111.	Xử lý chứng từ
+1.	Lưu trữ chứng từ theo quy định.
+2.	Trả chứng từ cho khách hàng (liên 2 nếu có).
+IV. Trách nhiệm của các bên
+1. Trách nhiệm của Ngân hàng a) Khi thu tiền:
+p
+
+(i)	Mỗi món tiền thu, phải kiểm đếm, kiểm tra đảm bảo sự chính xác và chịu trách nhiệm về số tiền đã thu.
+(ii)	Không đê lân tiên đã kiêm đêm và tiên chưa kiêm đêm.
+(iii)	Khi phát hiện tiền giả phải lập biên bản thu giữ đồng thời hạch toán ngoại bảng để theo dõi và nộp NHNN.
+b) Khi chi tiên:
+
+(i) Mỗi món tiền chi, phải kiểm tra đảm bảo số tiền thực tế chi ra khớp đúng với chứng từ và chịu trách nhiệm về tính chính xác của số tiền đã chi. Tiền chi ra cho khách hàng phải là tiền đủ tiêu chuẩn lưu thông.
+(ii)	Yêu cầu khách hàng kiểm tra lại tiền, xác nhận đủ trước khi ra khỏi quầy giao dịch.
+(iii)	Ngân hàng bố trí phương tiện kiểm đếm, tạo điều kiện để khách hàng kiểm đếm được thuận tiện, đồng thời chứng kiến khách hàng kiểm đếm tiền; ngân hàng phải xé bỏ niêm phong đối với các bó tiền đã chi cho khách hàng.
+(iv)	Ngân hàng không chịu trách nhiệm xảy ra thiếu tiền khi khách hàng đã rời khỏi quầy giao dịch.
+2) Trách nhiệm của khách hàng
+a) Khi nộp tiên phải chứng kiên Ngân hàng kiêm đêm tờ.
+b)	Khi lĩnh tiền phải kiểm tra, xác nhận đủ số tiền trước khi ra khỏi quầy giao dịch.	^^
+c)	Phối hợp với Ngân hàng trong việc giải quyết, xử ký kịp thời các sai sót, nhầm lẫn, thừa, thiếu tiền phát sinh (nếu có).	4
+ 
+Phụ lục III
+QUY TRÌNH THU TIỀN MẶT THEO TÚI NIÊM PHONG
+(Kèm theo Quy định sổ^^QyĐ-NHNo-TCKT ngàyĩKAịí/^^ủa Tổng Giám đốc)
+I. QUY TRÌNH THU TIỀN MẶT THEO TÚI NIÊM PHONG xr	.
+. '	~		 ’	. , J> , ,	/
+1.	Khách hàng phải thực hiện đây đủ các thủ tục nộp tiên mặt vào Chi nhánh	1 ị
+theo quy định của Agribank.
+Khách hàng lập Giấy đề nghị thu tiền mặt theo túi niêm phong (Mầu 05/TTKQ), lựa chọn phưong thức cử người chứng kiến kiểm đếm hoặc ủy quyền cho Chi nhánh kiểm đếm.
+2.	Thủ quỹ chính nhận tiền theo bảng kê phân loại tiền của khách hàng. Nhận bó, đếm thếp trong bó, đối với tiền lẻ bó phải đếm lẻ thếp; lẻ tờ; lẻ miếng.	A
+3.	Thủ quỹ chính cùng khách hàng kiểm tra lại, xác nhận số tiền thu theo túi	'n
+niêm phong từng loại tiền và lập 02 liên Biên bản giao nhận tiền mặt theo túi niêm / phong (Mầu 06/TTKQ). Đồng thời Thủ quỹ chính ghi sổ theo dõi gửi thùng, hòm, túi niêm phong (Sổ 05/TTKQ).
+4.	Thủ quỹ chính chứng kiến khách hàng cho tiền vào túi theo bảng kê tiền. Túi đựng tiên là loại vải sợi bông loại tôt, dai, bên; may băng loại chỉ tôt, chăc chăn, không rách, may dấu đường chỉ ở đáy và thành bao (không dùng bao nylon). Việc niêm phong miệng túi phải do khách hàng thực hiện, có sự chứng kiến của Thủ quỹ
+chính. Khách hàng ghi rõ họ, tên, địa chỉ; ngày, tháng, năm và ký tên trên niêm phong. Giấy niêm phong túi tiền là loại giấy mỏng như giấy niêm phong tiền.
+5.	Đối chiếu số tiền thu theo túi niêm phong với giấy nộp tiền của khách hàng, nếu khớp đúng Thủ quỹ chính ký tên và đóng dấu “Đã thu tiền” lên giấy nộp tiền rồi chuyển cho Giao dịch viên hạch toán ghi Có vào tài khoản của khách hàng, đồng thời thực hiện phong tỏa số tiền đã ghi Có cho đến khi Chi nhánh hoàn thành xong việc kiểm đếm tiền.
+6.	Những túi tiền niêm phong được bảo quản trong kho tiền theo quy định hiện hành.
+7.	Ngày làm việc tiếp theo kể từ ngày nhận tiền theo túi niêm phong (trừ trường hợp có thỏa thuận khác với khách hàng), Chi nhánh phải tổ chức kiểm đếm (có sự chứng kiến hoặc ủy quyền bằng văn bản của khách hàng) theo quy định. Chi nhánh lập Biên bản kiểm đếm ghi nhận tình trạng túi niêm phong trước khi kiểm đếm và kết quả sau kiểm đếm làm cơ sở để xử lý thừa/thiếu với khách hàng (nếu có). <^^
+2
+.	.^
+8.	Xử lý thừa, thiếu tiền khi kiếm đêm
+Khi thực hiện kiêm đêm tiên thu theo túi niêm phong nêu phát sinh thừa, thiêu căn cứ Biên bản kiểm đếm, xử lý:
+a)	Nếu thừa:
+(1)	Trường hợp khách hàng cử người chứng kiến việc kiểm đếm: trả lại số tiền thừa cho khách hàng hoặc ghi Có vào tài khoản khách hàng đồng thời ghi sổ theo dõi trả tiền thừa cho khách hàng (Sổ 12/TTKQ).
+(iỉ) Trường họp khách hàng ủy quyền cho Chi nhánh kiểm đếm: ghi Có vào tài khoản khách hàng, in 02 liên chứng từ giao dịch (01 liên Giao dịch viên lưu, 01 liên trả cho khách hàng), đồng thòi ghi sổ theo dõi trả tiền thừa cho khách hàng (Sổ 12/TTKQ).
+b)	Neu thiếu tiền/tiền bị phá hủy/tiền giả, nghi giả/tiền lẫn loại.
+Chi nhánh thực hiện ghi Nợ vào tài khoản của khách hàng; đối với tiền giả, tiền nghi giả phải lập biên bản thu giữ theo quy định và ghi Sổ theo dõi thu giữ tiền giả (So 11/TTKQ).
+II. TRÁCH NHIỆM GIỮA HAI BÊN
+2
+1.	Đôi vói Chi nhánh
+a)	Bảo quản túi tiền niêm phong an toàn cho đến khi mở túi niêm phong kiểm đếm tờ/miếng theo quy định.
+b)	Trường hợp niêm phong túi tiền bị thay đổi trước khi mở túi niêm phong để kiểm đếm, nếu xảy ra thiếu tiền: Thủ quỹ chính phải chịu trách nhiệm về số tiền thiếu từ khi nhận túi niêm phong của khách hàng đế bảo quản trong kho tiền đến khi bàn giao cho Hội đồng kiếm đếm.
+c)	Thành lập Hội đồng kiểm đếm để tổ chức kiểm đếm tờ/miếng số tiền đã thu theo túi niêm phong theo đúng quy định và phải thông báo ngay kết quả kiểm đếm cho khách hàng biết.
+2.	Đối với khách hàng
+a)	Chấp hành đầy đủ các quy định trong quy trình giao nhận tiền mặt theo túi niêm phong trên đây.
+b)	Chấp hành thời hạn quy định chứng kiến việc Chi nhánh kiểm đếm tờ/miếng số tiền đã thu theo túi niêm phong. Neu tín nhiệm Chi nhánh, phải có văn bản ủy quyền cho Chi nhánh tổ chức kiểm đếm tiền.
+c)	c) Chịu trách nhiệm vật chất trong việc thừa, thiếu tiền khi Chi nhánh kiểm đếm tờ/miếng trong các bó tiền đã nhận theo niêm phong.
+(i)	Nếu thừa tiền, ký xác nhận trên Sổ theo dõi trả tiền thừa cho khách hàng (Sổ 12/TTKQ) của Chi nhánh.
+(ii)	Ký biên bản thu giữ tiền giả, tiền nghi giả theo quy định.	^-^^^ 
+Phụ lục IV
+QUY TRÌNH GỦÌ, NHẬN TIỀN MẶT, TÀI SẢN
+TẠI KHO TIỀN CHI NHÁNH KHÁC TRONG HỆ THÓNG AGRIBANK
+(Kèm theo Quy định số^^QyĐ-NHNo-TCKTngày^/Ạ^ỊM^ủa Tổng Giám đốc)
+1.	Trình tự thực hiện •	•	•
+2.	Tại Chi nhánh gửi a) Cuối ngày giao dịch
+Bước 1: Thực hiện kiểm kê tiền mặt, tài sản tồn quỹ thực tế, đối chiếu đảm bảo khớp đúng với sổ sách kế toán và sổ sách kho quỹ theo quy định. Lãnh đạo phòng Kế toán và Ngân quỹ, Thủ quỹ chính đưa toàn bộ tiền mặt, tài sản vào thùng/hòm tôn dưới sự chứng kiến của Giám đốc Chi nhánh. Tiền mặt, tài sản trong mỗi thùng/hòm phải khớp đúng với Bảng kê tiền mặt, tài sản trong thùng/hòm. Trên giấy niêm phong phải ghi thông tin số thứ tự thùng/hòm, ngày tháng năm gửi, cả 03 thành viên cùng thực hiện ký, ghi rõ họ tên trên giấy niêm phong, dán giấy niêm phong giữa thân và nắp thùng/hòm. Thùng/hòm có 02 ổ khóa chắc chắn do Lãnh đạo phòng Ke toán và Ngân quỹ, Thủ quỹ chính mỗi người quản lý 01 ổ khóa.
+Bước 2: Thủ quỹ chính lập Giấy đề nghị gửi tiền mặt, tài sản theo hình thức thùng/hòm niêm phong (Mầu 09/TTKQ); Lệnh điều chuyển kiêm giấy ủy quyền áp tải hàng đặc biệt (Mầu 03/TTKQ) trình Giám đốc ký duyệt, trong đó ủy quyền cho Lãnh đạo phòng Ke toán và Ngân quỹ là Tổ trưởng, Thủ quỹ chính là người áp tải.
+Bước 3: Tổ trưởng chịu trách nhiệm chính cùng các cán bộ có tên trong tổ vận chuyển hàng đặc biệt tổ chức bảo quản, giao nhận, áp tải, vận chuyển thùng/hòm niêm phong đến Chỉ nhánh nhận gửi đảm bảo tuyệt đối an toàn, bí mật thông tin theo quy định.
+b) Đầu ngày làm việc
+Bước ỉ: Thủ quỹ chính lập Giấy đề nghị giao lại thùng/hòm niêm phong (Mầu 10/TTKQ); Lệnh điều chuyển (Mầu 03/TTKQ) trình Giám đốc ký phê duyệt, trong đó ủy quyền cho Lãnh đạo phòng Ke toán và Ngân quỹ là Tố trưởng, Thủ quỹ chính là người áp tải, gửi Chi nhánh nhận gửi.
+Bước 2'. Lãnh đạo phòng Kế toán và Ngân quỹ, Thủ quỹ chính nhận lại và kiểm tra thùng/hòm đảm bảo còn nguyên niêm phong trước sự chứng kiến của các thành viên tham gia Ban quản lý kho tiền của Chi nhánh nhận gửi và tổ chức vận chuyển về trụ sở Chi nhánh gửi theo đúng quy định. 
+3.	Tại Chi nhánh nhận gửi
+a)	Cuối ngày giao dịch:
+Bước r. Tiếp nhận Giấy đề nghị (Mầu 09/TTKQ), Lệnh điều chuyển (Mầu 03/TTKQ) của Chi nhánh gửi; các thành viên Ban quản lý kho tiền nhận và kiểm tra tình trạng thùng/hòm niêm phong; xác nhận đối chiếu với thông tin đã đăng ký: họ tên, chữ ký, mẫu dấu, chức danh, giấy tờ tùy thân của người gửi thùng/hòm niêm phong.
+Bước 2: Neu khớp đúng, thực hiện lập Biên bản giao nhận thùng/hòm niêm phong (Mầu 11/TTKQ) và nhập kho thùng/hòm niêm phong; theo dõi tại chức năng nhập tài sản khác trên phần mềm quản lý tài sản (AMS); giao 01 liên Phiếu nhập kho và 01 liên Biên bản giao nhận cho Chi nhánh gửi.
+b)	Đầu ngày làm việc:
+Bước 1: Tiếp nhận Giấy đề nghị (Mầu 10/TTKQ); Lệnh điều chuyển (Mầu 03/TTKQ) của Chi nhánh gửi; các thành viên Ban quản lý kho tiền xác nhận đối chiếu với thông tin đã đăng ký: họ tên, chữ ký, mẫu dấu, chức danh, giấy tờ tùy thân của người nhận thùng/hòm niêm phong.
+Bước 2: Neu khóp đúng, thực hiện xuất kho trên phần mềm quản lý tài sản (AMS); lập Biên bản giao nhận (Mau 11/TTKQ) và bàn giao thùng/hòm niêm phong và trả 01 liên Phiếu xuất kho và 01 liên Biên bản giao nhận cho Chi nhánh gửi.
+11.	Trách nhiệm của các bên
+1.	Trách nhiệm của Chi nhánh gửi
+a)	Cung cấp đầy đủ, kịp thời cho Chi nhánh nhận gửi các thông tin sau: mẫu dấu của đon vị, danh sách họ tên, chức vụ, mẫu chữ ký, giấy tờ tùy thân còn hiệu lực, số điện thoại liên hệ của Lãnh đạo đơn vị và các cán bộ có nhiệm vụ gửi, nhận thùng/hòm niêm phong.
+b)	Chịu trách nhiệm về tính đầy đủ, chính xác đối với tiền mặt, tài sản trong thùng/hòm niêm phong.
+c)	Chịu trách nhiệm tô chức bảo quản, giao nhận, áp tải, vận chuyên thùng/hòm niêm phong đến Chi nhánh nhận gửi (và ngược lại) gửi đảm bảo tuyệt đối an toàn, bí mật theo quy định.
+d)	Phối hợp với đoàn kiểm tra hoặc các cấp có thẩm quyền trong việc thực hiện kiểm tra đột xuất tiền mặt, tài sản trong thùng/hòm niêm phong tại kho tiền ^ của Chi nhánh nhận gửi.	& 
+2.	Trách nhiệm của Chi nhánh nhận gửi
+Bảo quản thùng/hòm niêm phong của Chi nhánh gửi trong kho tiền, đảm bảo an toàn tuyệt đối tài sản của Chi nhánh gửi theo đúng quy định. Chịu trách nhiệm bồi thường 100% giá trị tài sản trong trường họp làm mất thùng/hòm niêm phong, hoặc không còn nguyên vẹn tem niêm phong (bị mất, rách, mờ, không xác định được nội dung ghi trên niêm phong) dẫn đến thiếu/mất tiền mặt, tài sản trong thùng/hòm niêm phong của Chi nhánh gửi.
+. .A	,
+3.	Trách nhiệm chung	ẩ
+4.	“ ,, . , “ , ,, , . . .		X
+Chi nhánh gửi và Chi nhánh nhận gửi chịu trách nhiệm phôi hợp chứng kiến, xác nhận nguyên nhân; lập, ký Biên bản xác nhận trong trường hợp bị mất ^ thùng/hòm niêm phong, hoặc không còn nguyên vẹn tem niêm phong (bị mất, ^ rách, mờ, không xác định được nội dung ghi trên niêm phong) dẫn đến thiếu/mất tiền mặt, tài sản trong thùng/hòm niêm phong. Cá nhân, tập thể có liên quan phải chịu hoàn toàn trách nhiệm nếu gây thiếu/mất tiền mặt, tài sản bảo quản trong thùng/hòm niêm phong theo quy định của pháp luật, NHNN và Agribank. ^^
+  
+Phụ lục V
+QUẢN LÝ VÀ BẢO QUẢN CHÌA KHÓA CỬA KHO TIỀN, KÉT SẤT (Kèm theo Quy định sổ hVoừQyĐ-NHNo-TCKT ngày &/&/MWfrủa Tổng Giám đốc)
+1.	BẢO QUẢN CHÌA KHÓA
+2.	Chìa khóa sử dụng hàng ngày
+a)	Chìa khóa cửa kho tiên
+(i)	Chìa khóa cửa kho tiền: từng thành viên giữ chìa khóa bảo quản trong két
+sắt riêng đặt tại nơi làm việc trong trụ sở cơ quan.
+(ii)	Mã sô cửa kho tiên: từng thành viên quản lý ô khóa sô tự đặt mã sô và ghi lại chính xác, dễ đọc lên giấy (phải ghi 02 đến 03 mã số để sử dụng hàng ngày và thay đổi thường xuyên); mã số được niêm phong trong 01 phong bì riêng và bảo quản tại két sắt cùng với chìa định vị đang dùng (đế tiện tra cứu khi quên mã số).
+Trường họp muốn sử dụng mã số khác ngoài các mã số đã được niêm phong, phải có văn bản được Trưởng đơn vị chấp thuận và phải làm thủ tục mở hộp chìa khóa dự phòng để thay mã số mới.
+b)	Chìa khóa gian kho, gian đệm, két sắt/tủ sắt, thùng xe chở tiền
+(i)	Chìa khóa của két sắt, tủ sắt của gian kho nào thì được để trong một hộp tôn nhỏ bảo quản ở một trong những két sắt đặt tại gian kho đó. Chìa khóa két sắt bảo quản hộp tôn được bảo quản như chìa khóa cửa kho tiền.
+(ii)	Chìa khóa cửa gian đệm do Lãnh đạo phòng/bộ phận kê toán/Tô trưởng tổ Ke toán và Ngân quỹ và Thủ kho tiền quản lý. Trường hợp gian đệm chỉ có một ổ khóa thì do Thủ kho tiền quản lý.
+(iii)	Chìa khóa thùng xe chở tiên do Lãnh đạo phòng/bộ phận kê toán/Phòng giao dịch giữ và giao cho người áp tải thực hiện nhiệm vụ theo Lệnh điều chuyển hàng đặc biệt. Sau khi hoàn thành nhiệm vụ, người áp tải phải bàn giao lại để bảo quản theo quy định. Neu có mã số phải thay đổi khi thay đổi người sử dụng.
+(iv)	Chìa khóa gian kho, gian đệm, két ATM, két sắt 03 0 khóa; két sắt/tủ sắt bảo quản tiền mặt, tài sản, thùng xe chở tiền: được bảo quản như chìa khóa đang dùng của cửa kho tiền.
+Cuối ngày làm việc, từng cá nhân giữ chìa khóa két sắt/tủ sắt bảo quản tiền mặt, tài sản phải tự niêm phong chìa khóa của mình và đưa chung vào 0l hộp tôn nhỏ khóa lại, gửi vào két sắt của Lãnh đạo phòng/bộ phận kế toán/Lãnh đạo Phòng giao dịch (chìa khóa hộp tôn giao cho một cán bộ có uy tín trong phòng giữ). Đơn vị có thể trang bị két sắt của phòng nghiệp vụ để bảo quản hộp tôn này (két này có 02 
+2	/
+ô khóa: 01 ô khóa do Lãnh đạo phòng/bộ phận kê toán, 01 ô khóa còn lại giao cho 01 cán bộ có uy tín trong phòng giữ).
+(v)	Việc giao nhận chìa khóa sử dụng hàng ngày phải ghi sổ theo dõi bàn giao chìa khóa sử dụng hàng ngày (Sổ 08/TTKQ).
+3.	Chìa khóa dự phòng
+a)	Chìa khóa dự phòng cửa kho tiên
+(i)	Niêm phong
+-	Chìa khóa định vị: từng thành viên giữ chìa khoá cửa kho tiền tự tay đưa chìa khóa của 0 khóa do mình quản lý vào phong bì/túi vải niêm phong lại.
+-	Khóa mã sô: từng thành viên quản lý ô khóa sô (kê cả người được ủy quyên) ghi lại từ 02 đến 03 mã số trùng với mã số đang sử dụng hàng ngày và làm thủ tục niêm phong như chìa khóa định vị.
+-	Trên niêm phong phải ghi đầy đủ các yếu tố: họ tên, chức vụ, ngày tháng
+năm, ký tên của thành viên; việc niêm phong của từng thành viên phải có sự chứng kiến của cán bộ kiểm tra, giám sát.
+(ii)	Cả ba thành viên giữ chìa khóa cửa kho tiền và cán bộ kiểm tra, giám sát chứng kiến việc đưa các phong bì/túi vải niêm phong (kèm theo Bảng kê ghi rõ, chính xác số lượng, số hiệu từng chìa khóa, họ và tên, chức vụ, ngày, tháng, năm niêm phong, ký tên) vào 01 hộp tôn khóa lại, lập Biên bản niêm phong hộp chìa khóa dự phòng cửa kho tiền (Mầu 07/TTKQ) và cùng ký tên trên niêm phong (niêm phong phải ghi rõ: tên đơn vị gửi, loại chìa khóa, ngày, tháng, năm niêm phong, họ và tên, chức vụ, ký tên).
+(iii)	Hộp bảo quản chìa khóa, mã số dự phòng (sau đây gọi là hộp chìa khóa dự phòng) cửa kho tiền có 02 ổ khóa. Giám đốc và Thủ kho tiền mỗi người quản lý một ổ khóa và bảo quản chìa khóa hộp này trong két sắt riêng đặt tại nơi làm
+việc trong trụ sở cơ quan.
+b)	Chìa khóa dự phòng gian kho, gian đệm, két sắt/tủ sắt, thùng xe chở tiền được niêm phong như sau:
+-	Đối với chìa khóa két sắt 03 ổ khóa (tại đơn vị không có kho tiền): thực hiện niêm phong như tiết (i), (ii) điểm a khoản 2 mục này (thay hộp tôn bằng phong bì/túi vải).
+-Đốivới chìa khóa két ATM: thực hiện niêm phong như tiết (i), (ii) điểm a khoản 2 mục này. Hộp chìa khóa dự phòng két ATM có 01 ổ khóa; chìa khóa hộp này do Trưởng Ban quản lý ATM bảo quản trong két sắt riêng đặt tại nơi làm việc trong trụ sở cơ quan. 
+-	Đối với chìa khóa cửa gian kho; gian đệm; két sắt/tủ sắt bảo quản tiền mặt, tài sản; thùng xe chở tiền: thực hiện niêm phong như tiết (i) điểm a khoản 2 mục này. Cán bộ kiếm tra, giám sát và thành viên giữ chìa khóa lập Biên bản niêm phong kiêm giao nhận chìa khóa dự phòng (Mầu 08/TTKQ).
+n. GỦT CHÌA KHÓA, MÃ SỐ Dự PHÒNG
+Sau khi niêm phong và lập Biên bản, hộp chìa khóa dự phòng được gửi bảo quản ngay trong ngày, cụ thể như sau:
+1.	Đối với hộp chìa khóa dự phòng cửa kho tiền
+(i)	Chi nhánh loại I và Đơn vị cung ứng dịch vụ ngân quỹ: gửi vào kho tiền NHNN chi nhánh; KBNN, TCTD khác hoặc Chi nhánh loại I khác cùng hệ thống Agribank trên cùng địa bàn.
+(ii)	Chi nhánh loại II: gửi vào kho tiền của Chi nhánh loại I quản lý. Trường hợp Chi nhánh loại II có nhu cầu gửi hộp chìa khóa dự phòng vào kho tiền tại KBNN, TCTD khác trên cùng địa bàn để xử lý kịp thời các nghiệp vụ an toàn kho quỹ, Giám đốc Chi nhánh loại II gửi vãn bản đề nghị và chỉ sau khi được Giám đốc Chi nhánh loại I quản lý chấp thuận, Chi nhánh loại II làm thủ tục và gửi hộp chìa khóa dự phòng theo quy định; sau đó, sao y biên bản niêm phong, biên bản giao nhận hộp chìa khóa dự phòng gửi về Chi nhánh loại I quản lý. Trường họp muốn nhận lại hộp chìa khóa dự phòng, Chi nhánh loại II làm thủ tục theo quy định và báo cáo bằng văn bản gửi Chi nhánh loại I.
+(iii)	Phòng giao dịch: gửi tại kho tiền của Chi nhánh quản lý.
+2.	Đối với hộp chìa khóa dự phòng két ATM: gửi tại kho tiền của đơn vị. Trường hợp không có kho tiền thì gửi vào kho tiền của Chi nhánh quản lý.
+3.	Đối với hộp/phong bì/túi vải niêm phong chìa khóa, mã số dự phòng két sắt 03 ổ khóa; cửa gian kho; gian đệm; két sắt/tủ sắt bảo quản tiền mặt, tài sản; thùng xe chở tiền: được bảo quản trong két sắt của Trưởng đơn vị đặt tại nơi làm việc trong trụ sở cơ quan.
+111.	THỦ TỤC GỦÌ NHẬN HỘP CHÌA KHÓA Dự PHÒNG CỬA KHO TIỀN
+1.	Giao nhận và tổ chức vận chuyển, bảo vệ hộp chìa khóa dự phòng cửa kho tiền phải thực hiện đúng quy định vận chuyến hàng đặc biệt. Giám đốc đơn vị gửi ký Lệnh điều chuyển kiêm giấy áp tải hàng đặc biệt (Mầu 03/TTKQ) trong đó ủy quyền cho 01 trong 02 thành viên tham gia giữ chìa khóa cửa kho tiền cùng với thành viên còn lại trực tiếp áp tải.
+2.	Đơn vị nhận căn cứ vào Giấy đề nghị, biên bản niêm phong hộp chìa khóa dự phòng cửa kho tiền, két ATM; biên bản giao nhận do đơn vị gửi lập để lập Phiếu nhập kho trên phần mềm quản lý tài sản (AMS); hạch toán ngoại bảng 01 đồng 
+đông/hộp chìa khóa dự phòng trên hệ thông IPCAS (TK 992001- tài sản khác giữ hộ), làm thủ tục giao nhận và trả 01 liên Phiếu nhập kho, Biên bản giao nhận cho Đơn vị gửi.
+3.	Đơn vị nhận gửi có trách nhiệm bảo quản an toàn, nguyên vẹn niêm phong
+hộp chìa khóa dự phòng cửa kho tiền trong kho tiền của đơn vị mình.
+4.	Giám đốc Chi nhánh quản lý chỉ đạo, kiểm tra định kỳ, đột xuất hồ sơ thủ tục liên quan đến việc gửi hộp chìa khóa dự phòng khóa cửa kho tiền của Chi
+nhánh loại II, Phòng giao dịch phụ thuộc. 
+
 
  
  
