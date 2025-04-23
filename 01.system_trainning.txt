@@ -1,143 +1,1394 @@
-Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là nhà nghiên cứu hoạt động ngân hàng , hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
-Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-Chồng Giỏi AI:
-Giúp Vợ Tăng 10x Khách Hàng
-Đăng ký NgayKhóa học dành cho:
-Các anh chồng muốn hỗ trợ vợ tìm kiếm khách hàng với công nghệ AI
-Giúp freelancer, nhà khởi nghiệp hay đang chuẩn bị khởi nghiệp vượt ngàn chông gai, bão tố để có lượng khách hàng dồi dào .
-Tăng gấp 10 lần khách hàng hiện tại bằng việc sử dụng AI và các nền tảng nocode thông minh nhất hiện nay (Chatgpt, Make.com, Airtable...) để tự động hóa tìm kiếm.
-Ps: Ai cũng có thể làm được kể cả khi bạn rất "dốt" về công nghệ
-Khóa Này Giúp Được Gì Cho Các Anh Chồng, Freelancer, Nhà Khởi Nghiệp Hay Đang Ấp Ủ Dự Án Khởi Nghiệp ?
-Tự động tạo video, hình ảnh, content, post lên các nền tảng như youtube, facebook, instagram, wordpress..hàng ngày hoàn toàn tự động theo lịch trình đã được cài đặt sẵn.
-Tự động lấy dữ liệu, nội dung video Youtube, TikTok bất kỳ link nào, xào nấu thành video của mình hoàn toàn tự động.
-Tự động tạo video với âm thanh là giọng đọc AI được huấn luyện từ giọng đọc thật của bạn.
-Video với nhân vật bất kỳ (có thể là chính bạn) - đưa nội dung - đọc giọng theo ý và khẩu hình khớp.
-Tạo hàng ngàn hình ảnh để tự động post facebook, website với thiết kế hình ảnh tùy biến những gì bạn mong muốn (logo, thiết kế... tất tần tật đều có thể tùy chỉnh).
-Nếu bạn có sẵn hình ảnh và video trên Google Drive, chương trình sẽ tự động truy cập vào Google Drive để lấy những tài liệu đó và tạo ra một video hoàn chỉnh. Bạn có thể tùy chỉnh video theo ý muốn của mình.
-Tạo mô tả, tiêu đề, hashtag cho video đăng Youtube, Facebook hoàn toàn tự động.
-Tự động cào dữ liệu bất kỳ website nào (cafef, báo online, tin tức....) chuyển đổi thành video trong vài phút
-Anh em dễ dàng tự tạo cho mình chương trình tự động hóa theo chính ý tưởng của chính mình để phục vụ công việc tìm kiếm khách hàng với chi phí 0 đồng.
-Chương Trình Có Gì Khác Biệt ? Tại Sao Anh Em Nên Chọn Chương Trình Này ?
-Vì tôi sẽ hướng dẫn anh em tạo các chương trình theo ý tưởng của chính anh em, vướng đâu gỡ đó. chớ không phải để anh em tự bơi.
-Cụ thể là:
-Anh em có ý tưởng trong công việc, tôi sẽ hướng dẫn qua zoom, zalo hoặc sẽ làm video cho anh em (giống kiểu livetream) từng bước tôi thực hiện việc tạo chương trình này rồi gởi anh em qua các nền tảng Nocode hoặc AI (rất dễ làm)
-Tôi là dân lập trình, không phải dân dạy làm giàu (Ceo lập trình tại pyan.vn), tôi rất mạnh về kỹ thuật, nên bất kỳ chương trình nào anh em muốn tự động tôi đều có thể hỗ trợ, không giống các thầy ngoài kia chỉ có thể hỗ trợ anh em rất hạn chế hoặc không hỗ trợ anh em tạo chương trình phục vụ công việc riêng của anh em (chỉ chung chung hoặc mặc kệ các bạn bơi)
-Tôi không hề dạy bạn về cách thức tìm kiếm khách hàng vì tôi không giỏi chuyện đó, nhưng đổi lại tôi có thể hướng dẫn anh em tạo bất kỳ chương trình nào vào công việc theo ý tưởng của chính anh em để tìm kiếm khách hàng (ý tưởng của anh em, tôi hướng dẫn)
-Anh em ra đề bài, mình hướng dẫn từng bước, từng bước...
-"Người giàu nói gì cũng đúng" nhưng có thể chỉ đúng với lĩnh vực của họ thôi.
-Vì mỗi nghành nghề sẽ có đặc trưng khách hàng khác nhau, không phải ai cũng giống ai đâu, vì vậy chúng ta phải có cách thức tự động hóa tìm kiếm khách hàng của riêng chúng ta, anh em nhé.
-"Công ty trách nhiệm một mình vợ tao"
-một mình "vợ tao" chiến từ sản xuất, marketing tới bán hàng, nhất là phần tìm kiếm khách hàng, quá cực.
-Anh em freelancer hay khởi nghiệp đều trải qua giai đoạn đầu đầy thử thách. Với nguồn tài chính hạn hẹp, hầu hết đều phải tự mình đảm nhận mọi thứ. Chính vì vậy, chương trình này tập trung giúp anh em tự động hóa quy trình tìm kiếm khách hàng, giải quyết một trong những khó khăn lớn nhất mà không cần thuê nhân viên.
-Bằng cách tận dụng các nền tảng no-code và AI hiện đại, anh em có thể tự tạo những công cụ tạo video, hình ảnh theo ý tưởng riêng, tối ưu hóa thời gian và công sức. Khóa học sẽ giúp anh em thiết lập hệ thống tự động tìm kiếm khách hàng tiềm năng, từ đó mang về nguồn khách dồi dào mà không phải đầu tư quá nhiều chi phí hoặc công sức. Đây chính là giải pháp hiệu quả để từng bước phát triển và mở rộng công việc kinh doanh.
-Đăng ký Ngay"Tôi làm công ăn lương nhưng có ý định ra ngoài vì CV quá chán"
-Nhưng ra ngoài thì quá nhiều vấn đề phải lo lắng ví dụ như bán hàng, sale, chăm sóc khách hàng... nhất là tìm khách hàng - tôi sợ !
-Anh em đang cảm thấy chán công việc hiện tại nhưng lại lo lắng về những thử thách khi khởi nghiệp, đặc biệt là việc tìm kiếm và chăm sóc khách hàng? Tại sao không thử xây dựng dự án riêng như một nghề tay trái trước, vẫn giữ công việc ổn định trong khi từng bước phát triển nền tảng kinh doanh của mình?
-Việc tìm kiếm khách hàng không còn quá khó khăn nếu anh em biết tận dụng các công cụ tự động hóa như Make.com và Airtable. Những nền tảng này giúp anh em tạo hệ thống tự động tìm kiếm và quản lý khách hàng – một yếu tố sống còn của kinh doanh – mà không cần phải đầu tư quá nhiều thời gian hay công sức. Với quy trình bán hàng và chăm sóc khách hàng tự động, anh em có thể tiết kiệm tối đa thời gian cho những nhiệm vụ quan trọng khác như phát triển sản phẩm và chiến lược kinh doanh, mà không phải làm mọi thứ thủ công.
-Hãy coi đây là cơ hội để vừa học hỏi vừa thử nghiệm, chuẩn bị cho bước chuyển đổi toàn thời gian khi dự án đã đủ vững mạnh. Nhờ công cụ hiện đại, anh em có thể xây dựng mạng lưới khách hàng ngay từ bây giờ, mở rộng cơ hội kinh doanh một cách hiệu quả mà không cần rời bỏ công việc hiện tại.
-Đừng để nỗi lo cản bước. Bắt đầu từ những bước nhỏ, vững vàng, với sự hỗ trợ của công nghệ để mở ra cánh cửa mới cho tương lai.
-"Tôi hiện đang bận rộn với công việc riêng, trong khi vợ tôi miệt mài với công việc kinh doanh. Nhìn thấy vợ vất vả, tôi cảm thấy không thể ngồi yên. Tôi muốn làm một điều gì đó để hỗ trợ vợ tìm kiếm khách hàng, giúp cô ấy giảm bớt gánh nặng và nâng cao hiệu quả công việc. Tham gia khóa học này không chỉ giúp tôi tự động hóa việc tìm kiếm khách hàng mà còn khiến tình yêu của chúng tôi trở nên thăng hoa hơn bao giờ hết. Hãy cùng tôi học hỏi, để mỗi ngày trôi qua, vợ tôi không chỉ cảm thấy nhẹ nhõm mà còn tự hào về người chồng biết chăm lo cho gia đình!"
-Chồng Giỏi AI: Giúp Vợ Tăng 10x Khách Hàng
-Ví Dụ Về Ứng Dụng Vào Công Việc
-(Các Template Này Có Trong Khóa Học, Anh Em Có Thể Phát Triển Thêm Hoặc Dùng Ngay)
-Tạo hàng ngàn video chỉ với một câu lệnh sau đó tự động post lên các nền tảng mạng xã hội như facebook, instagram, youtube, X... theo lịch hàng ngày, hàng tuần hay hàng tháng tùy chỉnh theo ý anh em
-Đăng ký NgayTự Động Cào Dữ Liệu Từ Video Triệu View YouTube, TikTok và Tạo Video Tương Tự Bằng AI
-Tự Động Tạo Hàng Loạt Hình Ảnh Sau Đó Post Fanpage hàng ngày Với Make
-Đăng ký NgayTự Động Tạo Video Theo Kịch Bản Có Sẵn Và Chọn Giọng Đọc
-Chỉ cần một câu lệnh trong Telegram, bạn đã có ngay nội dung và hình ảnh thương hiệu (đầy đủ logo, thiết kế đúng ý) đăng tự động lên fanpage
-Đăng ký NgayTự Động CMT Hình Ảnh Vào Bài Viết Trên Fanpage
-Nhập Bất Kỳ Link Website Và Một Video Sẽ Được Tạo Ra Từ Nội Dung Đó Bằng AI
-Đăng ký NgayTạo Hàng Trăm Video "nhét chữ vào mồm" Chỉ Trong Vài Phút
-Đăng ký NgayỨng Dụng Cho Bất Động Sản: Tự Động Hóa Tạo Video Từ Link Cafef.vn
-Đăng ký NgayGiải thích những điều cơ bản về Make.com và các nền tảng nocode liên quan.
-Chúng tôi sẽ hướng dẫn anh em các kỹ năng cần thiết để tạo ra các chương trình tự động hóa tùy chỉnh không cần kiến thức lập trình , ngay cả khi anh em là người mới bắt đầu.
-Ps: chúng tôi chỉ hướng dẫn anh em những điều cơ bản nhất để anh em bắt tay vào việc tạo chương trình theo ý tưởng anh em (trong quá trình anh em phát triển thì cần cái gì hãy học cái đó thôi )
-Các template có sẵn, anh em chỉ việc phát triển từ mẫu này
-Sử dụng các template có sẵn của chúng tôi để triển khai vào công việc hay mục đích riêng của anh em . Chỉ cần kết nối tài khoản, làm theo video hướng dẫn và anh em đã có thể bắt đầu sử dụng. anh em bị vướng hay muốn phát triển thêm chúng tôi sẽ hỗ trợ anh em 24/7 , vướng thì gỡ thôi.
-Đăng ký NgayCác Template khác Cũng Được Sử dụng Trong Khóa học
-Các Template này có thể được tải lên Make.com và kết nối với ứng dụng của anh em chỉ trong vài phút.
-Giải Pháp Tự Động Hóa Fanpage: Hàng Trăm Hình Ảnh, Video, Đăng Bài Mỗi Ngày Không Cần Tốn Công!
-"Tôi cần nhiều video, hình ảnh để đăng lên fanpage thường xuyên, nhưng việc chuẩn bị và đăng bài mỗi ngày tốn quá nhiều thời gian. Vì vậy, tôi đã phát triển một chương trình có khả năng tự động tạo ra hàng trăm hình ảnh, video khác nhau và tự động đăng lên fanpage hàng ngày, theo lịch sẵn có. Nhờ đó, fanpage luôn được cập nhật nội dung đều đặn mà không cần tốn nhiều công sức quản lý thủ công."
-Tự Động Hóa Sản Xuất Video Với Giọng Đọc Cá Nhân Hóa Hoặc Tùy Chọn Giọng Đọc
-"Với chỉ một cú nhấp chuột, tôi có thể biến kịch bản có sẵn thành video hoàn chỉnh, với giọng đọc tùy chỉnh theo sở thích của mình (hoặc giọng đọc được mô phỏng từ chính giọng của tôi). Sau chỉ vài phút, video hoàn hảo mà tôi cần sẽ được tạo ra một cách nhanh chóng và chính xác."
-"Bot Tự Động Đăng Bài - Quản Lý Fanpage và YouTube Dễ Dàng Chỉ Trong 1 Chạm!"
-"Tôi là một nhà khởi nghiệp, thường xuyên chạy quảng cáo Facebook và quản lý nhiều fanpage, đồng thời phát triển kênh YouTube. Vì không có thời gian để vừa đăng video lên YouTube vừa quản lý 10 fanpage cùng lúc, tôi đã tạo ra một bot có thể tự động đăng lên YouTube và đồng thời chia sẻ lên hàng chục fanpage của mình hàng ngày. Bạn cũng có thể dễ dàng làm điều này thông qua template từ khóa học của tôi."
-"Tự Động Cào Dữ Liệu và Chuyển Đổi Thành Video Chuyên Nghiệp Chỉ Trong Vài Phút"
-"Với chương trình này, tôi có thể tự động thu thập dữ liệu từ bất kỳ trang web nào, bao gồm các trang tin tức như Cafef, báo online, hoặc các nguồn tin tức khác, và chuyển đổi chúng thành video chuyên nghiệp chỉ trong vài phút"
-Tóm lại anh em dễ dàng tạo ra các ứng dụng riêng để phục vụ mục đích cá nhân hay công việc theo ý tưởng của chính anh em chỉ trong vài phút với các template (mẫu) chúng tôi cung cấp sẵn, dĩ nhiên anh em có thể phát triển thêm hoặc tạo ra cái mới tùy theo mục đích của anh em và chúng tôi sẽ từng bước hướng dẫn các anh em.
-Và hàng trăm template khác, anh em chỉ cài đặt mất vài phút là sử dụng ngay và liền.
-Mỗi Chương trình đều có video hướng dẫn thiết lập chi tiết.
-"Những mẫu template này có thể được sử dụng ngay lập tức, tuy nhiên, có thể không hoàn toàn phù hợp với nhu cầu cụ thể của bạn. Bạn có thể tùy chỉnh và phát triển thêm dựa trên những gì đã có. Nếu gặp khó khăn, chúng tôi luôn sẵn sàng hỗ trợ bạn khi vướng thông qua zalo và zoom"
-Cứ ứng dụng vào công việc đi, vướng thì gỡ
-Alo anh em ! Quên phương pháp học truyền thống nhàm chán đi, vì giờ đây đã có một cách học mới, thực tế và hiệu quả hơn, dành riêng cho anh em chúng ta, đó là cứ tạo chương trình theo ý tưởng của anh em ngay và liền, vướng thì gỡ thôi, không học lan man trên trời dưới biển nữa. Anh em sẽ thấy được kết quả ngay lập tức, từ đó có động lực học tập hơn. Làm thật nhiều chương trình , anh em sẽ dần nắm vững và tự tin hơn.
-Thực Dụng, Thực Tế Và Thực Chiến Đi Anh Em
-Cách Thức Học Tập Hoàn Toàn Khác Biệt
-Cứ ứng dụng vào công việc đi, vướng thì gỡ
-Đầu tiên anh em học qua video trước, giúp anh em nhanh chóng cài đặt và làm quen vớiMake.com, Airtable, Chatgpt…(linh hoạt thời gian, muốn học khi nào thì học).
-Tiếp theo ứng dụng ngay vào công việc của chính bản thân : Học theo phương châm "Cứ ứng dụng vào công việc, vướng thì gỡ". Anh em sẽ áp dụng ngay những gì học được để tạo chương trình theo ý tưởng của chính mình muốn viết để tự động hóa công việc tìm kiếm khách hàng, vướng đâu gỡ đó (hướng dẫn anh em qua zalo, video và zoom, ultraview) miễn sao noàn thành được chương trình chính anh em muốn.
-Học qua video cực kỳ nhàm chán anh em ạ, mới đầu anh em có thể học xung lắm nhưng chỉ học vài video là anh em bị tuột mood hết muốn học,
-Còn học trực tuyến cũng không sáng sủa gì hơn, chúng ta đi làm rồi, không có thời gian đâu mà anh em chúng ta ngồi bị tra tấn cả mấy tiếng lận, chưa kể nhiều khi còn không biết thầy đang "chém" gì nữa.
-Vậy tại sao anh em không chiến luôn dự án của anh em , chúng ta chỉ học những cái chúng ta cần trong công việc, vướng thì gỡ thôi, còn mấy cái "sàm sàm" khác chưa cần thiết thì dẹp sang một bên, kệ mợ đi, ta sẽ học những cái mà ta đang cần mà thôi.
-Đăng ký NgayGiải thích rõ hơn về việc hướng dẫn tạo chương trình theo ý tưởng của anh em (không giới hạn dự án):
-Gặp trực tuyến hoặc làm video hướng dẫn : Khi anh em có đề bài là chương trình muốn tạo, anh em có thể nhắn tin vào group zalo hoặc nhắn tin riêng cho GV, sau đó giảng viên sẽ làm video hướng dẫn tạo ra chương trình đó cho anh em hoặc gặp trực tiếp ZOOM để trao đổi (ưu tiên qua gặp qua zoom)
-"Chỉ Học Những Cái Chúng Ta Đang Cần, Còn Mấy Cái Khác Dẹp Sang Bên, Kệ Đi"
-Tự động hóa với AI là gì?
-"Tự động hóa với AI sẽ giúp anh em freelancer và nhà khởi nghiệp, hay chuẩn bị khởi nghiệp cải thiện quy trình làm việc, cuộc sống bằng cách kết nối các ứng dụng để mọi tác vụ diễn ra tự động, dù theo lịch hay được kích hoạt bởi sự kiện.
-Hãy tưởng tượng tất cả đều trôi chảy — dữ liệu tự động cập nhật, báo cáo tạo ra sẵn, bài đăng trên mạng xã hội cũng được hoàn thành — mà anh em không phải làm tay.
-Tự động hóa đã có từ lâu, nhưng với sự ra đời của các công cụ AI như ChatGPT, mọi thứ đã thay đổi. Giờ đây, anh em có thể ứng dụng AI vào công việc và cuộc sống một cách hiệu quả, dễ dàng hơn bao giờ hết."
-Đăng ký NgayAnh em đang khởi nghiệp hay chuẩn bị khởi nghiệp nếu anh em không áp dụng tự động hóa tìm kiếm khách hàng thì gần như chắc chắn anh em sẽ "đứt gánh giữa đường", giờ thế mạnh để cạnh tranh của anh em so với mấy ông "lão làng" chỉ có thể là áp dụng tự động hóa để tiết kiệm chi phí, thời gian trong quá trình tìm kiếm khách hàng mà thôi.
-Vậy, tôi là ai?
-Tôi NHUẦN và là người sáng lập PYAN và Thương hiệu Anh Lập Trình.
-Phương pháp giảng dạy là "Cứ ứng dụng vào công việc đi, vướng thì gỡ," nhấn mạnh việc thực hành trước, sau đó giải quyết vấn đề khi gặp phải. Phương pháp này khuyến khích học viên bắt đầu ngay với các tác vụ thực tế, dù chưa hiểu rõ lý thuyết, vì qua quá trình làm việc, lý thuyết sẽ dần dần sáng tỏ, kệ mợ mọi thứ đi.
-Tôi giúp bạn tạo ra các chương trình phục vụ công việc của chính các bạn mà không cần biết lập trình thông qua các nền tảng nổi tiếng nhất hiện nay như airtable và make.com...
-Phải nhấn mạnh rằng:
-Tôi không phải là chuyên gia dạy làm giàu, mà là người chuyên về tự động hóa công việc với AI.
-Tôi bắt đầu khởi nghiệp vào năm 2020, khi còn là một nhân viên văn phòng bình thường tại một công ty xây dựng. Công việc lặp đi lặp lại khiến tôi chán nản, và mặc dù đã có tuổi, tôi vẫn chưa từng được sếp cân nhắc vào những vị trí cao hơn. Điều đó khiến tôi cảm thấy ngại ngùng, đặc biệt là khi làm việc chung với các đồng nghiệp trẻ hơn, năng động hơn.
-Tôi hiểu rằng mình không thể mãi như thế. Thật lòng mà nói, nếu nghỉ rồi quay lại, chắc cũng chẳng có công ty nào chịu nhận tôi hoặc sẽ chỉ trả mức lương ngang với sinh viên mới ra trường. Vậy nên tôi quyết định liều một phen khởi nghiệp với tinh thần không còn đường lùi.
-Những khó khăn trong giai đoạn đầu khởi nghiệp
-Ban đầu, tôi gặp vô vàn khó khăn. Những câu hỏi liên tục xuất hiện trong đầu:
-Tại sao tôi học yếu?
-Tại sao khi làm việc tôi lại thấy chuyên môn của mình quá kém?
-Vì sao mãi không thấy sự phát triển nào?
-Rồi tôi nhận ra nguyên nhân: Tôi không phù hợp với cách học truyền thống. Chính lối học tập cũ kỹ đó đã kìm hãm sự phát triển của tôi. Thay vì tiếp tục mắc kẹt, tôi bắt đầu bứt phá với cách học mới:
-"Cứ ứng dụng vào công việc, vướng thì gỡ"
-Bước ngoặt cuộc đời
-Cuộc đời tôi gần như thay đổi 180 độ khi tôi áp dụng cách học này vào công việc và phát triển kỹ năng. Nhờ đó, tôi tự tin hơn, hiểu rõ hơn về năng lực của mình, và từng bước xây dựng được sự nghiệp riêng.
-Trong khóa học này, tôi sẽ chia sẻ với anh em chính những kinh nghiệm đó. Mỗi bài giảng, mỗi video sẽ là những hướng dẫn chi tiết, thực tế, giúp bạn tự động hóa công việc và nâng cao hiệu quả giống như cách tôi đã làm và rèn luyện cho anh em cách học mới vô cùng hiệu quả và thực dụng này.
-Nếu anh em muốn tìm hiểu thêm về tôi trước khi tham gia khóa học, hãy ghé thăm kênh YouTube và fanpage của tôi. Hy vọng những gì tôi chia sẻ sẽ giúp bạn tìm được con đường phát triển của riêng mình!
-Đăng ký NgayP.S: Giọng của tôi hơi nặng (gốc Nghệ An), có thể sẽ khó nghe với một số anh em. Tuy nhiên, tôi luôn nỗ lực bù đắp điểm yếu này bằng cách hỗ trợ anh em tối đa trong các dự án tự động hóa công việc và hướng dẫn các kỹ năng tự học, giúp anh em tự tin "bơi" mà không phải phụ thuộc vào tôi hay bất kỳ ai.
-Anh em có thể tham khảo một số video tôi hướng dẫn tự động hóa công việc tại kênh Youtube Hoặc Fanpage:
-"Ban đầu tôi nghĩ tự động hóa là thứ gì đó phức tạp. Nhưng khi áp dụng theo cách 'cứ làm đi, sai thì sửa', tôi đã thiết lập thành công hệ thống tìm kiếm và chăm sóc khách hàng. Kết quả là doanh số tăng 30% chỉ sau một tháng."
-Anh Huy – Chủ cửa hàng online
-Cảm Nhận Của Học Viên Đã Từng Học
-"Cách học này giúp tôi vượt qua nỗi sợ 'không biết thì làm sao'. Cứ làm đến đâu gỡ đến đó, và tôi đã tự động hóa việc quảng bá trên Facebook. Bánh bán chạy hơn, khách đặt hàng đều đặn mỗi ngày."
-Chị Mai – Chủ tiệm bánh:
-"Nhờ phương pháp 'vướng thì gỡ', tôi đã tạo được hệ thống tự động gửi báo giá cho khách hàng. Giờ đây, tôi không còn phải ngồi check email cả ngày mà vẫn có khách liên hệ thường xuyên."
-Anh Phú – Freelancer
-"Tôi rất thích cách học này. Ban đầu gặp lỗi hoặc khó khăn, nhưng mỗi lần gỡ được một vấn đề là tôi hiểu hơn về hệ thống. Giờ đây, tôi không cần thức khuya để trả lời tin nhắn khách nữa vì hệ thống tự động đã làm thay."
-Chị Thảo – Bán hàng mỹ phẩm online:
-"Tôi từng nghĩ mình không thể tự động hóa được quy trình marketing vì không biết nhiều về công nghệ. Nhưng nhờ phương pháp 'vướng thì gỡ', tôi đã tự động hóa việc chăm sóc khách hàng. Giờ đây, khách đến đông hơn mà tôi không cần phải lo quảng cáo mỗi ngày."
-Anh Nam –Chủ Doanh nghiệp nhỏ
-"Tôi bắt đầu bán thực phẩm hữu cơ vì muốn khởi nghiệp từ sớm, nhưng thời gian ở công ty khiến tôi khó tập trung. Nhờ khóa học này, tôi đã học cách tự động hóa quy trình bán hàng và chăm sóc khách hàng, giúp công việc kinh doanh vận hành trơn tru mà không ảnh hưởng đến công việc chính. Giờ đây, tôi thấy con đường khởi nghiệp khả thi hơn bao giờ hết."
-Anh Minh – Kỹ sư xây dựng, kinh doanh thực phẩm hữu cơ:
-Đăng ký NgayĐến bây giờ mà anh em vẫn chưa áp dụng AI vào công việc hay cuộc sống, có khi anh em đang sống nhầm thời đại
-Đừng trì hoãn ! Tham gia "Chồng Giỏi AI - Tự Động Hóa Video, Hình Ảnh Với AI " ngay hôm nay để tiết kiệm thời gian, tăng năng suất, và chinh phục công nghệ mà không cần viết một dòng code nào! Nắm bắt cơ hội để làm việc thông minh hơn, phát triển nhanh hơn và dẫn đầu cuộc chơi và đặc biệt là x10,x15 khách hàng hiện tại.
-Học phí khuyến mãi chỉ hôm nay : 1.520.000 VNĐ
-Các thầy ngoài kia họ dạy chung chung rồi để các bạn tự phát triển, còn tôi là dân kỹ thuật, tôi sẽ hướng dẫn anh em chương trình theo ý tưởng anh em muốn viết luôn (chương trình càng mất nhiều thời gian, càng thử thách tôi càng thích, càng làm càng khoái)
-Những câu hỏi thường gặp
-Tôi có cần phải trả phí cho bên thứ ba nào không?
-Điều này sẽ phụ thuộc vào số lượng tự động hóa bạn tạo. Bản thân Make.com miễn phí cho tối đa 1.000 hoạt động mỗi tháng. Tất cả các mô-đun có trong các mẫu đều có bản dùng thử miễn phí. Bạn có thể bắt đầu hoàn toàn miễn phí và có thể chọn trả phí đăng ký nhỏ nếu bạn nhận được nhiều lợi ích.
-Tôi có thể truy cập nội dung khóa học bằng cách nào?
-Chúng tôi sẽ gửi email cập nhật khi có nội dung mới.
-Tôi mới làm quen với tự động hóa, liệu giải pháp này có phù hợp với tôi không?
-Có, chắc chắn rồi. Không cần code và quá trình thiết lập tự động hóa dựa nhiều hơn vào logic và sự sáng tạo.
-Tôi có thể bán lại các template này không?
-Bạn không được phép bán lại các mẫu dưới dạng mẫu, nhưng bạn được phép sử dụng chúng cho chính mình hoặc triển khai chúng cho các doanh nghiệp khác. Bạn có thể tính phí cho bên thứ ba để triển khai các mẫu này cho họ.
-Tự Động Hóa Cuộc Sống Với AI
-Liên hệ
-contact@anhlaptrinh.vn
-0914972102
-Cứ ứng dụng vào công việc đi,
-vướng thì gỡ
-Lầu 5: Toà Nhà ST. MORITZ 1014 Phạm Văn Đồng, P, Thủ Đức, Thành phố Hồ Chí Minh
+Bạn đọc những thông bên dưới để trả lời các câu hỏi của tôi:
+
+  NGÂN HÀNG NÔNG NGHIỆP	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM	Độc lập - Tự do - Hạnh phúc
+CHI NHẢNH TỈNH HẢI DƯƠNG	:	:
+Số:335S/NHNo-HD-KT&NQ	Hải Đương, ngày 21 thảng 12 năm 2019
+V/v hướng dẫn thực hiện
+Quyết định 2668/QĐ-NHNo-TCKT
+ngày 11/12/2019.
+Kính gửi:
+-	Giám đốc Chi nhánh loại II;
+-	Trưởng phòng nghiệp vụ Agribank tỉnh.
+Căn cứ Quy chế tài chính của Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) ban hành kèm theo Quyết định số 1258/QĐ- HĐTV-TCKT ngày 30/11/2018 của Hội đồng thành viên Agribank;
+Căn cứ Quyết định 2668/QĐ-NHNo-TCKT ngày 11/12/2019 của Tổng Giám đốc Agribank về việc ban hành Quy định về chi tiêu nội bộ trong hệ thống Agribank;
+Căn cứ hoạt động kinh doanh thực tế tại Chi nhánh, Giám đốc Agribank Chi nhánh tỉnh Hải Dương hướng dẫn thực hiện như sau:
+A. QUY ĐỊNH CHUNG
+1.	Nguyên tắc và điều kiện thực hiện chi phí
+1.	Nguyên tắc
+-	Chấp hành nghiêm túc định mức, tiêu chuẩn và chế độ chi tiêu do Nhà nước, Agribank, Agribank Chi nhánh tỉnh Hải Dương quy định.
+-	Mức chi trong quy định này là mức chi toi đa (chưa bao gồm thuế giá trị gia tăng), Giám đốc đơn vị căn cứ vào điều kiện kinh doanh trên địa bàn, nội dung, tính chất của khoản chi, kết quả hoàn thành công việc, giá cả thị trường để quyết định mức chi cho phù hợp, hiệu quả trong phạm vi khả năng tài chính của đơn vị.
+-	Hạch toán đầy đủ, kịp thời, chính xác chi phí thực tế phát sinh có liên quan đến hoạt động kinh doanh theo quy định hiện hành về chế độ kế toán của Nhà nước và của Agribank.
+-	Hồ sơ, chứng từ làm cơ sở để hạch toán chi phí phải hợp lý, hợp lệ, hợp pháp theo quy định của Nhà nước và của Agribank.
+-	Chứng từ kế toán ghi nhận vào chi phí bắt buộc phải có đầy đủ 03 chứ ký: Người lập, Người kiểm soát, Người có thẩm quyền phê duyệt.
+-	Chứng từ gốc và tài liệu liên quan đến các khoản chi phải lưu kèm chứng từ < 
+kế toán và đóng vào Nhật ký chứng từ.
+-	Các khoản chi bằng tiền cho người lao động, các khoản thanh toán cho đối tác bên ngoài nếu thuộc đối tượng phải chịu thuế thu nhập cá nhân, thuế nhà thầu nước ngoài, đơn vị thực hiện khấu trừ theo quy định hiện hành.
+2.	Điều kiện:
++	Có đủ hóa đơn, chứng từ hợp lệ, hợp pháp theo quy định, mức thanh toán từ 200.000đ trở lên phải có hóa đơn tài chính theo quy định của Bộ tài chính.
++	Chi phí mua hàng hóa, dịch vụ không có hóa đơn, được phép lập Bảng kê thu mua hàng hóa, dịch vụ mua vào theo mẫu số 01/TNDN kèm theo Thông tư số 78/2014/TT-BTC) và phải có hóa đơn bán lẻ, giấy biên nhận ghi rõ: tên, địa chỉ, số CMT/Thẻ CCCD của người bán, mặt hàng,., trong các trường hợp:
++	Mua hàng hóa là nông, lâm, thủy sản của người sản xuất, đánh bắt trực tiếp bán ra;
++	Mua sản phẩm thủ công làm bằng đay, cói, tre, nứa, lá, song, mây, rơm, vỏ dừa, sọ dừa hoặc nguyên liệu tận dụng từ sản phẩm nông nghiệp của người sản xuất thủ công không kinh doanh trực tiếp bán ra;
++	Mua đất, đá, cát, sỏi của hộ, cá nhân tự khai thác trực tiếp bán ra;
++	Mua phế liệu của người trực tiếp thu nhặt;
++	Mua tài sản, dịch vụ của hộ, cá nhân không kinh doanh trực tiếp bán ra;
++	Mua hàng hóa, dịch vụ của cá nhân, hộ kinh doanh (không bao gồm các trường hợp nêu trên) có mức doanh thu dưới ngưỡng doanh thu chịu thuế giá trị gia tăng (100 triệu đồng/năm).
+Bảng kê thu mua hàng hóa, dịch vụ do người đại diện theo pháp luật hoặc người được ủy quyền của đơn vị ký và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực. Các khoản chi phí này không bắt buộc phải có chứng từ thanh toán không dùng tiền mặt.
++	Các khoản thanh toán mua sắm hàng hóa, dịch vụ có giá trị từ 20.000.000đ trở lên/01 lần thanh toán (đã bao gồm thuế giá trị gia tăng) phải ký hợp đồng và thực hiện thanh toán bằng chuyển khoản; đơn vị tuyệt đối không được chia nhỏ để thanh toán bằng tiền mặt. Việc thanh toán cho đơn vị cung cấp hàng hóa, dịch vụ căn cứ vào hợp đồng, hóa đơn tài chính, biên bản nghiệm thu, thanh lý hợp đồng và các điều khoản thanh toán khác (nếu có).
+Trường hợp thanh toán cho đơn vị cung cấp hàng hóa dịch vụ có giá trị dưới 20.000.000đ (đã bao gồm thuế giá trị gia tăng) hoặc đơn vị chọn mua hàng tại siêu
+thị thì không nhất thiết phải có báo giá, không nhất thiết phải thành lập tổ mua sắm. Trường hợp nội dung mua sắm đa dạng, phức tạp, yêu cầu gắn trách nhiệm của bên cung cấp để đảm bảo yêu cầu về chất lượng hàng hóa, dịch vụ cung ứng, đơn vị vẫn phải thực hiện ký hợp đồng với bên cung cấp. Hạn chế tối đa hình thức thanh toán bằng tiền mặt.
++	Đối với khoản chi thanh toán theo hình thức khoán, đơn vị được ghi nhận vào tài khoản chi phí thích hợp khi có đủ hồ sơ tài liệu liên quan theo quy định, không cần xuất trình hóa đơn.
+11.	Ke hoạch chi phí quản lý
+-	Agribank tỉnh giao chỉ tiêu kế hoạch chi phí quản lý hàng năm đến Chi nhánh loại II để tổ chức thực hiện. Trường hợp đặc biệt, Agribank tỉnh có thể phê duyệt từng khoản chi đối với từng đơn vị.
+-	Các khoản chi của đơn vị phải thực hiện trong phạm vi chỉ tiêu kế hoạch chi phí quản lý được Agribank tỉnh giao trong năm tài chính.
+8.	QUY ĐỊNH cụ THẺ
+1.	Công tác phí trong nước
+2.	Đối tượng:
+Cán bộ của các đơn vị trực thuộc Agribank Chi nhánh tỉnh Hải Dương thực hiện nhiệm vụ công tác theo phân công của người có thẩm quyền.
+3.	Các khoản chi và thời gian được hưởng công tác phí:
+2.1.	Công tác phí là khoản chỉ phí đơn vị trả cho cán bộ đi công tác, bao gồm:
+-	Tiền phương tiện đi lại, bao gồm cả cước hành lý, tài liệu mang theo để làm việc (nếu có);
+-	Phụ cấp lưu trú;
+-	Tiền thuê phòng nghỉ nơi đến công tác.
+2.2.	Thời gian được hưởng công tác phí là thời gian công tác thực tế theo văn bản phê duyệt của người có thẩm quyền cử đi công tác hoặc giấy mời tham gia đoàn công tác (bao gồm cả ngày nghỉ, lễ, tết theo lịch trình công tác, thòi gian đi đường).
+3.	Những trường hợp không được thanh toán công tác phí:
+-	Trong thời gian điều trị, điều dưỡng tại cơ sở y tế, nhà điều dưỡng, dưỡng sức;
+-	Những ngày học ở trường, lóp đào tạo tập trung dài hạn, ngắn hạn đã được hưởng chế độ đối với cán bộ tham gia hoạt động đào tạo (Theo quy định tại Mục IV văn bản này); .
+-	Những ngày làm việc riêng, đi du lịch trong thời gian đi công tác;
+-	Những ngày được giao nhiệm vụ thường trú hoặc biệt phái tại đơn vị, tổ chức kinh tế (pháp nhân khác), cơ quan khác theo Quyết định của cấp có thẩm quyền.
+4.	Nguyên tắc chi công tác phí:
+-	Người có thẩm quyền (Trưởng đơn vị) xem xét nội dung, tính chất, khối lượng công việc để quyết định sổ lượng cán bộ và thời gian, phương tiện đi công tắc bảo đảm hiệu quả và tiết kiệm chi phí; quy định đổi tượng, phân công công việc cụ thể cho cán bộ để khoán công tác phí.
+-	Đơn vị cử cán bộ đi công tác có trách nhiệm thanh toán các khoản công tác phí cho cán bộ, trừ trường hợp quyết định cử cắn bộ đi công tắc của người có thẩm quyền ghi rõ đơn vị thanh toán công tắc phí.
+-	Trường hợp đơn vị nơi đến công tác đã thực hiện thanh toán tiền phương tiện đi lại, phòng nghỉ thì đơn vị cử cắn bộ đi công tác không được thanh toán các khoản chi này..
+-	Các trường hợp chi sai đối tượng, sai nội dung, chi nhiều lần cho một nội dung (tiền phòng nghỉ, tiền phương tiện đi lại) đơn vị phải thu hồi số tiền đã thanh toán và tùy theo mức độ vi phạm để xử lý kỷ luật cán bộ theo quy định của Agribank.
+5.	Nội dung và mức chi công tác phí:
+5.1.	Thanh toán tiền phương tiện đi công tác:
+a) Tiền thuê phương tiện đi công tác
+- Người đi công tác được thanh toán tiền thuê phương tiện đi lại, bao gồm:
++ Chi phí chiều đi và về từ trụ sở cơ quan đến sân bay, ga tàu, bến xe; vé máy bay, vé tàu, xe vận tải công cộng đến nơi công tác và theo chiều ngược lại.
++ Chi phí đi lại tại địa phương nơi đến công tắc: Từ chỗ nghỉ đến chỗ làm việc, từ sân bay, ga tàu, bến xe về nơi nghỉ (lượt đi và lượt về).
++ Cước, phí di chuyển bằng phương tiện đường bộ, đường thủy, đường biển cho bản thân và phương tiện của người đi công tác..
++ Cước chuyên chở tài liệu, thiết bị (nếu có) phục vụ trực tiếp cho chuyến đi công tắc mà người đi công tác đã chi trả.
++ Cước hành lý của người đi công tác bằng phương tiện máy bay trong trường hợp giá vé không bao gồm cước hành lý mang theo.
+Trường hợp đơn vị cử cán bộ đi công tác và đơn vị nơi cán bộ đến công tác bổ trí phương tiện vận chuyển thì cán bộ đi công tắc không được thanh toán các
+khoản chi phí này. Trường họp cán bộ tự thuê phương tiện đi lại thì phải bố trí số người trên xe phù họp với chặng đường đi, hạn chế mỗi người sử dụng một xe.
+- Mức thanh toán: Theo giá ghi trên vé, hoá đơn, chứng từ mua vé họp pháp theo quy định của pháp luật. Giá vé không bao gồm các chi phí dịch vụ khác như: Tham quan du lịch, các dịch vụ đặc biệt theo yêu cầu.
+Trường họp vé máy bay không bao gồm cước hành lý thì người đi công tác được thanh toán cước hành lý theo đơn giá cước hành lý của chuyến đi và khối lượng hành lý được thanh toán tối đa bằng khối lượng hành lý được mang theo của loại vé thông thường khác (là vé đã bao gồm cước hành lý mang theo).
+- Đối với những vùng không có phương tiện vận tải của tổ chức, cá nhân kinh doanh vận tải hành khách theo quy định của pháp luật mà người đi công tác phải thuê phương tiện vận tải khác thì đơn vị xem xét quyết định cho thanh toán tiền thuê phương tiện, trên cơ sở họp đồng thuê phương tiện (nếu có) hoặc giấy biên nhận với chủ phương tiện (có tính đến giá vận tải phương tiện khác đang thực hiện cùng thời điểm tại vùng đó cho phù họp).
+- Đối với các trường họp cơ quan không bố trí được xe đi công tác, nếu cán bộ tự túc bằng phương tiện cá nhân thì được cơ quan thanh toán khoán tiền tự túc phương tiện theo giá vé công cộng thông thường và phụ cấp thêm tiền khấu hao xe theo đơn giá khoán bằng 0,5 lần giá vé. Nếu cán bộ tự túc đi bằng phương tiện công cộng (xe khách, tàu) thì được thanh toán theo giá vé xe khách, vé tàu...
+Trường họp cán bộ đi công tác bằng phương tiện cá nhân tại tuyến đường không có phương tiện công cộng cố định (xe khách), không cung cấp được vé tại tuyến đường đó thì được thanh toán tiền tự túc phương tiện: 2.000đ/km.
+b) Tiêu chuẩn, mức gỉá vé máy bay đỉ công tác
+-	Cán bộ đi công tác được thanh toán tiền vé máy bay gồm:
++ Giám đốc, Phó Giám đốc Agribank Chi nhánh tỉnh Hải Dương.
++ Giám đốc, Phó Giám đốc Chi nhánh loại II.
++ Các đối tượng khác: Trong trường họp cần thiết hoặc do tính chất công việc, người có thẩm quyền quyết định phê duyệt cho cán bộ được cử đi công tác bằng phương tiện máy bay.
+-	Trên cơ sở phê duyệt của người có thẩm quyền, cán bộ phải đăng ký mua vé máy bay với bộ phận hành chính để thực hiện mua vé máy hạng ghế phổ thông, ưu tiên các hãng hàng không có mức giá cạnh tranh, chất lượng dịch vụ tốt.
+5.2.	Thanh toán tiền phụ cấp lưu trú:ý 
+a)	Phụ cấp lưu trú là khoản tiền đơn vị chi cho cán bộ đi công tác để hỗ trợ thêm cùng với tiền lương nhằm đảm bảo tiền ăn và tiêu vặt cho người đi công tác, được tính từ ngày bắt đầu đi công tác đến khi kết thúc đợt công tác trở về đơn vị (bao gồm: Thời gian đi trên đường, thời gian lưu trú (nghỉ qua đêm) tại nơi công tác).
+- Trường hợp đi công tác trong ngày; đi họp, đi hội nghị, đi tập huấn đã được hưởng chế độ hội nghị, tập huấn thì không được thanh toán phụ cấp lưu trú.
+b)	Mức phụ cấp lưu trú:
+-	Trường hợp đi công tác qua đêm: Mức phụ cấp lưu trú để trả cho người đi công tác 200.000 đồng/ngày/người.
+-	Cán bộ, viên chức ở đất liền được cử đi công tác tại đơn vị trên đảo thì được hưởng mức phụ cấp lưu trú 350.000 đồng/người/ngày thực tế đi biển, đảo (áp dụng cho cả những ngày làm việc trên đảo, những ngày đi, về trên biển).
+5.3.	Thanh toán tiền thuê phòng nghỉ tại noi đến công tác:
+-	Thuê phòng nghỉ khi đi công tác tại các quận thuộc Thành phố: Hà Nội, Hồ Chí Minh, Hải Phòng, cần Thơ, Đà Nằng; thành phố là đô thị loại I thuộc tỉnh: Được thanh toán mức giá thuê phòng ngủ tối đa là 1.100.000 đồng/ngày/phòng theo tiêu chuẩn 2 người/phòng;
+-	Tại các vùng còn lại: Được thanh toán mức giá thuê phòng ngủ tối đa là 800.000 đồng/ngày/phòng theo tiêu chuẩn 2 người/phòng.
+-	Trường hợp đi công tác một mình hoặc đoàn công tác có lẻ người hoặc lẻ người khác giới, thì được thuê phòng riêng theo mức giá thuê phòng thực tế nhưng tối đa không được vượt mức tiền thuê phòng của những người đi cùng đoàn (theo tiêu chuẩn 2 người/phòng).
+-	Thanh toán theo phương thức khoán: Trường hợp cán bộ đi công tác tự túc nhà nghỉ thì được thanh toán tiền theo mức khoán:
+-	Tại các quận thuộc Thành phố: Hà Nội, Hồ Chí Minh, Hải Phỏng, cần Thơ, Đà Nắng; thành phố là đô thị loại I thuộc tỉnh: Được thanh toán mức giá thuê phòng ngủ tối đa là 400.000 đồng/ngày/người.
+-	Tại các vùng còn lại: Được thanh toán mức giá thuê phỏng ngủ tối đa là 300.000 đồng/ngày/người.
+-	Trường hợp nghỉ tại nhà khách, nhà nghỉ của Agribank, nếu nhà khách, nhà nghỉ có thu tiền thì thanh toán theo hóa đơn thực tế, tối đa không quá định mức quy định trên.
+6.	Thủ tục thanh toán r ữ 
+6.1.	Hồ sơ thanh toán
+-	Giấy đề nghị thanh toán: Nội dung ghi đầy đủ các khoản chi kèm theo hóa đơn, chứng từ về tiền thuê phương tiện đi công tác, thuê phòng nghỉ, v.v... hoặc nội dung thanh toán theo phương thức khoán (thuê phòng nghỉ). Nếu chỉ thanh toán phụ cấp lưu trú thì không nhất thiết phải lập giấy đề nghị thanh toán.
+-	Quyết định của đơn vị cử cán bộ đi công tác hoặc theo chương trình (kế hoạch) công tác đã được người có thẩm quyền phê duyệt, giấy mời hoặc thông báo triệu tập về dự họp, hội nghị, học tập kinh nghiệm và các chương trình công tác khác.
+-	Giấy đi đường của người đi công tác ghi rõ ngày, tháng, năm, ký, đóng dấu của đơn vị cử cán bộ đi công tác và đóng dấu xác nhận ngày đến, ngày đi của đơn vị nơi cán bộ đến công tác (hoặc của khách sạn, nhà khách nơi lưu trú).
+-	Xác nhận ngày đi, ngày về trên giấy đi đường do Trưởng đơn vị ký.
+-	Tại nơi đến công tác: Bộ phận hành chính (hoặc nhà khách, khách sạn nơi lưu trú) ký xác nhận ngày đến, ngày đi trên giấy đi đường của cán bộ.
+Giấy đi đường có thể sử dụng cho nhiều đợt công tác; một đoàn công tác có thể sử dụng một Giấy đi đường kèm danh sách cán bộ để thanh toán công tác phí cho cả đoàn (Thông tin Tên cán bộ ghi Đoàn công tác theo Quyết định/Giấy mời số, v.v...).
+- Hoá đơn hoặc chứng từ hợp pháp, hợp lệ về phương tiện đi công tác:
++ Vé tàu xe, hóa đơn, biên lai, phiếu thu, v.v..., hoặc giấy biên nhận theo quy định tại Điểm5.1 kèm xác nhận không bố trí xe cơ quan tại đơn vị nơi đến công tác (có thể xác nhận trên giấy đi đường) và nơi cử cán bộ đi công tác. Riêng chứng từ thanh toán vé máy bay là hóa đơn (hoặc vé máy bay điện tử nếu thanh toán qua website thương mại điện tử) kèm thẻ lên máy bay (boarding pass).
++ Trường hợp phát sinh chi phí do hoàn/đổi vé, phải kèm theo văn bản xác nhận của Trưởng đơn vị lý do thay đổi.
++ Trường hợp cán bộ đi công tác bằng phương tiện máy bay, nếu thanh toán công tác phí không cùng bộ hồ sơ thanh toán vé máy bay, cán bộ photo thẻ lên máy bay lưu kèm giấy đi đường.
++ Trường hợp cán bộ tự túc bằng phương tiện cá nhân phải có xác nhận không bố trí xe cơ quan, bảng kê độ dài quãng đường đi công tác phù hợp với quãng đường, lịch trình công tác.
++ Hóa đơn hoặc chứng từ hợp pháp về tiền cước hành lý, tài liệu mang theo để làm việc (nếu có) có xác nhận của Trưởng đơn vị nơi cử cán bộ đi công tác/Trưởng đoàn công tác: Thanh toán theo hóa đơn cước của đơn vị vận tải.ỵ ứ 
++ Hoá đơn, chứng từ hợp pháp, hợp lệ về tiền thuê chỗ ở nơi đến công tác (nếu có). Báo giá phòng nghỉ áp dụng thanh toán theo Điểm 5.3.
++ Trường hợp cán bộ thanh toán tiền thuê phòng nghỉ nơi đến công tác hoặc thanh toán nhà nghỉ theo phương thức khoán, phải có xác nhận của nơi đến công tác về việc không bố trí nhà nghỉ cho cán bộ hoặc xác nhận của Trưởng đơn vị/Trưởng đoàn công tác (có thể xác nhận trên giấy đi đường) về việc cán bộ tự túc nhà nghỉ trong thời gian đi công tác.
++ Trường hợp đơn vị tổ chức đi học tập kinh nghiệm, hồ sơ thanh toán phải có báo cáo kết quả học tập của đoàn đi công tác có xác nhận của Trưởng đơn vị.
+6.2.	Thời điểm thanh toán:
+Tiền công tác phí cho cán bộ là khoản chi phí hợp lý trong năm tài chính của đơn vị, do vậy khoản chi phí này phải được thanh toán kịp thời ngay sau khi cán bộ hoàn thành chuyến công tác. Trường hợp cán bộ đi công tác vào những ngày cuối năm, đơn vị chỉ được thanh toán chậm nhất trong tháng 01 (một) năm sau liền kề.
+7.	Mức khoán công tác phí theo tháng (phương thức khoán)
+7.1.	Đối với cán bộ tín dụng
+a)	Đắi với cdn bộ phụ trách khách hàng hộ sản xuất và cả nhân: Múc khoán tiền gửi xe, xăng xe, khấu hao xe và phụ cấp công tác phí tối đa /người/tháng:
+-	Mức khoán tiền gửi xe, xăng xe, khấu hao xe: 450.000 đ/người/tháng.
+-	Mức khoán phụ cấp công tác phí: 630.000 đ/người/tháng.
+b)	Đổi với cán bộ phụ trách khách hàng doanh nghiệp: Mức thanh toán khoán tiền gửi xe, xăng xe, khấu hao xe và phụ cấp công tác phí tối đa bằng 80% mức khoán quy định tại Tiết a Điểm 7.1 Mục I vãn bản này.
+c)	Nguyên tẳc thanh toán:
+-	Mức khoán áp dụng đối với cán bộ trực tiếp đi địa bàn để thẩm định, cho vay, đôn đốc thu nợ, thu lãi và kiểm tra sử dụng vốn vay.
+-	Neu cán bộ hoàn thành từ 100% khối lượng công việc được giao khoán trở lên, áp dụng bằng 100% mức khoán theo quy định. Tỷ lệ % giảm dần tương ứng theo khối lượng công việc chưa hoàn thành.
+-	Đối với cán bộ phụ trách khách hàng hộ sản xuất và cá nhân, nếu hoàn thành từ 150% khối lượng công việc được giao khoán trở lên hoặc hoàn thành trên 100% khối lượng công việc giao khoán nếu quản lý từ 1.000 (một nghìn) khách hàng trở lên được áp dụng tối đa 130% mức khoán theo quy định. z 
+-	Cán bộ ở lại qua đêm phải có lý do hợp lý được người có thẩm quyền chấp thuận mới được thanh toán tiền thuê phòng nghỉ.
+-	Căn cứ vào mức độ hoàn thành các chỉ tiêu khoán công việc theo quy định khoán tiền lương của Agribank tỉnh và qui định khoán tiền lương tại đơn vị, các phòng nghiệp vụ (Khách hàng hộ sản xuất, khách hàng doanh nghiệp, Kế hoạch và kinh doanh) đề xuất mức chi, Giám đốc đơn vị quyết định mức chi cho phù họp đảm bảo khách quan, minh bạch, công bằng và không được vượt quá mức chi tại Điểm 7.1 vãn bản này.
+-	Trường hợp cán bộ chuyển công tác, cán bộ không thực hiện nhiệm vụ cho vay, chỉ tập trung thu nợ: Căn cứ vào kết quả thực tế và hiệu quả công tác của từng cán bộ, phòng nghiệp vụ đề xuất Giám đốc đơn vị quyết định mức chi cho phù hợp với tình hình chung của đơn vị nhung tối đa không quá 80% mức khoán tại Điểm 7.1 Mục I văn bản này.
+d)	Hồ sơ thanh toán:
+-	Giấy đề nghị thanh toán;
+-	Bảng giao chỉ tiêu khoán và quyết toán mức độ hoàn thành (Bao gồm: Chỉ tiêu giao khoán, mức độ hoàn thành...) được người có thẩm quyền phê duyệt;
+-	Danh sách chi tiền có số tài khoản (nếu chi bằng chuyển khoản), có ký nhận (nếu chi bằng tiền mặt);
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+7.2.	Đối với cán bộ dịch vụ Marketing trực tiếp đi tiếp thị
+a)	Mức thanh toán khoán tiền gửi xe, xăng xe, khấu hao xe và phụ cấp công tác phí tối đa bằng 650.000đ/người/tháng.
+b)	Nguyên tắc thanh toán:
+-	Mức khoán áp dụng đối với cán bộ trực tiếp đi địa bàn để tiếp thị, phát triển sản phẩm dịch vụ.
+-	Nếu cán bộ hoàn thành từ 100% khối lượng công việc được giao khoán trở lên, áp dụng bằng 100% mức khoán theo quy định. Tỷ lệ % giảm dần tương ứng theo khối lượng công việc chưa hoàn thành.
+-	Căn cứ vào mức độ hoàn thành các chỉ tiêu khoán công việc theo quy định khoán tiền lương của Agribank tỉnh và qui định khoán tiền lương tại đơn vị. phòng nghiệp vụ đề xuất mức chi, Giám đốc đơn vị quyết định mức chi cho phù họp đảm bảo khách quan, minh bạch, công bằng và không được vượt quá mức chi tại Tiết a Điểm 7.2 nêu trên. /7 
+c)	Hồ sơ thanh toán:
+-	Giấy đề nghị thanh toán;
+-	Bảng giao chỉ tiêu khoán và quyết toán mức độ hoàn thành (Bao gồm: Chỉ tiêu giao khoán, mức độ hoàn thành...) được người có thẩm quyền phê duyệt;
+-	Danh sách chi tiền có số tài khoản (nếu chi bằng chuyển khoản), có ký nhận (nếu chi bằng tiền mặt);
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+7.3.	Cán bộ thường xuyên đi công tác ngoài trụ sở (từ 10 ngày làm việc trong tháng trở lên) và đi về trong ngày bằng phương tiện cá nhân:
+-	Lãnh đạo phụ trách công tác tín dụng, dịch vụ marketing;
+-	Trưcmg (phó) phòng phụ trách công tác tín dụng;
+-	Trưởng (phó) phòng phụ trách công tác dịch vụ marketing;
+-	Cán bộ phòng Kiểm tra kiểm soát nội bộ thực hiện theo phân công của phòng;
+-	Cán bộ khác thường xuyên đi công tác lưu động (cán bộ được giao nhiệm vụ đi xử lý các trường hợp phát sinh liên quan đến máy ATM...).
+a)	Mức thanh toán: Trưởng đơn vị xem xét, quyết định đối tượng, mức khoán công tác phí phù hợp, đảm bảo quyền lợi của cán bộ: Tối đa 600.000 đồng/người/tháng (trong đó bao gồm: Khoán tiền gửi xe, xăng xe, khấu hao xe 3 50.000 đồng, phụ cấp công tác phí 250.000 đồng).
+-	Đối với cán bộ được giao nhiệm vụ thường xuyên đi xử lý các vấn đề liên quan đến máy ATM: Thời gian đi xử lý các trường hợp phát sinh liên quan đến máy ATM... trên 50% thời gian làm việc trong tháng: Mức chi 600.000 đồng/người/tháng.
+-	Đối với cán bộ được giao nhiệm vụ phối hợp đi xử lý các vấn đế liên quan đến máy ATM: Mức chi tối đa 300.000đ/người/tháng.
+-	Trường hợp đi công tác dưới 10 ngày làm việc trong tháng và đi về trong ngày bằng phương tiện cá nhân: thanh toán thực tế theo Tiết b Điểm 7.4 nhưng tối đa không quá 600.000 đồng/người/tháng.
+b)	Hồ sơ thanh toán:
+-	Đối với Lãnh đạo, Trưởng (phó) phòng phụ trách công tác tín dụng: Đề nghị thanh toán; Văn bản (tài liệu) phân công công việc cho cán bộ hoặc quyết định cử đi công tác (nếu có); Bảng chấm công (có xác nhận của lãnh đạo phụ trách); Danh sách chi tiền có số tài khoản (nếu chi bằng chuyển khoản), có ký nhận tiền (nếu chi bằng tiền mặt). f 
+-	Đối với Lãnh đạo, Trưởng (phó) phỏng Dịch vụ & Marketing; cán bộ khác thường xuyên đi công tác lưu động: Vãn bản (tài liệu) phân công công việc cho cán bộ hoặc quyết định cử đi công tác (nếu có); Tờ trình một lần hoặc bổ sung khi có thay đổi cử cán bộ đi xử lý thẻ; Bảng chấm công (có xác nhận của bộ phận phụ trách); Giấy đề nghị thanh toán; Danh sách chi tiền có số tài khoản (nếu chi bằng chuyển khoản), có ký nhận tiền (nếu chi bằng tiền mặt).
+-	Đối với cán bộ làm công tác Kiểm tra kiểm soát nội bộ: Đề nghị thanh toán; Văn bản (tài liệu) phân công công việc cho cán bộ hoặc quyết định cử đi công tác (nếu có); Bảng chấm công (có xác nhận của lãnh đạo phụ trách); Danh sách chi tiền có số tài khoản (nếu chi bằng chuyển khoản), có ký nhận tiền (nếu chi bằng tiền mặt).
+7.4.	Cán bộ đi công tác trong ngày (đi, về trong ngày)
+a)	Cán bộ tham gia điểm giao dịch lưu động bằng ô tô chuyên dùng:
+-	Mức khoán công tác phí tối đa 150.000 đồng/ngày/người.
+-	Cán bộ thuộc đối tượng khoán công tác phí tại Điểm 7.1, Điểm 7.2 Mục I nhưng trong tháng phải đi giao dịch tại điểm giao dịch lưu động bằng ô tô chuyên dùng thì được thanh toán công tác phí theo mức khoán thông thường (nếu hoàn thành nhiệm vụ theo quy định) và công tác phí khoán cho những ngày đi giao dịch lưu động.
+b)	Cán bộ khác đi công tác trong ngày và phải tự túc phương tiện cá nhân
+- Nếu khoảng cách nơi công tác cách trụ sở cơ quan dưới 20 km: Mức phụ cấp 50.000 đồng/ngày/người.
++ Nếu khoảng cách nơi công tác cách Trụ sở cơ quan từ 20 km đến dưới 40 km: Mức phụ cấp 70.000 đồng/ngày/người.
++ Neu khoảng cách nơi công tác cách Trụ sở cơ quan từ 40 km trở lên: Mức phụ cấp 100.000 đồng/ngày/người.
+Mức phụ cấp này không áp dụng đối với cán bộ thường xuyên đi công tác lưu động, đã áp dụng mức khoán công tác phí tại Điểm 7.1, Điểm 7.2, Điểm 7.3 Mục I nêu trên.
+c)	Hồ sơ thanh toán:
+-	Giấy đề nghị thanh toán;
+-	Quyết định của đơn vị cử cán bộ đi công tác hoặc theo chương trình (kế hoạch) công việc được người có thẩm quyền phê duyệt;
+-	Giấy đi đường ghi rõ các thông tin liên quan về địa điểm, thời gian, quãng 
+đường công tác. Trường hợp thực hiện nhiệm vụ được phân công mà không có xác nhận của nơi đến công tác thì phải có ý kiến xác nhận của trưởng bộ phận nơi quản lý cán bộ;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+7.5.	Trường hợp cán bộ thuộc đối tượng được hưởng công tác phí khoán theo Điểm 7.1, Điểm 7.2, Điểm 7.3, Điểm 7.4 Mục I nêu trên nhưng sử dụng xe cơ quan, không được thanh toán khoán tiền gửi xe, xăng xe, khấu hao xe.
+8. Đi công tác theo đoàn công tác phổi hợp liên ngành, liên cơ quan
+a)	Trường hợp theo yêu cầu công việc cần trưng tập cán bộ thuộc cơ quan, tổ chức khác để phối hợp công tác nhằm thực hiện nhiệm vụ của đơn vị thì đơn vị thanh toán toàn bộ chi phí cho đoàn công tác, bao gồm: Tiền tàu xe đi lại, cước hành lý, cước mang tài liệu, phụ cấp lưu trú, tiền thuê chỗ nghỉ tại nơi đến công tác theo mức quy định tại văn bản này.
+b)	Trường hợp đơn vị/Agribank cấp trên cử cán bộ đi công tác theo đoàn phối hợp liên ngành, liên cơ quan do cơ quan quản lý nhà nước cấp trên hoặc cơ quan, tổ chức khác triệu tập, trưng dụng hoặc phối hợp để cùng thực hiện các phần việc thuộc nhiệm vụ của mỗi cơ quan thì thực hiện theo quyết định trưng tập hoặc quyết định cử cán bộ đi công tác của Agribank.
+Cán bộ do Agribank cử đi công tác phối hợp liên ngành, liên cơ quan được hưởng quyền lợi như đi công tác theo chương trình của đơn vị, các khoản đã chi tại cơ quan, tổ chức trưng tập thì không được thanh toán tại Agribank.
+c)	Mức chi và thủ tục thanh toán: Theo quy định tại Điểm 5 và Điểm 6 Mục I văn bản này.
+II. Công tác phí nước ngoài
+1.	Đối tượng: Cán bộ được Agribank cử đi học tập, công tác (gọi tắt là công tác) ngắn hạn ở nước ngoài, thời gian ở nước ngoài tối đa 180 ngày cho một đợt công tác.
+2.	Điều kiện thanh toán công tác phí
+-	Quyết định cử đi công tác của Agribank;
+-	Thực hiện đúng lịch trình, nhiệm vụ được giao;
+-	Có đủ các chứng từ hợp pháp, hợp lệ.
+3.	Trường hợp không được thanh toán công tác phí
+-	Thời gian điều trị tại bệnh viện;
+-	Những ngày làm việc riêng trong thời gian đi công tác; ,
+-	Những ngày đi du lịch kết hợp trong chuyến công tác;
+-	Những ngày đi công tác quá thời gian ghi trong quyết định cử đi công tác mà không có phê duyệt bổ sung kéo dài thời gian của cấp có thẩm quyền;
+-	Khoản chi phí đã được phía nước ngoài, đối tác đài thọ.
+4.	Nội dung chi công tác phí
+4.1.	Khoản thanh toán cho cá nhân đi công tác
+a)	Tiền thuê phương tiện đi lại
+-	Tiền vé máy bay, vé tàu, vé xe từ Việt Nam đến nước công tác và ngược lại bao gồm cả vé máy bay, vé tàu xe của chặng đường trong nội địa nước đến công tác;
+-	Tiền thuê phương tiện từ cơ quan đến sân bay, ga tàu, bến xe, cửa khẩu và ngược lại khi đi công tác nước ngoài về (ở trong nước): Áp dụng mức chi theo chế độ quy định tại Điểm 5.1 Mục I văn bản này;
+-	Tiền thuê phương tiện từ sân bay, ga tàu, bến xe, cửa khẩu khi nhập cảnh đến nơi ở nước đến công tác và ngược lại khi xuất cảnh.
+b)	Tiền thuê phòng nghỉ ở nước đến công tác;
+c)	Tiền ãn và tiêu vặt ở nước đến công tác;
+d)	Lệ phí sân bay trong và ngoài nước (nếu có);
+e)	Lệ phí thị thực, lệ phí cấp hộ chiếu;
+f)	Tiền đóng góp tham gia (tham dự) hội nghị, hội thảo (bao gồm cả tiền mua tài liệu nếu có);
+g)	Tiền bảo hiểm y tế (chăm sóc sức khỏe);
+h)	Tiền chờ đợi tại sân bay;
+i)	Trường hợp được cử đi công tác nước ngoài nếu phải tập trung tại một địa điểm nhất định để cùng đi hoặc khi đi nước ngoài về mà không thể về nhà kịp trong ngày, đơn vị thanh toán tiền công tác phí theo chế độ đi công tác trong nước.
+4.2.	Khoản thanh toán chung cho đoàn công tác
+a)	Tiền cước hành lý, tài liệu mang theo phục vụ cho đợt công tác;
+b)	Tiền thuê phương tiện đi làm việc hàng ngày tại nước đến công tác; tiền thuê phương tiện trong trường hợp phải quá cảnh (theo hành trình công tác đã được phê duyệt);
+c)	Tiền điện thoại, fax, internet;
+d)	Tiền thuê dịch thuật: Chỉ thực hiện trong trường hợp Agribank không bố
+trí được cán bộ làm phiên dịch, dịch tài liệu;
+e)	Tiền chiêu đãi, mua quà tặng đối ngoại (nếu có).
+4.3.	Các khoăn thanh toán khác
+Đối với các đoàn công tác tham gia tổ chức hội nghị, hội thảo thì ngoài tiền công tác phí bảo đảm cho người đi công tác nước ngoài theo quy định tại Điểm 4.1, Điểm 4.2 nêu trên, trường hợp nếu có phát sinh các khoản chi phí thuê dịch vụ tổ chức sự kiện, thuê địa điểm thì phải lập dự toán khoản chi phí thuê và được người có thẩm quyền đồng ý và phê duyệt dự toán trước khi thực hiện làm căn cứ tạm ứng kinh phí. Việc xác định mức chi đối với các khoản chi phí này thực hiện như sau:
+a)	Đổi với chi phí thuê dịch vụ tổ chức sự kiện: Trường hợp thuê các đom vị trong nước có tư cách pháp nhân chuyên tổ chức hội thảo, hội nghị, sự kiện tại nước ngoài phải thực hiện theo quy định hiện hành của Nhà nước và Agribank về lựa chọn đom vị cung cấp dịch vụ. Trường hợp nếu thuê các đom vị ở nước ngoài tổ chức thì cần lập phưomg án so sánh với mức giá thuê các đom vị trong nước để quyết định giá thuê đảm bảo hiệu quả, tiết kiệm.
+b)	Đổi với khoản chi phí thuê địa điểm: Thanh toán theo hoá đom, chứng từ thuê thực tế phù hợp với lịch trình làm việc và căn cứ theo hợp đồng ký kết giữa Trưởng đoàn công tác với đom vị cung cấp dịch vụ; trưòmg hợp hoá đom, chứng từ bằng tiếng nước ngoài thì phải dịch ra tiếng Việt.
+4.4.	Thanh toán trọn gói
+a)	Trường hợp đì công tác nước ngoài do các tổ chức hoặc doanh nghiệp của Việt Nam hoặc nước ngoài tổ chức mà cán bộ được cử đi công tác phải thanh toán trọn gói thì chỉ được thanh toán tổng chi phí trọn gói theo những khoản thanh toán trực tiếp cho cá nhân hoặc cả đoàn đi công tác nước ngoài tối đa bằng định mức tiêu chuẩn theo Quy định này.
+b)	Các khoản thanh toán trọn gói nêu trên phải được người có thẩm quyền phê duyệt dự toán trước khi tổ chức đoàn công tác làm căn cứ tạm ứng và quyết toán kinh phí.
+4.5.	Thanh toán khoản chi đổi với trường hợp bên ngoài đài thọ
+a)	Nếu bên mời đài thọ toàn bộ chi phí cho chuyến đi thì người đi công tác không được thanh toán thêm bất kỳ chi phí nào khác.
+b)	Neu phía mời đài thọ một phần thì cán bộ được thanh toán phần còn lại theo quy định tại Điểm 7 Mục II vãn bản này.
+4.6.	Các khách mời tham gia đoàn công tác nước ngoài do Agribank tổ chức theo phê duyệt của người có thẩm quyền: Mức thanh toán được áp dụng như đối
+với cán bộ Agribank.
+5.	Thời gian đưực hưởng công tác phí
+5.1.	Thời gian công tác thực tế theo quyết định cử đi công tác nước ngoài của cấp có thẩm quyền.
+Trường hợp thời gian thực tế công tác ở nước ngoài ít hon thời gian ghi trong quyết định thì chỉ thanh toán thời gian thực tế công tác. Trường hợp thời gian thực tế công tác nhiều hon thời gian ghi trong quyết định thì chỉ được thanh toán thời gian kéo dài khi có phê duyệt bổ sung của cấp có thẩm quyền.
+5.2.	Thời gian đi đường, thời gian quá cảnh do nước đến công tác không có đường bay thẳng phải chờ đợi từ 24 tiếng trở lên để nối chuyến bay (nếu có), ngày lễ, ngày tết theo lịch trình công tác.
+5.3.	Thời gian chờ đợi: Là thời gian chờ đợi do khách quan tối đa 06 ngày (đến trước hoặc ở lại nước ngoài).
+6.	Loại ngoại tệ, tỷ giá áp dụng
+Loại ngoại tệ áp dụng trong việc xác định định mức, mức chi, tạm ứng và quyết toán đối với khoản chi tại nước ngoài là Đô la Mỹ (USD).
+6.1.	Trường hợp thực tế chi bằng ngoại tệ khác với USD sẽ được quy đổi trên cơ sở tổng số được chi tính bằng USD. Tỷ giá quy đổi giữa đồng USD và đồng ngoại tệ khác được căn cứ vào chứng từ đổi tiền hợp pháp của nước đến công tác, Trường hợp không có chứng từ tỷ giá quy đổi thì áp dụng tỷ giá quy đổi ra USD theo tỷ giá trung bình (mua và bán) của Agribank tại thời điểm đi công tác (tại ngày tạm ứng).
+6.2.	Trường hợp thanh toán bằng thẻ ở nước ngoài thì căn cứ vào bảng thanh toán trên sao kê kèm theo chứng từ gốc để thanh toán quy đổi sang USD theo tỷ giá trên bảng sao kê.
+7.	Định mức công tác phí
+7.1.	Thanh toán tiền phưong tiện đi lại
+a)	Quy định vé máy bay: Hạng ghế phổ thông
+b)	Vé tàu hoả, tàu bỉển và các phương tiện giao thông khác: Vé loại thường (ghế ngồi hoặc nằm).
+c)	Tiền thuê phương tiện từ sân bay, ga tàu, bến xe, cửa khẩu khi nhập cảnh đến nơi ở nước đến công tác và ngược ỉại khi xuất cảnh: Theo định mức các nhóm nước đến công tác tại Phụ lục 01 kèm theo Quy định này.
+d)	Tiền thuê phương tiện đi ỉàm việc hàng ngày tại nơi đển công tác: 
+Thanh toán theo hoá đơn thuê phương tiện thực tế nhưng không vượt quá 80 USD/người/nước đến công tác. Trường hợp một số nước kiểm soát vé phương tiện đi lại công cộng bằng điện tử không có cuống vé thì Trưởng đoàn công tác chịu trách nhiệm về việc kê khai vé theo thực tế phù hợp với lịch trình làm việc của đoàn làm căn cứ quyết toán nhưng không vượt quá 80 USD/người/nước.
+7.2.	Thanh toán tiền thuê phòng nghỉ
+a)	Thanh toán tiền thuê phòng nghỉ theo mức khoản: Theo định mức các nhóm nước đến công tác tại Phụ lục 01 kèm theo Quy định này.
+b)	Thanh toán theo hóa đơn thực tể: Đối với tiền thuê phòng nghỉ, nếu mức khoán không đủ chi, đơn vị thanh toán theo hóa đơn chứng từ thực tế phát sinh, tiêu chuẩn như sau:
+c)	Được thuê 2 người/1 phòng đôi loại phòng tiêu chuẩn (phòng Standard). Trường hợp người đi công tác một mình hoặc trường hợp đoàn công tác có lẻ người, lẻ người khác giới thì được thuê phòng riêng theo mức giá thuê phòng thực tế nhưng tối đa không vượt mức tiền thuê phòng của những người đi cùng đoàn (theo tiêu chuẩn 2 người/phòng).
+7.3.	Thanh toán tiền ăn và tiêu vặt
+a)	Tiền ăn và tiêu vặt được tính tối đa 02 lần theo định mức các nhóm nước đến công tác tại Phụ lục 01 kèm theo Quy định này.
+b)	Trường hựp đưực phía mời đài thọ toàn bộ các bữa ăn thì cán bộ được hưởng tiền tiêu vặt tối đa 50 USD/người/ngày.
+Mức khoán quy định tại Điểm 7.2, Điểm 7.3 Mục II nêu trên (tiền thuê phòng nghỉ, tiền ăn và tiêu vặt) được thanh toán 100% cho đợt công tác đến hết 30 ngày; thời gian công tác từ ngày thứ 31 đến hết ngày thứ 180 được hưởng 1/2 mức khoán.
+7.4.	Các khoản thanh toán khác
+a)	Tiền cước hành lý, tài liệu mang theo phục vụ cho các đoàn công tác: Thanh toán theo hóa đơn cước của hãng hàng không, nhưng tối đa 100 USD/1 đoàn công tác.
+b)	Tiền điện thoại, fax, internet: Thanh toán khoán theo đoàn công tác, Trưởng đoàn quyết định việc sử dụng để phục vụ công tác chung cho đoàn tại nước ngoài. Mức khoán 80 USD/1 đoàn công tác, riêng đối với các đoàn đàm phán song phương, đa phương mức khoán 250 USD/1 đoàn đàm phán.
+c)	Lệ phí sân bay trong vầ ngoài nước (nếu có): Thanh toán theo thực tế ghi trên chứng từ thu hoặc hoá đơn thu tiền. Ị 
+ả) Lệ phí Visa, ỉệ phỉ cấp hộ chiểu: Thanh toán theo phiếu thu hợp pháp của cơ quan lãnh sự trong và ngoài nước.
+e)	Tiền đóng góp tham gia (tham dự) hội nghị, hôi thảo (bao gồm cả tiền mua tài ỉiệu nếu có): Thanh toán theo hoá đơn thu tiền của phía nước ngoài tổ chức hội nghị, hội thảo (kể cả trường hợp thanh toán theo hợp đồng trọn gói).
+f)	Tiền bảo hiểm chăm sóc sức khỏe
+-	Phạm vi bảo hiểm: Căn cứ yêu cầu bắt buộc của nước mà cán bộ được cử đến công tác hoặc nhu cầu của đơn vị cử cán bộ đi công tác, đơn vị sẽ hỗ trợ khoản chi phí mua bảo hiểm chăm sóc sức khỏe cho cán bộ trong thời gian đi công tác ở nước ngoài với phạm vi bảo hiểm cơ bản sau đây:
+-	Chi phí y tế phát sinh trong quá trình điều trị do hậu quả của ốm đau, bệnh tật (loại trừ các bệnh có sẵn) hay tai nạn bất ngờ;
+-	Chi phí vận chuyển cấp cứu tại nước đang công tác;
+-	Chi phí hồi hương cán bộ trong trường hợp ốm đau, tai nạn khẩn cấp;
+-	Chi phí vận chuyển hồi hương thi hài trong trường hợp cán bộ không may bị tử vong;
+-	Mức hỗ trợ của đơn vị về chi phí mua bảo hiểm:
+-	Trường hợp đi công tác từ 90 ngày trở xuống: Được hỗ trợ tối đa 50 USD/người/chuyến công tác;
+-	Trường họp đi công tác trên 90 ngày đến 180 ngày: Được hỗ trợ tối đa 80 USD/người/chuyến công tác;
+-	Phương thức mua bảo hiểm: Cán bộ đi công tác ở nước ngoài có thể mua bảo hiểm tại các doanh nghiệp bảo hiểm được phép cung cấp dịch vụ bảo hiểm này tại Việt Nam.
+-	Phương thức thanh toán: Đơn vị sẽ thanh toán phí bảo hiểm cho cán bộ trên cơ sở chứng từ (biên lai thu phí hoặc giấy chứng nhận bảo hiểm đã được doanh nghiệp bảo hiểm cấp cho cán bộ) cho mỗi chuyến công tác.
+Trường hợp cán bộ mua bảo hiểm với phí bảo hiểm cao hơn mức hỗ trợ của đơn vị, chỉ được thanh toán tối đa bằng mức hỗ trợ, phần chênh lệch sẽ do cán bộ tự chi trả.
+-	Thanh toán chi phí vượt quá mức trách nhiệm bảo hiểm: Trường hợp chi phí y tế thực tế phát sinh vượt quá mức trách nhiệm trong hợp đồng bảo hiểm, đơn vị có cán bộ đi công tác tập hợp hồ sơ các khoản chi phí kèm theo chứng từ cần thiết để xem xét chi trả từng trường hợp cụ thể. 
+g)	Tiền chờ đợi tại sân bay: Căn cứ vào lịch bay, giờ bay được ghi trong vé để xác định thời gian chờ đợi tại sân bay do nối chuyến hoặc chuyển máy bay. Neu phải chờ từ 6 giờ trở lên thì được thanh toán tiền thuê phòng nghỉ tại sân bay trên cơ sở hoá đơn, chứng từ hợp lệ theo tiêu chuẩn thuê phòng nghỉ quy định tại Điểm 7.2 Mục II nêu trên.
+h)	Tiền thuê dịch thuật: Trường hợp đơn vị không bố trí được cán bộ Agribank làm phiên dịch, dịch tài liệu, Đoàn công tác có thể thuê dịch thuật từ trong nước đi hoặc có thể thuê tại nước đến công tác (để tiết kiệm chi phí phương tiện đi và về). Chi phí dịch thuật được thanh toán trọn gói như sau:
+-	Trường hợp thuê dịch thuật từ trong nước đi, thanh toán các khoản chi phí: Phương tiện đi lại, tiền ăn và tiêu vặt, tiền phòng nghỉ theo mức công tác phí như thành viên đoàn công tác; thù lao dịch thuật theo mức chi dịch thuật quy định tại Thông tư số 71/2018/TT-BTC ngày 10/8/2018 của Bộ Tài chính về chế độ tiếp khách nước ngoài vào làm việc tại Việt Nam, chế độ chi tổ chức hội nghị, hội thảo quốc tế tại Việt Nam và chế độ tiếp khách trong nước.
+-	Trường hợp thuê dịch thuật tại nước đến công tác, chi phí được xác định gồm các khoản: Phương tiện đi lại tại nước sở tại trong thời gian cùng làm việc với đoàn, tiền ăn và tiêu vặt, tiền phòng nghỉ theo mức công tác phí như thành viên đoàn công tác; thù lao dịch thuật (chi theo ngày làm việc thực tế có sử dụng phiên dịch tại chương trình đã được phê duyệt) theo mức chi đã được người có thẩm quyền phê duyệt tại dự toán đoàn đi công tác.
+Khi quyết toán khoản chi dịch thuật phải có đầy đủ hoá đơn, chứng từ gồm: Hóa đơn hoặc ký nhận thanh toán trọn gói cho người dịch thuật (hoặc đơn vị cung cấp dịch thuật) căn cứ theo hợp đồng ký kết giữa Trưởng đoàn công tác và người dịch thuật (hoặc đơn vị cung cấp dịch thuật); trường hợp hoá đơn, chứng từ bằng tiếng nước ngoài thì phải dịch ra tiếng Việt.
+i)	Chi chiêu đãi, mua quà tặng
+-	Căn cứ tính chất công việc, yêu cầu đổi ngoại, Trưởng đoàn công tác chỉ đạo lập dự toán trình người có thẩm quyền quyết định phê duyệt nội dung chi chiêu đãi, mua quà tặng trên tinh thần tiết kiệm, không phô trương hình thức (nội dung tờ trình thể hiện đối tượng mời chiêu đãi, tặng quà, số lượng và số tiền cụ thể). Khoản chi phí này chỉ áp dụng đối với các đoàn công tác theo quy định tại Điều 7 Quyết định số 414/QĐ-HĐTV-UBNS ngày 31/5/2019 của Hội đồng thành viên về Quy chế người quản lý, người lao động Agribank đi công tác, học tập tại nước ngoài.
+-	Mức chi chiêu đãi: Theo chứng từ chi thực tế nhưng không vượt quá định
+mức khoán tiền ăn và tiêu vặt theo tiêu chuẩn của trưởng đoàn (bao gồm cả đồ uống và các loại thuế, phí phải thanh toán) cho mỗi khách mời.
+-	Mức chi mua quà tặng cho tập thể, cá nhân: Tặng phẩm là sản phẩm do Việt Nam sản xuất và thể hiện bản sắc văn hóa dân tộc, mức chi cụ thể như sau:
++ Đối với cá nhân: Tối đa 1.000.000 đồng/người (đối với lãnh đạo); 300.000 đồng/người (đối với đối tượng khác).
++ Đối với tập thể: Tối đa 5.000.000 đồng/đối tác.
+8.	Tạm ứng và quyết toán cho đoàn đi công tác
+8.1.	Hồ SO’ tạm ứng
+a)	Giấy đề nghị tạm ứng;
+b)	Dự toán kinh phí (theo chế độ, tiêu chuẩn quy định tại văn bản này) có xác nhận của Trưởng đoàn công tác và phê duyệt của cấp có thẩm quyền;
+c)	Quyết định cử đi công tác của cấp có thẩm quyền (bản sao);
+d)	Lịch trình công tác (bản sao);
+e)	Giấy mời của phía nước ngoài có liên quan đến chi phí tài chính (nếu có);
+f)	Hồ sơ lựa chọn, đặt chỗ của hãng hàng không; bản sao họp đồng cung cấp dịch vụ (nếu có), báo giá đối với đặt chỗ của hãng hàng không. Việc mua vé máy bay cho các đoàn đi công tác được thực hiện theo hình thức so sánh báo giá (với ít nhất 2 báo giá kèm theo; báo giá phải được lấy tối thiểu từ 2 công ty hoặc 2 đại lý bán vé máy bay khác nhau với cùng hành trình bay) của các hãng hàng không hoạt động hợp pháp tại Việt Nam trong đó có ít nhất 1 đại lý chính hãng của hàng không quốc gia Việt Nam và đáp ứng được các yêu cầu sau:
+g)	Đường bay trực tiếp, phù hợp với lịch công tác;
+h)	Tổng các khoản chi tiền vé (bao gồm các khoản thuế và phụ phí), tiền đi đường, tiền chờ đợi tại sân bay thấp nhất.
+g)	Báo giá khách sạn nơi đoàn ở, nội dung báo giá phải phản ánh đầy đủ thông tin về đơn vị cung cấp, tiêu chuẩn khách sạn, tiêu chuẩn phỏng phù hợp với chế độ;
+h)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+Các khoản tạm ứng được hạch toán bằng tiền VND, phần chi phí (tạm ứng) bằng ngoại tệ được tính quy đổi tỷ giá từ USD sang VND theo tỷ giá bán ra bằng tiền mặt của Agribank tại thời điểm tạm ứng.
+8.2.	Hồ sơ quyết toán 
+Trong vòng 15 ngày kể từ khi về nước, Đoàn đi công tác nước ngoài phải gửi báo cáo quyết toán của đoàn kèm theo đầy đủ chứng từ hợp pháp, hợp lệ để thanh toán tạm ứng.
+a)	Gi^cỂn^ị thanh toánkòribỏngtẩTghợpcác khoản chi phí có xácnhậncủatrLiớngđcèn;
+b)	Quyết định cử đi công tác của cấp có thẩm quyền (bản chính);
+c)	Lịch trình công tác (bản chính);
+d)	Đe nghị tạm ứng kèm dự toán (bản sao);
+e)	Bảng kê từng khoản được chi bằng ngoại tệ theo mức khoán có chữ ký người nhận tiền;
+f)	Bảng kê kèm hóa đom, chứng từ các khoản chi thanh toán theo thực tế tại nước ngoài cho cá nhằn, chi chung cho cả đoàn. Khoản chi tiêu tại địa phưomg nào phải có hóa đom, chứng từ hợp pháp tại địa điểm đó. Nếu chứng từ viết bằng ngôn ngữ nước ngoài, phải có bản dịch ra tiếng Việt và chữ ký xác nhận của người dịch và Trưởng đoàn công tác.
+-	Hóa đơn mua vé (hoặc hóa đơn điện tử) và thẻ lên máy bay.
+-	Hóa đơn tiền thuê phương tiện đi lại tại nước ngoài hoặc bảng kê có xác nhận trưởng đoàn công tác theo quy định tại Tiết d Điểm 7.1 Mục II nêu trên.
+-	Hóa đơn thanh toán tiền ở trong thời gian công tác tại nước ngoài.
+-	Hóa đơn thanh toán tiền cước phí điện thoại.
+-	Hóa đơn, chứng từ thu tiền đóng góp tham gia (tham dự) hội nghị, hội thảo (nếu có).
+-	Hóa đơn chiêu đãi tại nước ngoài kèm theo danh sách khách mời tham dự tiệc chiêu đãi được duyệt.
+-	Hóa đơn mua bảo hiểm kèm theo giấy chứng nhận bảo hiểm từng người (trường hợp mua bảo hiểm).
+-	Hóa đơn, chứng từ khác có liên quan (nếu có).
+g)	Bảng kê kèm hóa đơn, chứng từ các khoản chi phí theo hóa đơn, chứng từ chi trong nước (nếu có), chi bằng Việt Nam đồng: Chi mua quà tặng, chi phí đi lại trong nước, v.v...;
+h)	Hợp đồng từng loại dịch vụ (nếu có): Vé máy bay, đặt chỗ ăn ở, phiên dịch, v.v...;
+i)	Tờ trình phê duyệt của người có thẩm quyền cử đi công tác kèm hồ sơ, tài liệu liên quan (thông báo thay đổi thời gian làm việc từ đối tác, thay đổi thời gian hội nghị, v.v...) khi thanh toán tiền thời gian chờ đợi quy định tại Điểm 5.3 Mục II nêu trên;« 
+j)	Trường hợp thanh toán theo hợp đồng trọn gói: Hồ sơ lựa chọn đơn vị cung cấp dịch vụ, hợp đồng dịch vụ có nội dung chi tiết theo từng khoản thanh toán trực tiếp cho người đi công tác, hóa đơn hợp lệ của đơn vị cung cấp dịch vụ, nghiệm thu hoặc thanh lý hợp đồng (nếu có);
+k)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+Khi thanh toán các khoản chi phí, tạm ứng, nếu không có tỷ giá quy đổi từ USD sang VND trên hóa đơn, chứng từ thì áp dụng theo tỷ giá tại thòi điểm tạm ứng.
+8.3. Đơn vị hạch toán chi công tác phí
+a)	Đoàn công tác nước ngoài do Trụ sở chính tổ chức: Trụ sở chính thanh toán toàn bộ chi phí về công tác phí nước ngoài cho chuyến công tác, đơn vị cử cán bộ đi công tác chỉ thanh toán công tác phí cho những ngày cán bộ lưu trú, đi, về trong nước gồm: Những ngày từ cơ quan đến địa điểm tập trung và ngược lại, những ngày chờ đợi (nếu có) theo chế độ công tác phí trong nước.
+b)	Đổi với đoàn công tác nước ngoài do Chi nhánh loại I tổ chức; Đơn vị chủ trì đoàn công tác thanh toán toàn bộ các khoản chi phí phát sinh cho chuyến công tác (bao gồm công tác phí nước ngoài, công tác phí trong nước) theo quy định.
+III. Chi tổ chức hội nghị
+1.	Phạm vi áp dụng: Hội nghị sơ kết, tổng kết hoạt động kinh doanh, hội nghị sơ kết, tổng kết chuyên đề; hội nghị triển khai nhiệm vụ kinh doanh, hội nghị khách hàng; hội thảo, v.v... (gọi chung là hội nghị).
+2.	Tổ chức hội nghị
+3.	ỉ. Phương thức tể chức hội nghị
+a)	Tập trung họp trực tiếp hoặc tổ chức họp trực tuyến, đảm bảo phù hợp với yêu cầu riêng của từng cuộc họp.
+b)	Thời gian tổ chức hội nghị bao gồm thời gian tổ chức tại hội trường và thời gian khảo sát thực tế (nếu có).
+c)	Việc phân bổ thời gian hội nghị phải đảm bảo nguyên tắc năng suất lao động, tiết kiệm thời gian và hiệu quả. Tuyệt đối không kết hợp hội nghị để tổ chức tham quan, nghỉ mát hoặc lợi dụng, lấy danh nghĩa tổ chức hội nghị để tổ chức tham quan, nghỉ mát.
+2.2.	Thời gian tể chức hội nghị
+a)	Thời gian tổ chức 01 hội nghị tối đa không quá 02 ngày làm việc.
+b)	Trường họp lồng ghép, kết họp các nội dung sơ kết, tổng kết với tập huấn nghiệp vụ thì thời gian của hội nghị được tính bằng tổng thời gian từng loại hội 
+nghị, nhưng tối đa 05 ngày cho 01 lần tổ chức.
+2.3.	Thành phần hội nghị: Tuỳ theo tính chất, nội dung, mục đích, yêu cầu của cuộc họp, người triệu tập cuộc họp phải cân nhắc kỹ và quyết định thành phần, số lượng người tham dự cuộc họp cho phù hợp, bảo đảm tiết kiệm và hiệu quả.
+2.4.	Địa điểm: Khi tổ chức hội nghị, đom vị phải nghiên cứu sắp xếp địa điểm hợp lý, tận dụng tối đa cơ sở vật chất của Agribank.
+Hội nghị do đơn vị tổ chức: Thực hiện trên địa bàn mà đơn vị đóng trụ sở.
+3.	Nội dung và mức chi tổ chức hội nghị
+3.1.	Nội dung chi phí
+a)	Tiền thuê hội trường trong những ngày tổ chức hội nghị (trong trường hợp đơn vị không có địa điểm phải thuê hoặc có nhưng không đáp ứng được số lượng đại biểu tham dự); thuê thiết bị trực tiếp phục vụ hội nghị (máy chiếu, màn hình led, loa, v.v...).
+b)Chi phí văn phòng phẩm phục vụ hội nghị; tài liệu, văn phòng phẩm phát cho đại biểu tham dự hội nghị.
+c)	Chi thù lao cho giảng viên, chi bồi dưỡng báo cáo viên, chi bồi dưỡng người có báo cáo tham luận trình bày tại hội nghị.
+d)Tiền thuê phương tiện đưa đón đại biểu từ nơi nghỉ đến nơi tổ chức hội nghị trong trường hợp cơ quan, đơn vị không có phương tiện hoặc có nhưng không đáp ứng được sổ lượng đại biểu.
+e)	Tiền ăn, giải khát giữa giờ.
+f)	Tiền thuê chỗ nghỉ.
+g)	Chi tiền ăn, tiền thuê phòng nghỉ và phương tiện đi lại cho đại biểu là khách mời ngoại ngành.
+h)Các khoản chi khác như: Tiền trang trí hội trường, các khoản chi khác liên quan trực tiếp đến công tác tổ chức hội nghị.
+3.2.	Mức chi cụ thể
+a)	Tiền thuê hội trường (nếu có): Mức chi theo giá cả thực tế tại nơi tổ chức hội nghị.
+b)	Chi thù lao cho giảng viên, chi bồi dưỡng báo cáo viên, chi bồi dưỡng người có báo cáo tham luận trình bày tại hội nghị: Chỉ áp dụng đối với giảng viên bên ngoài Agribank, mức chi theo chế độ chi đào tạo tại Mục IV văn bản này.
+c)	Tiền ăn và nước uống . A
+-	Hội nghị do Giám đốc Chi nhánh loại I tổ chức: Mức chi tiền ăn tối đa 300.000 đồng/ngày/người, nước uống 40.000 đồng/ngày/người.
+-	Hội nghị do Giám đốc Chi nhánh loại II tổ chức: Mức chi tiền ăn tối đa 200.000 đồng/ngày/người, nước uống 40.000 đồng/ngày/người.
+d)	Tiền thuê phòng nghỉ: Khi bố trí chỗ nghỉ cho đại biểu, Ban tổ chức hội nghị trước hết phải tận dụng tối đa nhà khách, nhà nghỉ của Agribank. Trường hợp đi thuê ngoài, mức tiền thuê phòng nghỉ áp dụng thực hiện theo Điểm 5.3 Mục I văn bản này.
+e)	Chi tiền phương tiện đi lại: Thực hiện theo Điểm 5.1 Mục I văn bản này.
+í) Chi tiền ăn, tiền thuê phòng nghỉ và phương tiện đi lại cho đại biểu là khách mời ngoại ngành: Áp dụng như đối với cán bộ Agribank.
+g) Một số khoản chi khác
+-	Tiền in tài liệu: Căn cứ đề nghị của bộ phận đề xuất tổ chức hội nghị, bộ phận hành chính thực hiện in, photo tài liệu. Trường họp nếu tự in mà không đảm bảo thời gian phục vụ hội nghị, bộ phận hành chính có thể thực hiện theo hình thức thuê dịch vụ in ấn.
+-	Chi trang trí hội trường, thuê thiết bị, phưomg tiện phục vụ hội nghị (nếu có): Thanh toán theo chi phí thực tế phát sinh.
+3.3.	Trường hợp hội nghị có nội dung về thi đua khen thưởng, tuyên truyền quảng cáo, tiếp thị, v.v..., đom vị không được quyết toán các khoản chi này vào chi phí tổ chức hội nghị mà quyết toán, hạch toán tài khoản chi khen thưởng, chi nghiệp vụ tuyên truyền, quảng cáo, tiếp thị.
+4.	Thủ tục phê duyệt và quyết toán chi phí tổ chức hội nghị
+a)	Giấy đề nghị thanh toán;
+b)	Tờ trình hoặc vãn bản (kế hoạch) tổ chức hội nghị của đom vị chuyên môn được người có thẩm quyền phê duyệt nêu rõ sự cần thiết, nội dung hội nghị, địa điểm tổ chức, thời gian tổ chức, số lượng đại biểu tham gia, v.v...;
+c)	Dự toán chi phí được người có thẩm quyền phê duyệt;
+d)	Giấy mời hoặc giấy triệu tập, danh sách đại biểu tham dự;
+e)	Bảng tổng hợp quyết toán chi phí;
+f)	Danh sách đại biểu ký nhận tài liệu, v.v... (nếu có);
+g)	Bảng kê thanh toán đối với các khoản chi bằng tiền cho người tham dự hội nghị theo quy định (nếu có); , 
+h)	Hóa đơn, chứng từ hợp pháp về các dịch vụ thuê ngoài (nếu có): Thuê nhà nghỉ, khách sạn, in ấn tài liệu, V.V.... Riêng đối với khoản thuê dịch vụ in ấn tài liệu, ngoài hóa đơn chứng từ hợp pháp theo quy định, hồ sơ gồm có: Phê duyệt của người có thẩm quyền đồng ý cho thuê dịch vụ in ấn, 01 bản tài liệu photo (hoặc danh mục tài liệu ghi rõ số lượng, số trang), biên bản bàn giao xác nhận số lượng bản photo với đơn vị dịch vụ in ấn, hợp đồng in ấn tài liệu (nếu có);
+i)	Hồ sơ hợp pháp về lựa chọn đơn vị cung ứng dịch vụ, hợp đồng kinh tế, nghiệm thu thanh lý hợp đồng và các chứng từ cần thiết khác (nếu có);
+j)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+IV. Chi hoạt động đào tạo
+1.	Đối tượng
+1.1.	Cán bộ Agribank được người có thẩm quyền cử tham gia các khóa đào tạo kiến thức cơ bản, nâng cao, chuyên sâu (giảng viên, học viên, v.v...) theo quy định của Agribank.
+1.2.	Cán bộ ngoài hệ thống Agribank tham gia công tác đào tạo như giảng viên; cán bộ ra đề thi, coi thi, chấm thi; cán bộ biên dịch, phiên dịch; V.V....
+2.	Đơn vị tổ chức đào tạo
+Chi nhánh tổ chức các lớp đào tạo, tập huấn nghiệp vụ theo nhu cầu của đơn vị hoặc phối hợp với Trường Đào tạo cán bộ tổ chức lớp đào tạo tại đơn vị theo chương trình đào tạo hàng năm hoặc đột xuất của Agribank.
+3.	Nguyên tắc quản lý chi phí
+3.1.	Các chương trình tập huấn (không kết họp họp hội nghị), bồi dưỡng, cập nhật kiến thức, kỹ năng nghiệp vụ, đơn vị thực hiện nội dung chi, mức chi như đối với chế độ hoạt động đào tạo.
+3.2.	Các lớp đào tạo từ nguồn kinh phí thuộc các chương trình dự án đơn vị thực hiện chi phí theo chế độ của dự án; các chương trình, nội dung đào tạo được tài trợ chi phí đào tạo thì không được thanh toán chi phí tại Agribank.
+3.3.	Đối với những khóa đào tạo thuê ngoài phải thực hiện lựa chọn đơn vị cung cấp dịch vụ theo quy định của Nhà nước và Agribank đảm bảo chi phí đào tạo hợp lý, hiệu quả.
+4.	Chi đào tạo trong nước
+4.1.	Chi phí tổ chức lớp đào tạo
+a) Chì cho giảng viên
+- Chi thù lao giảng viên:^_
++ Giảng viên nội bộ (bao gồm cả giảng viên kiêm nhiệm, tiểu giảng viên): Tối đa 3 00.000 đồng/tiết đối với ngày làm việc; tối đa 5 00.000 đồng/tiết đối với ngày nghỉ, ngày lễ. Thời gian tối đa 8 tiết/ngày.
++ Giảng viên thuê ngoài: Tối đa 2.000.000 đồng/tiết đối với giảng viên trong nước; tối đa 4.000.000 đồng/tiết đối với giảng viên nước ngoài. Thời gian tối đa 8 tiết/ngày.
++	Giảng viên trợ giảng: Tối đa 50% thù lao của giảng viên chính.
++	Chi biên soạn giáo trình, tài liệu giảng dạy: Tối đa 30% thù lao của giảng viên chính/01 ngày đào tạo. Thanh toán một lần cho một giáo trình.
++	Neu giáo trình mới hoặc sửa lại từ 50% trở lên: Thanh toán 100% mức quy định.
++	Nếu giáo trình chỉnh sửa dưới 50%: Thanh toán tối đa 50% mức quy định.
++	Chi phí phương tiện đi lại, thuê chỗ nghỉ cho giảng viên: Trường hợp đon vị tổ chức đào tạo không có phưong tiện, không có đủ điều kiện bố trí chỗ nghỉ, phải thuê ngoài:
++	Chi phí thuê phưong tiện đi lại: Giảng viên thuê ngoài được thanh toán chi phí theo thực tế phát sinh.
++	Chi thuê chỗ nghỉ: Thực hiện theo Điểm 5.3 Mục I văn bản này.
++	Chi tiền ăn: Theo mức chi của học viên.
++	Chi thuê phiên dịch, biên dịch nội dung bài giảng của giảng viên nước ngoài: + Trường hợp thuê ngoài: Thực hiện theo Tiết h Điểm 7.4 Mục II văn bản này.
++	Trường hợp cử cán bộ Agribank biên dịch, phiên dịch: Tối đa 50% định mức chi phí thuê ngoài.
+b)	Chi cho học viên
+-	Chi tiền thuê chỗ nghỉ cho học viên: Thực hiện theo Điểm 5.3 Mục I văn bản này. Đon vị tổ chức đào tạo phải bố trí chỗ nghỉ cho học viên ở xa về học, ưu tiên sử dụng nhà khách, nhà nghỉ, phân hiệu đào tạo (nếu có) của Agribank để thực hiện công tác đào tạo.
+-	Chi tiền ăn cho học viên: Tối đa 80% định mức tiền ăn hội nghị tại Tiết c Điểm 3.2 Mục III văn bản này. Áp dụng trong thời gian học tập trung và thời gian đi, về đối với những học viên ở xa địa điểm lớp học (02 ngày gồm ngày đi, ngày về).
+c)	Chi tiền soạn đề thi, coi thi, chẩm thi, tổ chức thi
+-	Chi thù lao cho cán bộ soạn đề thi (câu hỏi và đáp án):
++ Biên soạn đề tự luận: Tối đa 500.000 đồng/đề, tối đa 3 đề/lớp; ý
++ Biên soạn đề trắc nghiệm: Tối đa 20.000 đồng/câu (tối đa 500.000 đồng/đề).
+-	Chi thù lao cho cán bộ coi thi, hội đồng xét kết quả: Tối đa 200.000 đồng/người/ngày.
+-	Chi chấm chi:
++ Tiền chấm thi trắc nghiệm: Tối đa 10.000 đồng/bài thi;
++ Tiền chấm thi bài luận: Tối đa 30.000 đồng/bài thi;
++ Tiền chấm thi vừa bài luận, trắc nghiệm: Tối đa 20.000 đồng/bài thi;
++ Chấm thi vấn đáp/thuyết trình/đổi kháng trực tiếp: Tối đa 50.000 đồng/học viên;
+d)	Chi tổ chức, quản ỉý lớp học
+-	Chi công tác phí cho cán bộ quản lý lớp trong trường hợp phải tổ chức lớp ở xa đơn vị tổ chức đào tạo: Thực hiện theo chế độ công tác phí tại Mục I vãn bản này.
+-	Chi tài liệu học tập cho học viên: Chi phí in ấn giáo trình, tài liệu trực tiếp phục vụ lớp học theo thực tế phát sinh.
+-	Chi tiền nước uống, hoa quả giữa giờ: Tối đa 30.000 đồng/người/ngày.
+-	Chi khen thưởng học viên xuất sắc (nếu có): Đối với các lớp có cấp chứng chỉ hoặc đánh giá kiểm tra xếp loại cuối khóa học, đơn vị tổ chức đào tạo quyết định việc chi khen thưởng cho các học viên xuất sắc theo Quy chế đào tạo của Agribank: Tối đa 500.000 đồng/học viên; tối đa 3 học viên/lớp hoặc khóa học.
+-	Tiền tổng kết, đánh giá cuối khóa học đối với khóa học có thời gian học từ 05 ngày đào tạo trở lên: Tối đa 200.000 đồng/người (Giảng viên, học viên, cán bộ quản lý lớp và đại biểu mời).
+-	Các khoản chi phí khác: Thanh toán theo thực tế phát sinh, bao gồm:
+-	Chi thuê hội trường, phòng học, thiết bị phục vụ học tập như đèn chiếu, máy vi tính, v.v...;
+-	Chi thuê xe đưa đón học viên đối với trường hợp địa điểm lớp học xa nơi ở của học viên; thuê xe đưa, đón học viên trong những ngày đi khảo sát, thực tế (trường hợp phải thuê phương tiện);
+-	Chi tiền điện, nước, vãn phòng phẩm;
+-	Chi vệ sinh, trông xe (nếu phải thuê ngoài);
+-	Chi tiền thuốc, y tế thông thường cho học viên đối với trường hợp cần thiết đột xuất xảy ra trong thời gian đào tạo;
+-	Chi tiền trang trí hội trường (hoa tươi, phông..), thuê xe đưa đón đại biểu dự lễ khai giảng, bế giảng (nếu có); chi in và cấp chứng chỉ cho học viên (nếu có); 
+-	Trường hợp nghỉ tại nhà khách, nhà nghỉ, phân hiệu đào tạo của Agribank (không tính, thu tiền phòng nghỉ), (ton vị chi nước uống, vật dụng cá nhân: Tối đa 20.000 đồng/người/ngày.
+4.2.	Chi phí thuê tổ chức đào tạo trong nước
+Chi phí đào tạo thực hiện theo phê duyệt của người có thẩm quyền trên cơ sở hợp đồng đào tạo và thực tế yêu cầu đào tạo. Việc xây dựng dự toán trình người có thẩm quyền phê duyệt phải căn cứ theo định mức chi phí quy định tại Điểm 4.1 nêu trên.
+4.3.	Chi tổ chức thi nghiệp vụ, thi tuyển dụng lao động
+a)	Nội dung chi phỉ'
+Căn cứ vào quyết định/thông báo của Agribank về việc tổ chức thi nghiệp vụ, thi tuyển dụng lao động, đơn vị tổ chức thi thanh toán các khoản chi phí sau:
+-	Chi tiền soạn đề thi; chi coi thi; chi chấm thi; tổ chức thi (Tiền ăn, nước uống cho Hội đồng thi, cán bộ phục vụ công tác tổ chức thi).
+-	Chi hỗ trợ tiền ăn cho học viên thi: Chỉ áp dụng đối với cán bộ Agribank tham gia thi nghiệp vụ.
+-	Chi khen thưởng: Thực hiện theo quyết định của người có thẩm quyền về việc tổ chức thi nghiệp vụ từ Quỹ khen thưởng.
+-	Các khoản chi phí khác (nếu có): Thuê hội trường, phòng thi, thuê thiết bị phục vụ công tác thi tuyển, v.v...; tiền trang trí hội trường (hoa tươi, biểu ngữ, v.v...); chi tiền nước uống tập trung cho học viên, chi văn phòng phẩm, chi vệ sinh, bảo vệ trông xe; chi tiền thuốc y tế thông thường cho học viên; v.v...
+b)	Mức chi: Theo định mức chi phí tương ứng quy định tại Điểm 4.1 nêu trên.
+4.4.	Chi đào tạo kiến thức quản lý Nhà nước
+ạ) Nộỉ dung đào tạo: Lý luận chính trị; kiến thức quốc phòng, an ninh; kiến thức, kỹ năng quản lý nhà nước; kiến thức quản lý chuyên ngành, chuyên môn, nghiệp vụ; V.V....
+b) Nội dung chi phỉ: Đơn vị thanh toán cho cơ sở đào tạo các chi phí dịch vụ đào tạo (học phí); tiền mua giáo trình, tài liệu học tập bắt buộc và các khoản chi phí bắt buộc phải trả cho các cơ sở đào tạo theo hóa đơn thu tiền của cơ sở đào tạo.
+4.5.	Hỗ trợ chi phí tự đào tạo
+a)	Theo yêu cầu thực hiện nghiệp vụ trong từng thời kỳ, Agribank có thể khuyến khích các cán bộ tự đào tạo ngoài giờ làm việc. Sau khi kết thúc khoá học, căn cứ vào khả năng tài chính, đơn vị xem xét hỗ trợ chi phí đào tạo cho cán bộ: Tối đa 50% học phí phải đóng cho cơ sở đào tạo, nhưng không quá 20
+triệu/người/khóa học trên cơ sở hóa đơn thu tiền của cơ sở đào tạo.
+b)	Đối tượng, nội dung, chuyên đề đào tạo được hỗ trợ chi phí thực hiện theo quy định của Agribank từng thời kỳ.
+5.	Chi đào tạo ở nước ngoài
+5.1.	Nội dung và định mức chi phí
+a)	Các khoản chi cho chương trình đào tạo ngắn hạn do Agribank tổ chức phối hợp với các ngân hàng, cơ sở đào tạo ở nước ngoài:
+-	Chi phí dịch vụ đào tạo và các khoản chi phí bắt buộc phải trả cho cơ sở đào tạo, cơ sở dịch vụ ở nước ngoài: Thực hiện theo hợp đồng hoặc thỏa thuận họp tác;
+-	Chi cho công tác phiên dịch, biên dịch tài liệu: Thực hiện theo Tiết h Điểm 7.4 Mục II văn bàn này;
+-	Chi cho công tác tổ chức lớp học: Khảo sát, đàm phán, xây dựng chương trình học tập với cơ sở đào tạo ở nước ngoài; chi phí phải trả cho tổ chức thực hiện đưa cán bộ tham dự khóa học (nếu CÓ): Theo chi phí thực tế phát sinh có đầy đủ chứng từ, hóa đơn hợp pháp;
+-	Chi mua bào hiểm y tế trong thời gian học tập ở nước ngoài: Theo thông báo hoặc hóa đơn bảo hiểm y tế bắt buộc của cơ sở đào tạo;
+-	Chi phí tiền ãn, tiêu vặt, phòng nghỉ, vé máy bay, đi lại, lệ phí sân bay, thủ tục xuất, nhập cảnh và những khoản chi tính chung cho cả đoàn công tác: Thực hiện theo chế độ công tác phí nước ngoài tại Mục II văn bản này.
+b)	Trường hợp ký kết hợp đồng trọn gói với đơn vị thực hiện dịch vụ đào tạo, thì chỉ thanh toán tổng chi phí trọn gói theo hợp đồng dịch vụ. Dự toán xây dựng trình người có thẩm quyền phê duyệt nội dung trọn gói phải căn cứ theo yêu cầu thực tế phát sinh và định mức chi phí quy định tại Tiết a Điểm 5.1 nêu trên.
+5.2.	Đào tạo ở nước ngoài trong trường hựp được đài thọ chi phí
+a)	Nếu cơ quan khác hoặc phía nước ngoài đài thọ toàn bộ chi phí đào tạo thì đơn vị không thanh toán chi phí đào tạo, người đi học được hưởng theo mức đài thọ của cơ quan khác/phía nước ngoài.
+b)	Nếu cơ quan khác/phía nước ngoài đài thọ toàn bộ chi phí ăn, ở, nhưng không hỗ trợ tiền tiêu vặt thì đơn vị cử cán bộ đi học thanh toán cho người đi học tiền tiêu vặt.
+c)	Nếu cơ quan khác/phía nước ngoài đài thọ một phần chi phí đào tạo, thì đơn vị cử cán bộ đi học thanh toán phần chênh lệch giữa định mức chi phí đào tạo nước ngoài với phần được đài thọ theo quy định.,
+6.	Thủ tục thanh toán
+6.1.	Chi phí đào tạo trong nước
+a)	Tổ chức đầo tạo, thuê đầo tạo trọn gói, thi tuyển, tuyển dụng
+-	Giấy đề nghị thanh toán;
+-	Tờ trình, văn bản về việc tổ chức đào tạo; thi nghiệp vụ, thi tuyển dụng;
+-	Bảng quyết toán chi phí, dự toán chi phí đào tạo;
+-	Hồ sơ lựa chọn đơn vị cung cấp dịch vụ đào tạo, hợp đồng thuê dịch vụ, hóa đơn tài chính, biên bản thanh lý họp đồng đối với các khoản chi phí như: Thuê đào tạo; thuê xe đưa đón giảng viên, đưa đón học viên, đưa đón đại biểu dự lễ khai giảng, bế giảng; thuê hội trường, phòng học, thiết bị giảng dạy; v.v...;
+-	Bảng chấm công, danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt) đối với các khoản chi phí: Thù lao cho giảng viên; thù lao cho hội đồng thi, cán bộ ra đề thi, coi thi, chấm thi; v.v...;
+-	Quyết định hoặc thông báo triệu tập, danh sách học viên tham gia đào tạo;
+-	Ket quả học tập, loại chứng chỉ, bằng cấp (nếu có) kèm theo;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+b)	Đào tạo kiến thức quản ỉý nhà nước
+-	Giấy đề nghị thanh toán;
+-	Phê duyệt của người có thẩm quyền về cử cán bộ đi học;
+-	Thư mời của cơ sở đào tạo trong nước/Giấy báo nhập học của cơ sở đào tạo trong nước;
+-	Chứng từ thu tiền của cơ sở đào tạo: Hóa đơn tài chính (nếu có), v.v...;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+c)	Hỗ trợ chỉ phí tự đào tạo
+d)	Giấy đề nghị thanh toán;
+e)	Xác nhận về kết quả học tập, chứng chỉ, bằng cấp (bàn sao, nếu có đối với trường hợp quy định thanh toán chi phí đào tạo phải căn cứ vào kết quả học tập);
+f)	Chứng từ thu tiền của cơ sở đào tạo: Hóa đơn tài chính (nếu có), v.v...;
+g)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+6.2.	Chi phí đào tạo ở nước ngoài
+a)	Giấy đề nghị thanh toán; 0 
+b)	Tờ trình, văn bản về việc tổ chức đào tạo kèm dự toán chi phí đào tạo;
+c)	Bảng quyết toán chi phỉ;
+d)	Hồ sơ lựa chọn đơn vị cung cấp dịch vụ đào tạo;
+e)	Hợp đồng thuê dịch vụ đào tạo, hóa đơn tài chính, biên bản thanh lý hợp đồng (nếu có);
+f)	Đối với các khoản chi đào tạo theo chế độ công tác phí nước ngoài: Chứng từ thanh toán thực hiện theo chế độ công tác phí nước ngoài tại Mục II văn bản này.
+7.	Đen bù chi phí đào tạo
+7.1.	Nội dung đền bù chi phí đào tạo
+a)	Các đối tượng, nội dung, thẩm quyền quyết định đền bù chi phí đào tạo thực hiện theo Quy chế đào tạo trong hệ thống Agribank.
+b)	Sau khi có quyết định mức đền bù chi phí đào tạo của người có thẩm quyền, cán bộ có trách nhiệm nộp trả khoản tiền phải đền bù cho đơn vị trong thời hạn 01 tháng kể từ ngày ra quyết định.
+Trường hợp cán bộ không thực hiện nộp trả khoản tiền đền bù thì đơn vị chủ động trích từ tiền lương, các khoản kí quỹ hoặc các biện pháp khác theo hợp đồng lao động.
+c)	Các khoản tiền đền bù chi phí đào tạo được hạch toán giảm chi phí đào tạo trong kỳ nếu phát sinh cùng kỳ kế toán hoặc hạch toán thu nhập khác nếu khác kỳ kế toán.
+7.2.	Hồ sơ chứng từ
+a)	Quyết định đền bù chi phí đào tạo của người có thẩm quyền;
+b)	Bảng kê tính toán chi phí đền bù;
+c)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+V.	Chi hoạt động khoa học, sáng kiến
+1.	Điều kiện chi cho hoạt động khoa học, sáng kiến
+1.1.	Các khoản chi cho hoạt động nghiên cứu khoa học (thực hiện đề tài khoa học, sáng kiến) theo phê duyệt của người có thẩm quyền trên cơ sở đề xuất của Hội đồng khoa học, Hội đồng sáng kiến.
+Thành phần, nhiệm vụ và quyền hạn của Hội đồng khoa học, Hội đồng sáng kiến thực hiện theo Quy chế hoạt động khoa học và sáng kiến trong hệ thống Agribank.
+1.2.	Không sử dụng chi phí hoạt động khoa học để đầu tư cho hoạt động
+không gắn với việc phát triển khoa học, sáng kiến tại đom vị hoặc chi trùng lắp cho các nội dung chi phí của các đề tài đã được tài trợ bởi nguồn vốn khác.
+1.3.	Nguyên tắc tạm ứng, thanh toán
+a)	Tạm ứng chi phí đề tài nghiên cứu khoa học theo nội dung và tiến độ thực hiện, căn cứ theo bảng kê khối lượng công việc thực hiện trong dự toán chi phí được duyệt.
+b)	Chi phí đề tài được quyết toán một lần, chậm nhất trong vòng 06 tháng kể từ ngày hoàn thành hoặc tạm dừng đề tài theo quyết định của người có thẩm quyền. Quy trình lựa chọn đề tài, thực hiện nghiệm thu, công nhận đề tài thực hiện Quy chế hoạt động khoa học và sáng kiến trong hệ thống Agribank.
+c)	Đơn vị tạm ứng, thanh toán chi phí thực hiện đề tài:
+-	Đơn vị chủ trì đề tài: Tạm ứng, thanh toán chi phí liên quan trực tiếp đến việc thực hiện đề tài khoa học cho tác giả.
+-	Văn phòng Trụ sở chính: Tạm ứng, thanh toán chi phí quản lý chung của Hội đồng khoa học.
+d)	Chi phí cho hoạt động sáng kiến: Không thực hiện tạm ứng cho hoạt động sáng kiến.
+e)	Đối với sáng kiến cấp cơ sở áp dụng tại đơn vị: Sáng kiến phát sinh tại đơn vị nào thì thanh toán tại đơn vị đó.
+f)	Đối với sáng kiến cấp cơ sở áp dụng tại Agribank, sáng kiến cấp ngành và toàn quốc: Văn phòng trụ sở chính thanh toán theo phê duyệt của người có thẩm quyền.
+2.	Nội dung chi phí
+2.1.	Chi phí thực hiện đề tài (nhiệm vụ khoa học)
+a)	Chi tiền công lao động trực tiếp cho tác giả (bao gồm: Chủ nhiệm, thành viên thực hiện chính, thư ký khoa học, thành viên, kỹ thuật viên, nhân viên hỗ trợ);
+b)	Chi hội thảo khoa học phục vụ hoạt động nghiên cứu;
+c)	Chi điều tra, khảo sát thu thập số liệu;
+d)	Chi họp hội đồng tự đánh giá kết quả thực hiện đề tài (nếu có);
+e)	Chi quản lý chung nhằm đảm bảo yêu cầu quản lý trong triển khai thực hiện đề tài;
+f)	Chi khác có liên quan trực tiếp đến triển khai thực hiện đề tài;
+2.2.	Chi cho hoạt động sáng kiến
+a)	Chi họp hội đồng xét công nhận sáng kiến; /7
+b)	Chi thưởng sáng kiến;
+c)	Chi hội thảo phổ biến sáng kiến;
+2.3.	Chi cho các hoạt động nghiên cứu khoa học, hoạt động thường xuyên của Hội đồng khoa học.
+3.	Chi phí thực hiện đề tài (nhiệm vụ khoa học)
+3.1.	Định mức chi phí
+a)	Chi tiền công lao động trực tiếp
+-	Tiền công trực tiếp cho các chức danh thực hiện nhiệm vụ khoa học được tính theo ngày công lao động quy đổi (08 giờ/01 ngày; trường hợp có số giờ công lẻ, trên 4 giờ được tính 1 ngày công, dưới 4 giờ được tính 14 ngày công) và mức lương cơ sở do Nhà nước quy định.
+-	Tiền công trực tiếp đối với chức danh kỹ thuật viên, nhân viên hỗ trợ không quá 20% tổng dự toán tiền công trực tiếp đối với các chức danh chủ nhiệm, thành viên, thư ký khoa học.
+-	Tiền công trực tiếp đối với từng chức danh được xác định theo Phụ lục 02 đính kèm vãn bản này.
+b)	Chi hội thảo khoa học phục vụ hoạt động nghiên cứu: Ngoài nội dung và định mức chi tương ứng chi tổ chức hội nghị tại Mục III vãn bản này, các cuộc hội thảo khoa học phục vụ hoạt động nghiên cứu khoa học được chi thù lao theo Phụ lục 02 kèm theo văn bản này.
+c)	Chi điều tra, khảo sát thu thập số liệu: Thực hiện theo quy định tại Thông tư số 109/2016/TT-BTC ngày 30/6/2016 của Bộ Tài chính về lập dự toán, quản lý, sử dụng và quyết toán chi phí thực hiện các cuộc điều tra thống kê, tổng điều tra thống kê quốc gia.
+d)	Chi họp hội đồng tự đánh giá kết quả thực hiện đề tài (nếu có): Áp dụng tối đa 50% mức chi cho Hội đồng nghiệm thu chỉnh thức đề tài.
+e)	Chi quản lý chung đề tài: Tổng chi phí quản lý chung đề tài bằng 5% tổng chi phí thực hiện đề tài nhưng tối đa 200 triệu đồng. Bao gồm:
+f)	Chi phí thực hiện nhiệm vụ của Hội đồng khoa học (Hội đồng tư vấn xác định đề tài, Hội đồng tư vấn tuyển chọn, giao trực tiếp tổ chức, cá nhân chủ trì đề tài, thẩm định nội dung, tài chính của đề tài và Hội đồng tư vấn đánh giá nghiệm thu chính thức đề tài): Theo phụ lục 02 kèm theo Quy định này.
+g)	Chi thuê chuyên gia tư vấn độc lập (nếu có): Trường hợp Hội đồng khoa học thuê chuyên gia tư vấn, đánh giá độc lập theo quy định tại Quy chế tổ chức 
+hoạt động khoa học, sáng kiến trong hệ thống Agribank thì tổng mức chi thuê chuyên gia độc lập được tính tối đa bằng 5 lần mức chi tiền của Chủ tịch Hội đồng khoa học (bao gồm chi tiền họp Hội đồng và chi nhận xét, đánh giá).
+h)	Chi công tác kiểm tra, đánh giá giữa kỳ; kiểm tra, đánh giá sau khi giao quyền sở hữu, quyền sử dụng kết quả nghiên cứu khoa học và phát triển công nghệ, bao gồm:
+i)	Chi công tác phí cho đoàn kiểm tra: Thực hiện theo chế độ công tác phí tại Mục I văn bản này.
+j)	Chi họp hội đồng đánh giá giữa kỳ (trong trường hợp cần thiết cần có Hội đồng đánh giá giữa kỳ): Áp dụng tối đa bằng 50% mức chi của Hội đồng tư vấn đánh giá nghiệm thu chính thức đề tài.
+k)	Chi công tác phí của các chuyên gia được mời tham gia công tác tư vấn, thẩm định nội dung, tài chính của nhiệm vụ: Thực hiện theo chế độ công tác phí tại Mục I văn bản này;
+l)	Các khoản chi khác liên quan đến hoạt động khoa học được vận dụng theo các quy định quản lý hiện hành của pháp luật và Agribank.
+3.2.	Lập dự toán chi phí đề tài
+a)	Căn cứ
+-	Mục tiêu, yêu cầu, nội dung và khối lượng công việc nghiên cứu khoa học đã được cấp có thẩm quyền phê duyệt.
+-	Định mức chi phí theo quy định tại Điểm 3.1 nêu trên. Trường hợp không có định mức chi phí thì cần thuyết minh cụ thể chi tiết nội dung, căn cứ lập dự toán.
+-	Đối với các đề tài do đon vị, cá nhân ngoài Agribank hoặc Agribank ký hợp đồng thuê ngoài thực hiện: Chi phí tối đa bằng tổng định mức áp dụng đối với đon vị, cá nhân trong hệ thống Agribank.
+b)	Yêu cầu
+-	Dự toán chi phí của đề tài được xây dựng và thuyết minh theo từng nội dung nghiên cứu và gắn với kết quả, sản phẩm cụ thể của đề tài.
+-	Tổ chức chủ trì, cá nhân chủ nhiệm nhiệm vụ có trách nhiệm xây dựng dự toán trình cấp có thẩm quyền xem xét, phê duyệt đề tài.
+-	Dự toán chi phí phải bao gồm tỷ lệ dự phòng phát sinh như chi phí thử nghiệm, khắc phục hậu quả (nếu có) chiếm từ 2-5% tổng chi.
+c)	Thẩm định, phê duyệt dự toán chi phí thực hiện đề tài
+-	Cấp có thẩm quyền phê duyệt đề tài chịu trách nhiệm tổ chức việc thẩm 
+định dự toán chi phí của đề tài theo đúng chế độ quy định. Trường hợp các nội dung chi không có định mức của Agribank thì cấp có thẩm quyền phê duyệt đề tài được quyết định các nội dung chi cần thiết và chịu trách nhiệm về quyết định của mình trước pháp luật.
+-	Căn cứ vào dự toán chi phí thực hiện đề tài được người có thẩm quyền phê duyệt, đơn vị thực hiện tạm ứng, quyết toán chi phí thực hiện đề tài theo quy định.
+4.	Chi cho hoạt động sáng kiến
+4.1.	Đối tượng: Các tác giả sáng kiến được Hội đồng sáng kiến hoặc Hội đồng khoa học quyết định công nhận/chứng nhận sáng kiến.
+4.2.	Định mức chi phí
+a)	Chi họp hội đồng xét công nhận sáng kiến: Áp dụng tối đa bằng Hội đồng tư vấn nghiệm thu chính thức đề tài.
+b)	Chi thưởng sáng kiến: Chi tiết tại Phụ lục 02 kèm theo vãn bản này.
+c)	Hội thảo phổ biến sáng kiến: Thực hiện theo chế độ chi hội nghị tại Mục III vãn bản này.
+5.	Chi phí hoạt động thường xuyên của Hội đồng khoa học
+5.1.	Nội dung chi phí
+a)	Chi tổ chức hội thảo khoa học và sinh hoạt khoa học;
+b)	Chi cho công tác khảo sát, tham gia hội thảo khoa học trong và ngoài nước;
+c)	Các khoản chi phí khác phù hợp với Quy chế hoạt động của Hội đồng khoa học và pháp luật.
+5.2.	Định mức chi phí: Theo Phụ lục 02 kèm theo vãn bản này.
+6.	Hồ sơ tạm ứng và thanh quyết toán
+6.1.	Hồ sơ tạm ứng, quyết toán chi phí thực hiện đề tài
+a)	Hồ sơ tạm ứng
+-	Giấy đề nghị tạm ứng được Trưởng đơn vị phê duyệt;
+-	Dự toán chi phí được phê duyệt của cấp có thẩm quyền (bản sao);
+-	Báo cáo tiến độ thực hiện công việc và kết quả đạt được thực hiện nhiệm vụ khoa học (từ lần tạm ứng thứ hai trở đi).
+b)	Hồ sơ quyết toán:
+-	Giấy đề nghị thanh toán được Trưởng đơn vị phê duyệt;
+-	Dự toán chi phí được phê duyệt của cấp có thẩm quyền (bản sao); „
+-	Chứng nhận nghiệm thu đề tài khoa học (bản sao) hoặc quyết định của cấp có thẩm quyền về việc tạm dừng thực hiện đề tài;
+-	Chứng từ chi trả tiền công lao động trực tiếp: Bảng kê chi trả tiền công; bảng chấm công; danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt); v.v...;
+-	Chứng từ chi trả tiền thù lao hội thảo khoa học: Gồm bảng kê danh sách, số tiền thực chi cho từng người có chữ ký của người nhận tiền được chủ nhiệm nhiệm vụ ký xác nhận; các báo cáo khoa học được nhận thù lao báo cáo; danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt), v.v...;
+-	Chứng từ chi trả tiền điều tra, khảo sát thu thập số liệu: Đề cương, nội dung khảo sát; báo cáo kết quả khảo sát; danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt); v.v...;
+-	Chứng từ chi trả tiền công chuyên gia (nếu có): Hợp đồng thuê chuyên gia; biên bản thanh lý hợp đồng, các sản phẩm theo hợp đồng thuê chuyên gia, danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt); v.v...;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+6.2.	Hồ sơ thanh toán chi thưởng sáng kiến
+a)	Giấy đề nghị thanh toán;
+b)	Quyết định công nhận/chứng nhận sáng kiến của cấp có thẩm quyền (Bản sao);
+c)	Danh sách sáng kiến, tác giả sáng kiến nhận tiền (có ký nhận nếu chi bằng tiền mặt);
+d)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+6.3.	Hồ sơ thanh toán các khoản chi hoạt động khác của Hội đồng khoa học, hoạt động sáng kiến
+a)	Giấy đề nghị thanh toán được cấp có thẩm quyền phê duyệt;
+b)	Hóa đơn, chứng từ hợp pháp, hợp lệ liên quan đến hoạt động khoa học, sáng kiến, v.v...;
+c)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+VI.	Chi điện thoại
+1.	Quản lý sử dụng điện thoại cơ quan: Bao gồm chi phí lắp đặt, hòa mạng, chi mua máy điện thoại và cước phí điện thoại.
+1.1.	Điện thoại được giao cho các Phòng, cá nhân quản lý và sử dụng trong công việc chuyên môn để thực hiện nhiệm vụ được giao.
+1.2.	Tại các đơn vị phải có quy định cụ thể việc quản lý, sử dụng điện thoại
+tại cơ quan; quản lý các cuộc gọi (trong nước, quốc tế) để tiết kiệm chi phí và hiệu quả trong kinh doanh.
+2.	Trang cấp điện thoại công vụ cho cá nhân
+Điện thoại trang cấp cho cá nhân là tài sản của Agribank trang bị cho một số cán bộ để phục vụ cho các hoạt động kinh doanh và quản lý của Agribank.
+Cước phí điện thoại thực hiện theo mức khoán hàng tháng, phân cấp theo chức vụ và yêu cầu quản trị, điều hành công việc kinh doanh.
+2.1.	Trang cấp điện thoại cá nhân
+a)	Điện thoại di động:
+-	Được trang cấp sử dụng trong thời hạn 03 năm theo định mức chi phí công cụ dụng cụ.
+-	Định kỳ 03 năm, cá nhân được thanh lý điện thoại di động cũ, đồng thời được trang cấp điện thoại di động mới nếu điện thoại cũ không còn khả năng sử dụng hoặc không phù hợp với yêu cầu nhiệm vụ.
+-	Trong thời gian sử dụng điện thoại theo quy định, cán bộ phải đảm bảo có phương tiện thông tin liên lạc phục vụ yêu cầu công việc.
+b)	Cước phí sử dụng điện thoại: Thanh toán hàng tháng theo phương thức khoán.
+c)	Không thực hiện trang cấp điện thoại cố định; các cá nhân theo yêu cầu công việc phải có điện thoại cố định thì tự trang cấp để thực hiện nhiệm vụ.
+2.2.	Dừng trang cấp điện thoại cá nhân
+a)	Điện thoại di động:
+-	Trường hợp cán bộ chuyển công tác ra ngoài hệ thống thì cán bộ được mua thanh lý điện thoại, giá thanh lý căn cứ vào giá trị, thời gian sử dụng còn lại của điện thoại được trang cấp. Nếu cán bộ không mua thanh lý, thực hiện bàn giao tài sản cho đơn vị theo quy định.
+-	Trường hợp cán bộ chuyển công tác trong hệ thống Agribank:
+-	Nếu vị trí công tác mới không thuộc đối tượng được trang cấp điện thoại thì đơn vị (cũ) thực hiện như trường hợp cán bộ chuyển công tác ra ngoài hệ thống.
+-	Neu ở vị trí công tác mới vẫn thuộc đổi tượng trang cấp điện thoại: Cản bộ tiếp tục sử dụng điện thoại đã được trang cấp, đơn vị (mới) không thanh toán chi phí mua máy mới cho đến khi hết thời hạn theo quy định.
+-	Đối với cán bộ nghỉ hưu, mất sức: Điện thoại được thanh lý cho cán bộ nghỉ hưu, mất sức với giá trị thu hồi bằng không (0). . 
+1
+b)	Cước phí điện thoại:
+-	Đơn vị chỉ thanh toán tiền cước điện thoại cho các đối tượng được trang cấp trong thời gian công tác tại Agribank. Thời gian dừng thanh toán tiền cước là thời điểm nghỉ hưu, chuyển công tác, chấm dứt hợp đồng lao động, v.v...
+-	Đối với đối tượng cán bộ được thanh toán tiền cước phí điện thoại nghỉ làm việc dài ngày (từ 1 tháng trở lên), bao gồm: Nghỉ không hưởng lương; nghỉ chế độ: Thai sản, ốm đau dài ngày, v.v ...; nghỉ đi học dài ngày (đã bàn giao công việc): Đơn vị không thanh toán cước phí điện thoại khoán trong thời gian nghỉ.
+2.3.	Tiêu chuẩn, định mức trang bị, định mức khoán khi sử dụng điện thoại cá nhân: Theo Phụ lục 03 kèm theo văn bản này.
+2.4.	Thủ tục thanh toán
+a)	Thanh toán chi phí trang cẩp điện thoại
+-	Giấy đề nghị thanh toán;
+-	Hóa đơn, chứng từ mua sắm, trang cấp điện thoại;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+b)	Thanh toán chi phí cước phí sử dụng điện thoại
+-	Giấy đề nghị thanh toán kèm danh sách cán bộ được thanh toán cước phí khoán của bộ phận hành chính;
+-	Danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt).
+-	II. Chi hỗ trự hoạt động đoàn thể
+Chi về công tác đoàn thể là khoản thực chi để hỗ trợ chi phí cho hoạt động của các tổ chức chính trị, chính trị - xã hội của Agribank: Đảng, Công đoàn, Dân quân tự vệ, Đoàn thanh niên, v.v...
+1.	Nguyên tắc
+1.1.	Các tổ chức chính trị, chính trị - xã hội có nguồn kỉnh phí, phải sử dụng nguồn kỉnh phí của tổ chức để chi trả cho hoạt động của tổ chức:
+a)	Đối với công tác Đảng: Nguồn kinh phí và nội dung chi hoạt động công tác Đảng thực hiện theo Quyết định số 99/QĐ-TW ngày 30/5/2012 của Ban chấp hành Trung ương về ban hành quy định chế độ chi hoạt động công tác đảng của tổ chức cơ sở đảng, đảng bộ cấp trên trực tiếp cơ sở.
+b)	Đối với tổ chức Công đoàn: Nguồn tài chính, phân bổ nguồn kinh phí Công đoàn cơ sở thực hiện theo Quyết định số 1910/QĐ-TLĐ ngày 19/12/2016 của Đoàn Chủ tịch Tổng Liên đoàn lao động Việt Nam về ban hành quy định thu, 
+t
+chi, quản lý tài chính Công đoàn cơ sở.
+1.2.	Trường hợp tổ chức chính trị, chính trị - xã hội không có nguồn kinh phí hoặc nguồn kinh phí không đủ để phục vụ cho hoạt động của tổ chức, căn cứ vào tình hình thực tế, khả năng tài chính, đơn vị quyết định mức hỗ trợ bổ sung để nâng cao chất lượng hoạt động của tổ chức trên nguyên tắc hiệu quả, tiết kiệm, chống lãng phí.
+1.3.	Đơn vị không được chi hỗ trợ hoạt động đoàn thể với các nội dung: Chuyển tiền vào tài khoản tiền gửi của tổ chức đoàn thể, chi tiền theo danh sách cán bộ (trừ khoản hỗ trợ chi phụ cấp trách nhiệm, chi khen thưởng các danh hiệu thi đua nếu có) và các khoản chi không thuộc quy định về quản lý tài chính của tổ chức đoàn thể.
+2.	Thủ tục hỗ trự chi phí cho hoạt động của tỗ chức đoàn thể
+2.1.	Lập dự toán hàng năm: Căn cứ dự toán kế hoạch thu, chi hàng năm của tổ chức, đơn vị xác định mức hỗ trợ chi phí và tổng hợp chung vào kế hoạch tài chính của đơn vị.
+2.2.	Mức hỗ trự
+a)	Đổi với phụ cẩp trách nhiệm: Mức chi hỗ trợ tối đa bằng hệ số phụ cấp được hưởng (theo quy định của tổ chức đoàn thể) X mức lương cơ sở của Nhà nước.
+Trong đó:
+-	Hệ số phụ cấp cấp ủy viên các cấp theo Điều 2 Quy định so 169-QD/TW ngày 24/6/2008 của Ban chấp hành Trung ương.
+-	Mức phụ cấp của Chủ tịch và Phó Chủ tịch Công đoàn cơ sở, các đối tượng khác thực hiện theo quy định tại điểm 2, điểm 3 mục II Quyết định số 1439/QĐ-TLĐ ngày 14/12/2011 của Tổng Liên đoàn lao động Việt Nam.
+-	Hệ số phụ cấp quản lý đơn vị của cán bộ chỉ huy tự vệ theo quy định tại Điều 16 Nghị định số 03/2016/NĐ-CP ngày 05/01/2016 của Chính Phủ.
+b)	Đổi với các nội dung khác (theo quy định của tể chức đoàn thể): Hỗ trợ từng lần trên cơ sở đề xuất của tổ chức đoàn thể.
+Định mức các khoản chi phí thực hiện theo nội dung tương ứng với các khoản chi phí tại văn bản này.
+2.3.	Phương thức hỗ trự: Theo từng nội dung hoạt động của tổ chức trên cơ sở phê duyệt của người có thẩm quyền.
+2.4.	Quy trình thủ tục
+Chi hỗ trợ cho hoạt động đoàn thể là khoản thực chi để hỗ trợ phần chi phí
+còn thiếu sau khi sử dụng nguồn kinh phí của tổ chức đoàn thể, vì vậy tổ chức đoàn thể chịu trách nhiệm nội dung của khoản chi.
+a)	Khi có nhu cầu hỗ trợ chi phí từ chuyên môn, đại diện tổ chức đoàn thể trình chủ trương, trong đó nêu rõ nội dung chương trình cần hỗ trợ, dự toán chi phí, mức chi phí đề nghị hỗ trợ, tình hình sử dụng kinh phí của tổ chức đoàn thể, V.V....
+b)	Trường hợp được người có thẩm quyền chấp thuận hỗ trợ chi phí, đại diện tổ chức đoàn thể ký kết hợp đồng với tổ chức cung ứng dịch vụ, hàng hóa (nếu có), thực hiện các khoản chi phí và giao dịch khác theo quy định. Đại diện của tổ chức đoàn thể chịu trách nhiệm về tính hợp pháp, hợp lệ đối với các giao dịch đã thực hiện.
+3.	Hồ sơ thanh toán
+3.1.	Đối với chi phụ cấp trách nhiệm, chi khen thưởng các danh hiệu thi đua
+a)	Giấy đề nghị thanh toán của tổ chức đoàn thể;
+b)	Danh sách chi tiền theo quy định của tổ chức đoàn thể (có ký nhận nếu chi bằng tiền mặt);
+c)	Dự toán kinh phí hàng năm được phê duyệt của tổ chức đoàn thể (đối với lần chi trả đầu tiên).
+3.2.	Đối với các khoản chỉ hỗ trự khác
+a)	Giấy đề nghị thanh toán của tổ chức đoàn thể;
+b)	Tờ trình được người có thẩm quyền phê duyệt nội dung chương trình có liên quan đến chi phí, dự toán chi phí, mức chi phí đề nghị hỗ trợ, tình hình sử dụng kinh phí của tổ chức đoàn thể;
+c)	Bảng quyết toán chi phí;
+d)	Hóa đon, chứng từ hợp pháp, hợp lệ. Trường hợp, trong hồ sơ thanh toán bao gồm cả kinh phí từ tổ chức đoàn thể, chi phí từ chuyên môn thì bộ hồ sơ bản chính sẽ được lưu tại chứng từ chi phí chuyên môn, bản sao được lưu tại tổ chức đoàn thể;
+e)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+VIII.	Chi hoạt động quảng cáo, tiếp thị
+1.	Yêu cầu
+1.1.	Hình thức, phương tiện quảng cáo tiếp thị tuân thủ theo Quy định về thực hiện hoạt động quảng cáo, tiếp thị ban hành theo quy định hiện hành của Tổng Giám đốc.
+1.2.	Khoản chi quảng cáo, tiếp thị (thông qua tài trợ) phải báo cáo Ngân hàng 
+Nhà nước theo quy định tại văn bản số 678/QĐ-NHNN ngày 12/4/2017 của Ngân hàng Nhà nước về Quy chế người đại diện chủ sở hữu trực tiếp, người đại diện phần vốn Nhà nước tại tổ chức tín dụng, tổ chức tài chính và doanh nghiệp do Ngân hàng Nhà nước Việt Nam quản lý, Agribank chỉ thực hiện sau khi có ý kiến bằng văn bản của Ngân hàng Nhà nước.
+1.3.	Các khoản chi phí mua hàng hóa, quà tặng dùng để khuyến mại, quảng cáo, tiếp thị phải thực hiện đúng quy định của pháp luật và Agribank về mua sắm hàng hóa, dịch vụ dùng để khuyến mại; thuế Giá trị gia tăng, v.v...
+2.	Hồ sơ thanh toán
+2.1.	Giấy đề nghị thanh toán;
+2.2.	Tờ trình nêu rõ mục đích, ý nghĩa, sự cần thiết của việc quảng cáo, tiếp thị; dự kiến chi phí; tổng hợp chi phí quảng cáo, tiếp thị được người có thẩm quyền phê duyệt;
+2.3.	Hồ sơ thông báo, đăng ký khuyến mại, giấy phép của cơ quan chức năng theo quy định (nếu có);
+2.4.	Hồ sơ lựa chọn đơn vị cung cấp dịch vụ quảng cáo, cung cấp hàng hóa khuyến mại;
+2.5.	Hóa đơn, chứng từ hợp pháp, hợp lệ; hợp đồng dịch vụ (nếu có); biên bản nghiệm thu xác nhận dịch vụ hoàn thành (hoặc bản in, bản ghi âm, ghi hình nếu quảng cáo trên các phương tiện thông tin đại chúng); biên bản thanh lý hợp đồng (nếu có);
+2.6.	Hồ sơ, chứng từ khác có liên quan (nếu có).
+IX.	Một số khoản chi phí khác
+1.	Chi vật liệu văn phòng, giấy tờ in (văn phòng phẩm)
+1.1.	Nguyên tắc
+a)	Đơn vị phải xây dựng chỉ tiêu khoán văn phòng phẩm sử dụng tới từng cán bộ, từng phòng/ban đảm bảo cung cấp đầy đủ dụng cụ làm việc cho cán bộ, đáp ứng yêu cầu quản lý chi tiêu, tiết kiệm chi phí trong hoạt động kinh doanh. Riêng đối với khoán văn phòng phẩm cho từng cán bộ, không bao gồm các đối tượng là cán bộ quản lý; Trưởng, Phó Trưởng đơn vị.
+b)	Đối với những loại văn phòng phẩm chuyên dùng hoặc cần đảm bảo tính đồng bộ, thể hiện thương hiệu của Agribank: Bìa trình ký, bút viết để ở quầy giao dịch khách hàng, vật liệu đóng gói niêm phong, vận chuyển, bảo quản tiền, v.v...: Đơn vị xem xét mua sắm, trang bị tập trung.
+c)	Đối với các văn phòng phẩm khác do thực hiện nhiệm vụ đột xuất: Các phòng liên quan phối hợp với bộ phận hành chính xác định nhu cầu về số lượng, chủng loại, chi phí mua văn phòng phẩm phù hợp với tính chất công việc đảm bảo tiết kiệm, hiệu quả.
+1.2.	Danh mục văn phòng phẩm khoán
+a)	Đối với cá nhân: Giấy, bút và các dụng cụ như: Ghim, máy dập ghim, sổ công tác, kéo, thước, dao, khăn lau, v.v... phục vụ nhiệm vụ chuyên môn theo nhu cầu của cán bộ.
+b)	Văn phòng phẩm sử dụng chung cho nhiệm vụ chuyên môn của các Phòng tại đon vị: Giấy in, giấy photocopy, giấy máy fax; máy dập ghim (loại to), máy đục lỗ; sổ công văn đi, đến; cặp lưu trữ tài liệu; thẻ nhớ (USB), v.v... phục vụ nhiệm vụ chuyên môn chung của bộ phận.
+1.3.	Văn phòng phẩm dùng chung cho đơn vị
+-	Văn phòng phẩm bao gồm: Mực máy photocopy, mực máy fax, mực máy in, v.v... được cấp phát theo thực tế sử dụng.
+-	Phưong thức thực hiện: Căn cứ đề nghị của các phòng, bộ phận hành chính thực hiện kiểm tra thực tế và làm thủ tục lắp đặt, đổ mực, thay mực tại các đon vị.
+1.4.	Định mức khoán
+a)	Căn cứ xây dựng định mức khoán
+-	Yêu cầu sử dụng của từng đối tượng cán bộ, tính chất nghiệp vụ của từng bộ phận;
+-	Đơn giá từng loại văn phòng phẩm tại địa phương;
+-	Chi phí thực tế phát sinh hàng tháng/quý/năm cho các đối tượng cá nhân, phòng hoặc dùng chung cho cơ quan trong năm trước liền kề.
+b)	Quy định cụ thể: Đơn vị xây dựng định mức khoán chi tiết, phù hợp với từng đối tượng nhận khoán.
+1.5.	Hồ sơ thanh toán
+a)	Thanh toán văn phòng phẩm dùng chung cho đơn vị
+-	Giấy đề nghị thanh toán;
+-	Bảng tổng hợp kèm đề nghị/dự trù của các bộ phận;
+-	Hóa đơn, chứng từ và hồ sơ, tài liệu khác có liên quan (nếu có).
+b)	Thanh toán văn phòng phẩm khoán
+-	Giấy đề nghị thanh toán kèm danh sách cán bộ, bộ phận được khoán của bộ
+phận hành chính;
+-	Danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt).
+2.	Chi phương tiện vận tải: Là khoản chi mua xăng dầu, chi rửa xe, sửa chữa, bảo dưỡng cho phương tiện vận tải.
+2.1.	Chi xăng dầu
+a)	Nguyên tắc
+-	Chi xăng dầu cho phương tiện vận tải nhằm phục vụ hoạt động kinh doanh của đơn vị.
+-	Đơn vị phải xây dựng định mức, quản lý định mức tiêu hao nhiên liệu cho từng phương tiện để làm cơ sở quản lý và thanh toán. Trường hợp đơn vị không xây dựng định mức tiêu hao nhiên liệu, phương thức quản lý phương tiện thì không được thanh toán chi phí.
+-	Thanh toán chi phí xăng dầu trên cơ sở hóa đơn, chứng từ hợp pháp, hợp lệ và định mức được duyệt của từng loại phương tiện, trường hợp số xăng dầu thực mua cao hơn số được thanh toán sẽ được lưu xe và trừ lùi vào kỳ sau.
+b)	Thủ tục thanh toán
+-	Giấy đề nghị thanh toán có xác định chỉ số km đầu kỳ, cuối kỳ, số km thực đi, số lít xăng được thanh toán theo định mức, số lít xăng theo hóa đơn đã mua, số lít xăng tồn đầu kỳ chuyển sang, số lít xăng tồn chuyến sang kỳ sau, v.v...;
+-	Bảng kê lịch trình công tác, so km sử dụng có ký xác nhận của người đi công tác, phụ trách bộ phận quản lý đội xe, người có thẩm quyền phê duyệt;
+-	Lệnh điều xe của bộ phận quản lý đội xe (thuộc bộ phận hành chính) theo lịch trình và có xác định sổ km đi;
+-	Giấy đề nghị bố trí xe ô tô của người đi công tác (nếu có);
+-	Hóa đơn, chứng từ hợp pháp về mua xăng, dầu.
+2.2.	Chi phí cầu đường, phà, gửi xe được thanh toán theo thực tế phát sinh nhưng phải khớp đúng với nhật trình chạy xe, thời gian đi công tác.
+2.3.	Chi rửa xe: Căn cứ tình hình hoạt động tại địa bàn, đơn vị thực hiện khoán tiền rửa xe hàng tháng, tối đa 350.000 đồng/tháng/xe. Trường hợp 01 lái xe quản lý 02 xe ô tô thì mức chi đổi với xe thứ hai tối đa không quá 200.000đ/tháng/xe.
+2.4.	Chi sửa chữa, bảo dưỡng xe: Thực hiện theo quy định hiện hành của Agribank về sửa chữa, bảo dường tài sản cổ định. 
+
+a)	Đem vị căn cứ bộ tiêu chuẩn kỹ thuật, hướng dẫn sử dụng xe ô tô theo chủng loại được trang cấp, xây dựng quy trình quản lý, bảo dưỡng, sửa chữa xe về thời gian, cấp độ bảo dưỡng, thay thế phụ tùng, V.V.... để triển khai thực hiện.
+b)	Bộ phận kế toán chỉ thực hiện chi phí khi việc sửa chữa, bảo dưỡng theo đúng quy trình trên cơ sở phê duyệt của người có thẩm quyền. Trường hợp bất thường, đột xuất phải thành lập tổ đánh giá, hoặc thuê đơn vị có chức năng đánh giá tình trạng, trách nhiệm cá nhân (nếu có) trước khi thực hiện sửa chữa.
+2.5.	Chi mua bảo hiểm xe ô tô
+a) Loại bảo hiểm:
+-	Xe ô tô thuộc sở hữu của Agribank phải được mua bảo hiểm bắt buộc (bảo hiểm trách nhiệm dân sự của chủ xe) theo quy định của Nhà nước.
+-	Căn cứ yêu cầu quản lý, đơn vị thực hiện mua bảo hiểm tự nguyện (bảo hiểm trách nhiệm trách nhiệm dân sự của chủ xe đối với hàng hóa vận chuyển trên xe, bảo hiểm thiệt hại vật chất xe, bảo hiểm lái xe và người ngồi trên xe).
+b)Hồsơ thanh toán:
+-	Giấy đề nghị thanh toán;
+-	Tờ trình phê duyệt chủ trương của người có thẩm quyền (đối với bảo hiểm tự nguyện);
+-	Hóa đơn chứng từ hợp lệ, hợp pháp;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+3.	Chi lễ tân, khánh tiết
+Bao gồm các khoản chi phí phục vụ cho việc tiếp khách của Agribank.
+3.1.	Nguyên tắc
+a)	Việc tiếp khách chỉ thực hiện khi có phê duyệt chủ trương của người có thẩm quyền.
+b)	Các đơn vị phải thực hành tiết kiệm trong việc chi tiếp khách, việc tổ chức tiếp khách phải đơn giản, không phô trương, không hình thức.
+c)	Mọi khoản chi tiêu tiếp khách phải đúng chế độ, đúng tiêu chuẩn theo quy định, đảm bảo công khai, minh bạch.
+3.2.	Nội dung và định mức chi phí
+a)	Chi tổ chức lễ khánh thành, khai trương trụ sở làm việc: Theo chế độ chi hội nghị tại Mục III vãn bản này.
+b)	Chi mua hoa tươi, mua/thuê cây cảnh trang trí phỏng làm việc: Theo thực
+tế phát sinh, đảm bảo trang trọng, tiết kiệm.
+c)	Chi phí tiếp khách:
+-	Chì phí vật tư tiếp khách (chè, nước, hoa quả..v.v...): Bộ phận hành chính chịu trách nhiệm dự trù, lập đề nghị tiếp khách theo thực tế phát sinh. Tối đa 25.000 đồng/người/buổi.
+-	Chi mời cơm tiếp khách, chiêu đãi: Thực hiện theo phê duyệt của người có thẩm quyền về đối tượng khách mời, phạm vi, mức chi phí.
+-	Chi thanh toán tiền phòng nghỉ: Thực hiện theo Điểm 5.3 Mục I văn bản này.
+-	Chi tiền mua quà tặng đối ngoại: Thực hiện theo Tiết i Điểm 7.4 Mục II Quy định này.
+3.3.	Thủ tục tạm ứng, thanh toán
+a)	Hồ sơ tạm ứng
+-	Đề nghị tạm ứng cụ thể thời gian tiếp khách, dự kiến thời gian hoàn tạm ứng, v.v...;
+-	Tờ trình phê duyệt chủ trương tiếp khách nêu rõ nội dung, đối tượng, v.v... (bản sao);
+-	Chương trình, kế hoạch làm việc của khách đến làm việc (nếu có);
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+b)	Hồ sơ thanh toán
+-	Giấy đề nghị thanh toán;
+-	Tờ trình phê duyệt chủ trương tiếp khách (bản chính);
+-	Hóa đơn chứng từ hợp lệ, hợp pháp;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+4.	Các khoản chi phí quản lý khác
+4.1.	Các khoản chi phí quản lý khác phát sinh trong hoạt động kinh doanh chưa định mức trong quy định này, đơn vị căn cứ quy chế tài chính Agribank, các quy định của pháp luật có liên quan trình người có thẩm quyền phê duyệt bảo đảm tiết kiệm, hiệu quả.
+4.2.	Hồ sơ thanh toán phải đầy đủ hóa đơn, chứng từ hợp lệ, hợp pháp theo quy trình chi tiêu, mua sắm hiện hành.
+X.	Chi bồi dưỡng hoạt động kho, quỹ
+1.	Bồi dưỡng độc hại bằng hiện vật 
+1.1.	Điều kiện được hưởng chế độ bồi dưỡng độc hại bằng hiện vật
+a)	Chỉ thực hiện đối với cán bộ Agribank làm các công việc thuộc danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm theo đúng quy định, hướng dẫn của Bộ Lao động - Thương binh và Xã hội trong từng thời kỳ.
+b)	Khi điều kiện lao động thay đổi, không còn các yếu tố độc hại thì không được hưởng chế độ bồi dưỡng độc hại bằng hiện vật.
+1.2.	Nguyên tắc
+a)	Không được trả bằng tiền, không được trả vào lương thay cho hiện vật bồi dưỡng. Bộ phận hành chính phối hợp bộ phận y tế cơ sở (nếu có) xây dựng cơ cấu hiện vật dùng để bồi dưỡng phù hợp với việc thải độc, tăng cường sức đề kháng của cơ thể tương ứng với mức bồi dưỡng: Bằng sữa, phiếu mua sữa, v.v...
+b)	Nếu người lao động làm việc từ 50% số giờ làm việc bình thường trở lên của ngày làm việc thì được bồi dưỡng bằng cả định mức; làm việc dưới 50% số giờ làm việc bình thường của ngày làm việc thì được hưởng bằng /2 định mức bồi dưỡng theo quy định.
+c)	Nếu một người làm nhiều công việc thuộc đối tượng được hưởng mức bồi dưỡng độc hại khác nhau thì chỉ được áp dụng mức cao nhất.
+1.3.	Đổi tượng được bồi dưỡng độc hại bằng hiện vật
+a)	Thành viên ban quản lý kho tiền (trừ thủ kho tiền);
+b)	Thủ kho tiền, thủ quỹ (bao gồm cả thủ quỹ chính, giao dịch viên thực hiện thu chi tiền mặt, v.v...), kiểm ngân;
+c)	Thủ kho vật tư, thủ kho chứng từ;
+d)	Cán bộ làm công tác lưu trữ chứng từ (xếp, đánh số, đóng quyển, v.v...).
+1.4.	Mức bồi dưỡng: Bồi dưỡng bằng hiện vật được tính theo ngày làm việc và có giá trị bằng tiền tương ứng theo các mức sau.
+a)	Mức 1: Tối đa 10.000 đồng/người/ngày với đối tượng tại Tiết b Điểm 1.3 nêu trên.
+b)	Mức 2: Tối đa 8.000 đồng/người/ngày với đối tượng tại Tiết a, Tiết c, Tiết d Điểm 1.3 nêu trên.
+2.	Bồi dưỡng bốc xếp tiền
+2.1.	Đổi với cán bộ thủ quỹ, kiểm ngân, thủ kho, v.v... khi tham gia bốc xếp tiền được hưởng mức bồi dưỡng sau:
+a)	Trong giờ hành chính: 40.000 đồng/tấn. p 
+b)	Ngoài giờ hành chính: 60.000 đồng/tấn.
+c)	Ngày nghỉ, ngày lễ: 80.000 đồng/tấn.
+2.2.	Các cán bộ đã thanh toán bốc xếp tiền theo mức trên không được thanh toán tiền làm thêm giờ bốc xếp tiền.
+3.	Bồi dưỡng kiểm đếm, đóng bó, niêm phong tiền đã qua lưu thông
+3.1.	Định mức công việc
+a)	Đối với kiểm ngân chuyên trách: 20 bó/người/ngày.
+b)	Đối với kiểm ngằn kiêm nhiệm (kiểm ngân kiêm phụ kho): 17 bó/người/ngày.
+3.2.	Mức chi bồi dưỡng
+a)	Vượt định mức trong giờ hành chính: 3.000 đồng/bó.
+b)	Ngoài giờ hành chính: 5.000 đồng/bó.
+c)	Ngày nghỉ, ngày lễ: 10.000 đồng/bó.
+3.3.	Các cán bộ đã thanh toán kiểm đếm, đóng bó, niêm phong tiền theo mức trên không được thanh toán tiền làm thêm giờ kiểm đếm, đóng bó, niêm phong tiền.
+4.	Bảo vệ, áp tải các chuyến hàng đặc biệt
+4.1.	Đối tưựng áp dụng: Lái xe và những cán bộ được giao nhiệm vụ áp tải các chuyến hàng đặc biệt.
+4.2.	Mức chi
+a)	Khoảng cách dưới lOkm: Tối đa 30.000 đồng/người/ngày.
+b)	Khoảng cách từ lOkm đến dưới 20km: Tối đa 50.000 đồng/người/ngày.
+c)	Khoảng cách từ 20km đến dưới 50km: Tối đa 80.000 đồng/người/ngày.
+d)	Khoảng cách từ 50km đến dưới lOOkm: Tối đa 150.000 đồng/người/ngày.
+e)	Khoảng cách từ lOOkm đến dưới 200km: Tối đa 200.000 đồng/người/ngày.
+f)	Khoảng cách từ 200 km trở lên: Tối đa 25 0.000 đồng/người/ngày.
+5.	Bồi dưỡng tiêu hủy ấn chỉ quan trọng, chứng từ
+5.1.	Đối tượng áp dụng: Thành viên Hội đồng tiêu hủy và bộ phận giúp việc (nếu có) theo quy định hiện hành của Agribank.
+5.2.	Mức chi: Tối đa 100.000 đồng/ngày/người.
+6.	Thủ tục thanh toán 
+6.1.	Trường họp chi bằng tiền
+a)	Giấy đề nghị thanh toán;
+b)	Bảng kê công việc bốc xếp tiền có xác nhận của Trưởng phòng Ke toán Ngân quỹ/Tổ trưởng kế toán (đối với nội dung chi tại Điểm 2);
+c)	Bảng kê công việc kiểm đếm, đóng bó, niêm phong tiền có xác nhận của Trưởng phòng Kế toán Ngân quỹ/Tổ trưởng kế toán (đối với nội dung chi tại Điểm 3);
+d)	Bảng kê công việc vận chuyển có xác nhận của Trưởng phòng Ke toán (đối với nội dung chi tại Điểm 4);
+e)	Bảng kê thời gian làm việc, Biên bản làm việc của Hội đồng tiêu hủy (đối với nội dung chi tại Điểm 5);
+f)	Danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt);
+g)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+6.2.	Trường hựp chi bằng hiện vật
+a)	Giấy đề nghị thanh toán;
+b)	Tờ trình được người có thẩm quyền phê duyệt về đối tượng, nội dung chi kèm dự toán chi phí;
+c)	Bảng chấm công (đối với nội dung chi tại Điểm 1);
+d)	Hợp đồng, thanh lý hợp đồng (nếu có); hóa đơn, chứng từ hợp lệ; danh sách ký nhận của cán bộ, v.v...;
+e)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+XI.	Chi trang phục giao dịch, trang bị phương tiện làm việc cá nhân
+1.	Nguyên tắc
+1.1.	Chi trang phục giao dịch nhằm phục vụ cho yêu cầu công việc, tuân thủ quy định về trang phục giao dịch, nhận diện thương hiệu của Agribank.
+1.2.	Trang cấp, trang bị phương tiện làm việc cho cá nhân đúng đối tượng, thống nhất mẫu mã, phục vụ hiệu quả cho nhiệm vụ được phân công.
+1.3.	Căn cứ vào điều kiện cụ thể của từng đơn vị, việc trang cấp, trang bị có thể bằng hình thức hiện vật hoặc bằng tiền để cá nhân tự may, mua sắm theo đúng quy định về tiêu chuẩn, hình thức, màu sắc, kiểu dáng theo nhận diện thương hiệu của Agribank.
+2.	Nội dung chi í
+2.1.	Trang phục giao dịch
+a)	Đổi tượng: Cán bộ thuộc hệ thống Agribank.
+b)	Mức chi
+-	Đối với trang phục giao dịch hàng ngày: Chi bằng tiền mặt hoặc hiện vật, tối đa 5.000.000 đồng/người/nãm.
+-	Đối với trang phục giao dịch theo hình thức lễ phục (vest, comple, áo dài, v.v...): Chi bằng hiện vật theo hóa đom thực tế, tối đa 12.000.000 đồng/người/3 năm.
+2.2.	Phương tiện làm việc
+a)	Trang cấp cho cán bộ ỉànt công tác tín dụng
+-	Cặp để tài liệu giá trị tối đa 500.000 đồng/người/2 năm;
+-	Mũ bảo hiểm xe máy giá trị tối đa 350.000 đồng/người/2 nãm;
+-	Quần, áo đi mưa giá trị tối đa 150.000 đồng/người/năm.
+b)	Trang cấp cho cán bộ ỉàm công tảc kiểm tra kiểm soát, dịch vụ Marketingphải thường xuyên đi công tác: Cặp để tài liệu giá trị tối đa 500.000 đồng/người/2 nãm.
+2.3.	Chi bảo hộ lao động trong công tác kiểm ngân, kho quỹ
+a)	Đổi tượng: Cán bộ là thủ quỹ, thủ kho tiền, kiểm ngân chuyên trách tại các Chi nhánh loại I, loại II, phòng giao dịch; các cán bộ trong Ban quản lý kho.
+b)	Định mức chi hàng năm cho mỗi đối tượng như sau:
+-	Áo choàng vải trắng may theo mẫu thống nhất, không có túi để bảo hộ lao động khi làm việc: 02 chiếc.
+-	Mũ vải: 02 chiếc; khẩu trang lọc bụi: 24 chiếc; dép quai hậu: 02 đôi; xà phòng: 06kg; kính trắng chống bụi: 02 chiếc; khăn mặt bông: 12 chiếc.
+c)	Mức chi: Tối đa 2.000.000 đồng/người/nãm.
+3.	Phương thức chi
+3.1.	Các khoản chi được thanh toán bằng hiện vật (trừ khoản chi trang phục giao dịch hàng ngày có thể chi bằng tiền mặt). Riêng đối với phưomg tiện bảo hộ lao động trong công tác kiểm ngân, kho quỹ, đom vị không giao tiền cho cán bộ tự đi mua.
+3.2.	Cán bộ có thời gian làm việc trong năm dưới 06 (sáu tháng) được hưỏmg bằng 50% định mức quy định đối với các khoản thanh toán bằng tiền mặt.
+3.3.	Cán bộ nghỉ không hưỏmg lưomg dài ngày (cả năm) không được chi trang
+phục giao dịch, phương tiện làm việc cá nhân.
+4.	Thủ tục thanh toán
+4.1.	Trường hợp chi bằng tiền mặt
+a)	Giấy đề nghị thanh toán;
+b)	Danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt);
+c)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+4.2.	Trường hợp chỉ bằng hiện vật
+a)	Giấy đề nghị thanh toán;
+b)	Tờ trình được người có thẩm quyền phê duyệt về đối tượng, nội dung trang cấp kèm dự toán chi phí;
+c)	Hợp đồng, thanh lý hợp đồng (nếu có); hóa đơn, chứng từ hợp lệ; danh sách ký nhận của cán bộ được trang cấp, v.v...;
+d)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+XII.	Chi tiền ăn ca
+1.	Nguyên tắc chi
+1.1.	Phương thức chi: Trên cơ sở ý kiến thống nhất của Ban chấp hành Công đoàn Agribank tại văn bản số 434/NHNo-CĐ ngày 09/11/2016 về việc thực hiện chế độ ăn giữa ca trong hệ thống Agribank, đơn vị cấp tiền ăn giữa ca cho cán bộ theo ngày công thực tế.
+1.2.	Mức chi tiền ăn giữa ca thực hiện theo hướng dẫn của Bộ Lao động Thương binh và Xã hội từng thời kỳ.
+1.3.	Agribank không chi ăn giữa ca trong các trường hựp sau:
+a)	Ngày không làm việc, ngày làm việc không đủ số giờ làm việc tiêu chuẩn (dưới 50% số giờ làm việc bình thường của ngày làm việc);
+b)	Nghỉ phép, nghỉ bù, nghỉ không hưởng lương, nghỉ hưởng Bảo hiểm xã hội khác;
+c)	Tham dự các lớp đào tạo tập trung của Agribank (hoặc đơn vị ngoài Agribank mà chi phí tham dự đã bao gồm tiền ăn trưa) có thời gian trên 05 ngày đào tạo.
+2.	Mức chi tiền ăn giữa ca thòi điểm hiện tại: Tổi đa 730.000 đồng/người/tháng theo quy định tại Thông tư số 26/2016/TT-BLĐTBXH ngày 01/9/2016 của Bộ Lao động - Thương binh và Xã hội về việc hướng dẫn thực hiện quản lý lao động, tiền lương và tiền thưởng đối với người lao động làm việc trong
+công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ.
+3.	Hồ sơ thanh toán: Bảng chấm công hàng tháng.
+XIII.	Chi y tế cho cán bộ
+1.	Chi tiền mua thuốc tại đơn vị (tủ thuốc cơ quan)
+1.1.	Nguyên tắc
+Đơn vị được phép mua một số loại thuốc thông thường để sơ cứu, cấp cứu kịp thời cho cán bộ tại cơ quan như: Cảm, hạ sốt, ho, xoang, suyễn, tăng giảm huyết áp, v.v... Đơn vị không chi mua các loại thuốc đặc biệt, đặc trị bệnh cho từng cá nhân cán bộ.
+1.2.	Hồ sơ thanh toán
+a)	Giấy đề nghị thanh toán;
+b)	Tờ trình mua thuốc theo danh mục từng loại, số lượng thuốc của cán bộ y tế đã được người có thẩm quyền phê duyệt;
+c)	Bảng tổng hợp danh sách kê khai số thuốc đã mua và đã sử dụng cho cán bộ, số thuốc đã mua còn tồn;
+d)	Hóa đơn, chứng từ mua thuốc hợp pháp;
+e)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+2.	Chi khám sức khỏe định kỳ cho cán bộ
+2.1.	Khám sức khỏe định kỳ hàng năm cho cán bộ
+a)	Đơn vị tổ chức khám sức khỏe định kỳ, tập trung cho toàn thể cán bộ một năm một lần nhằm đánh giá tình trạng sức khỏe của cán bộ, làm cơ sở bố trí công việc thích hợp, đảm bảo yêu cầu hoạt động kinh doanh.
+b)	Nội dung khám sức khỏe: Khám chuyên khoa (khoa nội, mắt, tai mũi họng, răng hàm mặt, da liễu, phụ sản), siêu âm, chụp X-quang, xét nghiệm huyết học, sinh hóa, V.V....
+c)	Mức chi: Tối đa 4.000.000 đồng/người/năm.
+2.2.	Khám sức khỏe cho cán bộ nữ, cán bộ iàm công việc nặng nhọc, độc hại
+a)	Đối tượng: Cán bộ nữ và cán bộ làm công việc nặng nhọc, độc hại tại Điểm 1.3 Mục X văn bản này được khám sức khỏe thêm một lần trong năm ngoài lần khám sức khỏe tập trung theo quy định tại Điểm 2. Inêu trên.
+b)	Nội dung khám sức khỏe: Khám chuyên khoa phụ sản đối với lao động nữ; khám các bệnh mãn tính, bệnh nghề nghiệp (bao gồm cả khám chuyên khoa phụ sản cho lao động nữ) đối với cán bộ làm công việc nặng nhọc, độc hại.
+c)	Mức chi: Tối đa 3.000.000 đồng/người/năm.
+2.3.	Chi phí tổ chức khám sức khỏe
+Trường hợp cơ sở y tế trên địa bàn không đáp ứng được nhu cầu khám chữa bệnh, đơn vị có thể tổ chức khám bệnh cho cán bộ tại bệnh viện khác địa bàn, chi phí phương tiện đi lại và các chi phí hợp lý khác (nếu có) thực hiện theo định mức tại Quy định này, nhưng không vượt quá 30% chí phí khám sức khỏe theo định mức tại Điểm 2.1, Điểm 2.2 nêu trên.
+2.4.	Hồ sơ, thủ tục thanh toán
+a)	Giấy đề nghị thanh toán;
+b)	Hồ sơ lựa chọn đơn vị cung cấp dịch vụ, hợp đồng, hóa đơn tài chính, biên bản nghiệm thu và thanh lý hợp đồng;
+c)	Danh sách cán bộ khám sức khỏe; bảng tổng hợp quyết toán danh mục khám sức khỏe của từng cán bộ đã khám;
+d)	Hồ sơ, chứng từ khác có liên quan.
+e)	Chỉ bồi dưỡng cho cán bộ nữ sau khi sinh con
+l)	Mục đích: Nhằm giúp đỡ cán bộ nữ khắc phục một phần khó khăn do sinh đẻ.
+m)	Đối tượng: Lao động nữ sinh con lần thứ nhất hoặc lần thứ hai.
+3.	Mức chi: Cán bộ nữ sinh con được trợ cấp tối đa cho mỗi con bằng 02 lần mức lương cơ sở (theo quy định của Nhà nước) tại tháng cán bộ nữ sinh con cho mỗi con/lần sinh.
+4.	Hồ sơ thanh toán: Giấy đề nghị thanh toán; bản sao giấy khai sinh của con cán bộ nữ.
+XIV.	Chi tiền nghỉ phép hàng năm
+1.	Thanh toán cho cán bộ đi nghỉ phép năm
+1.1.	Đối tượng
+a)	Cán bộ là người miền xuôi công tác ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo có hệ số phụ cấp khu vực từ mức 0,5 trở lên và người ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo có hệ số phụ cấp khu vực từ mức 0,5 trở lên làm việc ở miền xuôi có đủ điều kiện được nghỉ phép hàng năm theo quy định, được đơn vị đồng ý cấp giấy đi nghỉ phép năm về thăm gia đình, cha mẹ, vợ hoặc chồng, con hoặc thăm quê quán (cả bên chồng hoặc bên vợ).
+Hệ số phụ cấp khu vực thực hiện theo quy định của Nhà nước (Thông tư ll/2005/TTLT-BNV-BLĐTBXH-BTC-UBDT ngày 05/01/2005). . ứ
+b)	Cán bộ công tác tại vùng còn lại có đủ điều kiện được nghỉ phép hàng năm theo Luật lao động, được cấp có thẩm quyền đồng ý cấp giấy cho đi nghỉ phép năm để thăm vợ hoặc chồng, con, cha, mẹ (cả bên chồng hoặc bên vợ) bị ốm đau, bị chết.
+1.2.	Nội dung và mức thanh toán
+a)	Thanh toán tiền phụ cấp đi đường bằng mức phụ cấp lưu trú tại Điểm 5.2 Mục I văn bản này.
+b)	Tiền thuê phương tiện đi, về khi nghỉ phép năm
+-	Tiền phương tiện đi nghỉ phép hàng năm chỉ được thanh toán mỗi năm một lần (đi và về).
+-	Trường hợp cán bộ được người có thẩm quyền cho phép nghỉ gộp tối đa ba năm một lần, thì chỉ được thanh toán một lần tiền phụ cấp đi đường và tiền thuê phương tiện đi lại (một lượt đi và về).
+-	Mức thanh toán: Theo giá ghi trên vé, hoá đơn mua vé hoặc chứng từ hợp pháp về thuê phương tiện đi lại thông thường (tối đa bằng mức giá vé nằm điều hòa của tàu hỏa, tàu thủy, xe đường bộ).
++ Trường hợp cán bộ đi nghỉ phép sử dụng phương tiện máy bay khi có vé hợp pháp được thanh toán tối đa theo giá cước vận tải hành khách thông thường bằng phương tiện đường bộ, đường sắt, đường thủy phù hợp với tuyến đường đi nghỉ phép tại địa phương.
++ Trường hợp người đi nghỉ phép năm tự túc bằng phương tiện cá nhân thì được thanh toán khoán tiền tự túc phương tiện tương ứng với giá vận tải hành khách của loại phương tiện thông thường tại địa phương.
++ Đối với những vùng không có phương tiện vận tải của tổ chức, cá nhân kinh doanh vận tải hành khách theo quy định của pháp luật mà người đi nghỉ phép phải thuê phương tiện vận tải khác thì đơn vị xem xét, quyết định cho thanh toán tiền thuê phương tiện mà người đi nghỉ phép đã thuê trên cơ sở hợp đồng thuê phương tiện hoặc giấy biên nhận thanh toán với chủ phương tiện (có tính đến giá vận tải phương tiện khác đang thực hiện cùng thời điểm tại vùng đó cho phù hợp).
++ Trường hợp người đi nghỉ phép năm kết hợp giữa đi công tác và nghỉ phép thăm người thân thì không được thanh toán tiền phụ cấp đi đường và tiền thuê phương tiện đi lại của chặng đường đã được thanh toán trong công tác phí.
+1.3.	Thủ tục thanh toán
+a)	Đơn xin nghỉ phép của cán bộ được phê duyệt của lãnh đạo nơi trực tiếp quản lý cán bộ (theo phân cấp quản lý cán bộ); 
+b)	Xác nhận của chính quyền địa phương nơi thân nhân cư trú;
+c)	Giấy đề nghị thanh toán kèm các chứng từ hợp pháp, hợp lệ về thuê phương tiện đi lại;
+d)	Trường hợp cán bộ đi bằng phương tiện máy bay, phải có hóa đơn mua vé hoặc vé điện tử kèm thẻ lên máy bay;
+e)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+1.4.	về nguyên tắc, tiền đi nghỉ phép của năm nào thì được thanh toán trong năm đó. Tuy nhiên, trường hợp vì công việc được lãnh đạo nơi trực tiếp quản lý cán bộ (theo phân cấp quản lý cán bộ) cho nghỉ phép những tháng cuối năm hoặc lùi thời gian nghỉ phép sang năm sau thì được thanh toán tiền đi nghỉ phép năm chậm nhất sau 01 tháng kể từ ngày kết thúc kỳ nghỉ phép.
+2.	Thanh toán tiền lương hoặc tiền bồi dưỡng cho những ngày được nghỉ phép hàng năm nhưng chưa nghỉ hoặc nghỉ chưa hết sổ ngày nghỉ hàng năm
+2.1.	Đối tượng
+a)	Cán bộ Agribank do thôi việc, bị mất việc làm hoặc vì các lý do khác mà chưa nghỉ hàng năm hoặc chưa nghỉ hết số ngày nghỉ hàng năm.
+b)	Các trường hợp do yêu cầu công việc, đơn vị không bố trí được thời gian cho cán bộ nghỉ phép.
+2.2.	Mức thanh toán và cách thức chi trả
+a)	Đối tượng theo Tỉểt a Điểm 2.1 nêu trên
+-	Đơn vị thanh toán tiền lương đối với những ngày chưa nghỉ phép năm trên cơ sở mức lương đóng bảo hiểm theo quy định của Agribank.
+-	Mức thanh toán:
+Mứ thanh Mức lương dóng bào hiểm	số ngày phép chưa nghỉ
+Toán = số ngày tiêu chuần trong tháng x trong năm cùa từng đôi tượng cán bộ
+Trong đó:
+-	Mức lương đóng bảo hiểm được xác định tại tháng liền kề trước khi cán bộ nghỉ việc.
+-	Ngày tiêu chuẩn trong tháng áp dụng thống nhất là 22 ngày.
+-	Số ngày nghỉ phép hàng năm của cán bộ thực hiện theo quy định của Luật lao động. Đối với cán bộ có dưới 12 tháng làm việc thì số ngày nghỉ phép hàng
+năm được tính theo tỷ lệ tương ứng với thời gian làm việc.
+b)	Đổi tượng theo Tiểt b Điểm 2.1 nêu trên
+-	Hàng năm căn cứ khả năng tài chính, tổng số ngày phép chưa nghỉ phép năm của cán bộ, Trưởng đơn vị quyết định hỗ trợ tiền bồi dưỡng cho cán bộ những ngày chưa nghỉ phép năm.
+-	Mức thanh toán: Tối đa theo mức chi quy định tại Tiết a Điểm 2.2 nêu trên. Trong đó, mức lương đóng bảo hiểm được xác định tại tháng liền kề trước khi đơn vị tính trả bằng tiền những ngày chưa nghỉ phép năm.
+2.3.	Thủ tục thanh toán
+a)	Đối tượng theo Tiết a Điểm 2.1 nêu trên: Căn cứ theo Quyết định tuyển dụng, hợp đồng lao động, văn bản xác nhận của đơn vị về việc cán bộ thôi việc, bị mất việc làm. Đơn vị chủ động thanh toán cho cán bộ chậm nhất sau 01 tháng kể từ khi cán bộ nghỉ việc.
+b)	Đối tượng theo Tiểt b Điểm 2.1 nêu trên.
+-	Hồ sơ thanh toán:
++ Đơn xin nghỉ phép của cán bộ có ý kiến của lãnh đạo nơi trực tiếp quản lý cán bộ làm việc (theo phân cấp quản lý cán bộ) xác nhận do yêu cầu công việc nên không bố trí được thời gian nghỉ phép cho cán bộ.
++ Giấy đề nghị thanh toán của Phỏng trực tiếp quản lý cán bộ (xác định rõ số ngày được nghỉ phép theo chế độ, số ngày chưa nghỉ đề nghị được thanh toán).
+-	Thời gian thanh toán: Được thực hiện một lần trong năm tài chính, thời điểm cuối năm sau khi đã xác định được số ngày không bố trí nghỉ trong năm cho cán bộ (thanh toán chậm nhất vào ngày 31/12 hàng năm).
+XV.	Chi phúc lợi cho cán bộ
+1.	Chi đám hiếu, hỷ
+1.1.	Chi đám hỷ
+a)	Đổi tượng: Cán bộ; con của cán bộ Agribank (con đẻ, con nuôi họp pháp).
+b)	Mức chỉ:
+-	Đối với cán bộ Agribank: Tối đa 3.000.000 đồng/người.
+-	Đối với con của cán bộ Agribank: Tối đa 2.000.000 đồng/người.
+1.2.	Chi đám hiểu
+a)	Đối tượng: Chi cho các đối tượng là cán bộ; người thân của cán bộ gồm: Vợ (hoặc chồng), con, bố mẹ (tứ thân phụ mẫu) của cán bộ Agribank, n 
+b)	Mức chi:
+-	Đối với cán bộ Agribank: Tối đa 2.000.000 đồng/người.
+-	Đối với người thân của cán bộ Agribank: Tối đa 1.000.000 đồng/người.
+Trường hợp đối tượng là người thân của nhiều cán bộ tại đơn vị thì cũng chỉ được chi một định suất.
+1.3.	Hồ sơ thanh toán: Đe xuất của Công đoàn cơ sở thành viên có phê duyệt của người có thẩm quyền, bản sao giấy đăng ký kết hôn đối với đám hỷ, giấy báo tử đối với đám hiếu, giấy tờ chứng minh mối quan hệ nhân thân của cán bộ.
+2.	Chi nghỉ mát
+2.1.	Đối tượng: Cán bộ có thời gian công tác trong năm từ 06 tháng trở lên.
+2.2.	Mức chi; Tối đa 5.000.000 đồng/người/năm.
+2.3.	Phương thức chi:
+a)	Đơn vị tổ chức đoàn nghỉ mát cho cán bộ hoặc thanh toán bằng tiền mặt cho cán bộ tự tổ chức nghỉ mát.
+b)	Trường hợp cán bộ đã đi nghỉ dưỡng bằng nguồn kinh phí của Công đoàn thì không được chi nghỉ mát theo Điểm 2.2 nêu trên.
+2.4.	Hồ sơ thanh toán
+a)	Chi bằng tiền
+-	Đề xuất của Công đoàn cơ sở thành viên có phê duyệt của người có thẩm quyền về đối tượng, nội dung, mức chi, phương thức chi;
+-	Danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt).
+b)	Trường hợp tể chức đoàn nghỉ mát
+-	Đề xuất của Công đoàn cơ sở thành viên có phê duyệt của người có thẩm quyền về nội dung, số lượng cán bộ, thời gian, địa điểm;
+-	Dự toán chi phí;
+-	Danh sách người lao động tham gia nghỉ mát;
+-	Hồ sơ lựa chọn đơn vị cung cấp dịch vụ, hợp đồng kinh tế, thanh lý hợp đồng;
+-	Hóa đơn, chứng từ hợp pháp, hợp lệ về tiền phòng nghỉ, ăn uống, dịch vụ, v.v...
+3.	Chi hỗ trự điều trị bệnh
+3.1.	Đối tượng: Cán bộ điều trị bệnh, chấn thương do tai nạn gồm:
+a)	Bệnh thuộc danh mục bệnh hiểm nghèo quy định tại Nghị định số
+134/2016/NĐ-CP ngày 01/9/2016 của Chính Phủ quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu.
+b)	Bệnh thuộc danh mục bệnh cần chữa trị dài ngày theo Thông tư số 46/2016/TT-BYT ngày 30/12/2016 của Bộ Y tế về ban hành danh mục bệnh cần chữa trị dài ngày.
+c)	Bệnh cấp tính, phẫu thuật, chấn thương do tai nạn.
+3.2.	Mức chi: Thanh toán số tiền trả viện phí của cán bộ sau khi trừ số tiền chi trả của tổ chức bảo hiểm, như sau:
+a)	Đoi với đổi tượng theo quy định tại Tiết a Điểm 3.1: Tối đa 10.000.000 đồng/người/năm.
+b)	Đổi với đoi tượng theo quy định tại Tiết b, Tiết c Điểm 3.1: Tối đa 5.000.000 đồng/người/nãm.
+3.3.	Hồ sơ thanh toán
+a)	Đề xuất của Công đoàn cơ sở thành viên có sự phê duyệt của người có thẩm quyền;
+b)	Chứng từ y tế liên quan (bản sao): Giấy xuất viện, bệnh án, v.v...;
+c)	Chứng từ trả tiền viện phí (bản sao) có xác nhận của người có thẩm quyền (trong trường hợp cán bộ trả phần còn lại sau khi tổ chức bảo hiểm trả trực tiếp với cơ sở khám chữa bệnh) hoặc chứng từ trả viện phí, chứng từ chi bảo hiểm y tế (bản sao) có xác nhận của người có thẩm quyền (trong trường hợp cán bộ trả toàn bộ viện phí, tổ chức bảo hiểm trả tiền bảo hiểm cho người lao động);
+d)	Trường hợp cán bộ khám, chữa bệnh tại nước ngoài, chứng từ thanh toán gồm: Giấy xác nhận của một cơ sở y tế trong nước hoặc xác nhận của cơ sở y tế tuyến tỉnh hoặc tuyến Trung ương về tình trạng bệnh tật và hướng điều trị đổi với trường hợp ra nước ngoài khám, chữa bệnh; bản dịch tiếng Việt (được công chứng) giấy khám, chữa bệnh do cơ sở y tế nước ngoài cấp;
+e)	Hồ sơ, chứng từ khác có liên quan (nếu có).
+4.	Chi hỗ trợ gia đình cán bộ bị ảnh hưởng bởi thiên tai, địch họa, tai nạn, ốm đau
+4.1.	Chi hỗ trợ gia đình cán bộ bị ảnh hưởng bởi thiên tai, địch họa
+a)	Đối tượng: Công trình sinh hoạt (nhà ở, v.v...), phương tiện, của cải vật chất khác của gia đình cán bộ Agribank bị thiệt hại do thiên tai (bão, lũ lụt, mưa đá, lở đất, động đất, sóng thần), địch họa (chiến tranh, bạo động, hỏa hoạn).
+b)	Mức chi: Căn cứ vào mức độ thiệt hại, đơn vị xác định mức hỗ trợ cho gia đình cán bộ, tối đa 10.000.000 đồng/gia đình/nãm. , 
+c)	Hồ sơ thanh toán
+-	Đe xuất của Công đoàn cơ sở thành viên nơi cán bộ công tác được người có thẩm quyền phê duyệt, trong đó có đánh giá về thực trạng, mức độ ảnh hưởng của thiên tai, địch họa đối với gia đình cán bộ;
+-	Xác nhận mức độ ảnh hưởng bởi thiên tai, địch họa đối với gia đình cán bộ của ủy ban nhân dân xã, phường nơi cư trú hoặc nơi xảy ra thiên tai, địch họa.
+4.2.	Chi hỗ trự gia đình cán bộ bị ảnh hưởng bởi tai nạn, ốm đau
+a)	Đổi tượng: Chi cho các đối tượng là vợ (hoặc chồng), con, bố mẹ (tứ thân phụ mẫu) của cán bộ Agribank.
+b)	Mức chi: Tối đa 1.000.000 đồng/năm/người thân của cán bộ.
+Trường hợp đối tượng là người thân của nhiều cán bộ tại đơn vị thì cũng chỉ được chi một định suất.
+4.3.	Hồ sơ thanh toán: Đề xuất của Công đoàn bộ phận nơi cán bộ công tác được người có thẩm quyền phê duyệt về nội dung, mức chi; bản sao các chứng từ y tế liên quan (giấy xuất viện, bệnh án, giấy giám định thương tật, v.v...); ký nhận tiền (nếu chi bằng tiền mặt) hoặc hóa đơn chứng từ mua quà.
+5.	Chi hỗ trự chi phí đi lại ngày lễ, tết
+5.1.	Đối tượng: Chi hỗ trợ chi phí đi lại cho cán bộ các đợt nghỉ lễ, tết: Bao gồm Tet âm lịch, ngày Quốc tế lao động (1/5), ngày Quốc khánh (2/9).
+5.2.	Mức chi: Tối đa 1.000.000 đồng/người/đợt nghỉ lễ.
+5.3.	Hồ sơ thanh toán.’ Đề xuất của Công đoàn cơ sở thành viên có phê duyệt của người có thẩm quyền, danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt).
+6.	Chỉ khen thưởng con của cán bộ có thành tích tốt trong học tập
+6.1.	Đối tượng
+a)	Học sinh, sinh viên ỉà con của cán bộ có thành tích tểt trong học tập
+-	Khen thưởng định kỳ học sinh khá, giỏi hoặc danh hiệu tương đương theo quy định của Bộ Giáo dục và Đào tạo.
+-	Giải khuyến khích trở lên tại các kỳ thi học sinh giỏi các môn học (bao gồm cả môn thể dục, thể thao, nghệ thuật) cấp Quận/Huyện trở lên do Bộ/SỞ/Phòng giáo dục đào tạo, Bộ/SỞ văn hóa thể thao du lịch tổ chức hoặc cử đi thi.
+-	Giải khuyến khích trở lên tại các kỳ thi nghiên cứu khoa học cấp Quận/Huyện trở lên do BỘ/SỞ/Phòng giáo dục đào tạo tổ chức hoặc cử đi thi.
+b)	Trường họp học sinh, sinh viên cỗ cả bố và mẹ làm tạỉ Agribank thì đơn J'^
+vị chi khen thưởng ỉà nơi mẹ công tác.
+6.2.	Mức chi
+a)	Khen thưởng định kỳ:
+-	Tối đa 300.000 đồng/nãm học/học sinh khá.
+-	Tối đa 500.000 đồng/năm học/học sinh giỏi.
+b)	Khen thưởng các kỳ thi cấp Quận/Huyện trở lên:
+-	Cấp quốc tế:
++ Giải nhất hoặc giải đặc biệt: Tối đa 4.000.000 đồng/giải thưởng.
++ Giải nhì: Tối đa 3.700.000 đồng/giải thưởng.
++ Giải ba: Tối đa 3.400.000 đồng/giải thưởng.
++ Giải khuyến khích: Tối đa 3.200.000 đồng/giải thưởng.
+-	Cấp quốc gia: Tối đa 75% mức khen thưỏmg cấp quốc tế.
+-	Tỉnh: Tối đa 50% mức khen thưởng cấp quốc tế.
+-	Cấp Quận/Huyện: Tối đa 25% mức khen thưởng cấp quốc tế.
+6.3.	Hồ sơ thanh toán
+a)	Tờ trình đề xuất của Công đoàn cơ sở thành viên về danh sách, mức khen thưởng đã được người có thẩm quyền chấp thuận;
+b)	Giấy khen, Bằng khen hoặc xác nhận của cơ quan có thẩm quyền về thành tích khen thưởng (bản sao);
+c)	Giấy tờ chứng minh mối quan hệ nhân thân của cán bộ (bản sao);
+d)	Bảng kê chi tiền có ký nhận của cán bộ.
+7.	Chi mua bảo hiểm tự nguyện cho cán bộ
+7.1.	Đối tưựng
+Đối tượng chi mua bảo hiểm tự nguyện (Người được bảo hiểm): Là cán bộ Agribank ký hợp đồng không xác định thời hạn hoặc hợp đồng có thời hạn từ một năm trở lên, gồm:
+a)	Tiêu chuẩn 1: Giám đốc, Phó Giám đốc chi nhánh loại I, loại II; cán bộ làm công tác tín dụng.
+b)	Tiêu chuẩn 2: Các đối tượng cán bộ còn lại.
+7.2.	Nội dung bảo hiểm
+a)	Bảo hiểm tai nạn con người: Bảo hiểm tai nạn con người theo vãn bản này n 
+là Bảo hiểm cho những sự kiện bất ngờ, không lường trước, ngoài ý muốn tác động từ bên ngoài lên thân thể của Người được bảo hiểm, là nguyên nhân trực tiếp và duy nhất dẫn đến tử vong hay thương tật cho Người được bảo hiểm.
+b)	Bảo hiểm chăm sóc sức khỏe: Là nhằm bảo vệ sức khỏe, tài chính của Người được bảo hiểm khi có rủi ro bị thương tật, tai nạn, ốm đau, bệnh tật hoặc chăm sóc sức khỏe được Công ty bảo hiểm trả tiền chi phí khám bệnh, chữa bệnh, phục hồi sức khỏe, v.v.... theo thỏa thuận trong hợp đồng bảo hiểm.
+7.3.	Mức chỉ phí mua bảo hiểm
+Căn cứ vào tình hình tài chính, Trưởng đon vị quyết định mua bảo hiểm cho cán bộ. Trên cơ sở mức chi phí bảo hiểm, đơn vị đàm phán, lựa chọn đơn vị cung cấp dịch vụ để được quyền lợi bảo hiểm tối ưu cho cán bộ.
+a)	Bảo hiểm tai nạn con người:
+-	Tiêu chuẩn 1: Tối đa 200.000 đồng/người/năm.
+-	Tiêu chuẩn 2: Tối đa 100.000 đồng/người/năm.
+b)	Bảo hiểm chăm sóc sức khỏe
+-	Tiêu chuẩn 1: Tối đa 2.000.000 đồng/người/nãm.
+-	Tiêu chuẩn 2: Tối đa 1.500.000 đồng/người/năm.
+c)	Trường hợp ký hợp đồng bảo hiểm sức khỏe, nội dung bao gồm cả bảo hiểm tai nạn con người và bảo hiểm chăm sóc sức khỏe thì mức chi mua bảo hiểm cho một đối tượng tối đa bằng tổng mức chi quy định tại Tiết a, b Điểm 7.3 nêu trên.
+7.4.	Phương thức và hồ sơ thanh toán
+a)	Phương thức thực hiện
+-	Đơn vị tổ chức mua bảo hiểm tai nạn, bảo hiểm chăm sóc sức khỏe cho cán bộ theo phê duyệt của người có thẩm quyền và ý kiến thống nhất của Công đoàn cơ sở.
+-	Trưởng đơn vị ký hợp đồng với Công ty Bảo hiểm, thỏa thuận cụ thể về: phạm vi, đối tượng, điều kiện, điều khoản bảo hiểm, thời hạn bảo hiểm; số tiền bảo hiểm, mức phí bảo hiểm, phương thức đóng phí bảo hiểm; chế độ chi trả bảo hiểm, quyền lợi và trách nhiệm của bên mua, bên bán bảo hiểm, Người được bảo hiểm và các điều kiện khác liên quan đến bảo hiểm.
+-	Thời hạn bảo hiểm: 01 năm.
+b)	Hồ sơ thanh toán:
+-	Giấy đề nghị thanh toán (có ý kiến chấp thuận của Công đoàn cơ sở thành viên) được người có thẩm quyền phê duyệt về danh sách cán bộ tham gia bảo hiểm 
+và mức chi tối đa tương ứng;
+-	Hồ sơ lựa chọn đơn vị cung cấp dịch vụ; Hợp đồng bảo hiểm, hóa đơn tài chính, v.v...;
+-	Hồ sơ, chứng từ khác có liên quan (nếu có).
+8.	Hạn mức chi phí
+8.1.	Tổng các khoản chi có tính chất phúc lợi toàn hệ thống Agribank quy định tại Mục XV nêu trên không quá 01 (một) tháng lương bình quân thực tế thực hiện trong năm tính thuế của Agribank.
+Việc xác định 01 (một) tháng lương bình quân thực tế thực hiện trong năm tính thuế của Agribank được xác định bàng quỹ tiền lương thực hiện trong năm chia (:) 12 tháng.
+Quỹ tiền lương thực hiện là tổng số tiền lương thực tế đã chi trả của năm quyết toán đó đến thời hạn cuối cùng nộp hồ sơ quyết toán theo quy định (không bao gồm số tiền trích lập quỹ dự phỏng tiền lương của năm trước chi trong năm quyết toán thuế).
+8.2.	Các khoản chi có tính chất phúc lợi tại Mục XV không phải khoản chi bắt buộc và là mức chi tối đa, Trưởng đơn vị quyết định mức chi phù hợp với điều kiện về tài chính và giới hạn của 01 tháng lương thực hiện theo quy định tại Điểm 8.1.
+XVI.	Một số nội dung khác
+Áp dụng đối với các khoản chi hoạt động quản lý và công vụ, chi cho cán bộ Agribank.
+1.	Tạm ứng
+1.1.	Đối tưựng tạm ứng: Là cán bộ của Agribank.
+1.2.	Trường hợp đưực tạm ứng
+a)	Cán bộ được giao thực hiện công việc có nhu cầu chi phí.
+b)	Thanh toán các khoản ứng trước theo điều khoản thanh toán ghi trong hợp đồng với nhà cung cấp để đảm bảo việc thực hiện hợp đồng.
+Riêng trường hợp mua sắm hàng hóa, đơn vị không được tạm ứng trước tiền mua hàng cho bên bán hàng.
+1.3.	Thủ tục tạm ứng
+a)	Khi có nhu cầu tạm ứng, cán bộ lập Giấy đề nghị tạm ứng kèm các giấy tờ liên quan đến việc tạm ứng (dự toán, hợp đông, tờ trình chủ trương, kế hoạch, v.v....của đơn vị đã được cấp có thẩm quyền phê duyệt) trình người có thẩm quyền.
+phê duyệt. Trong đề nghị tạm ứng ghi rõ nội dung, lý do, số tiền tạm ứng, thời gian thanh toán.
+b)	Căn cứ phê duyệt của người có thẩm quyền, bộ phận kế toán thực hiện hạch toán tạm ứng cho cán bộ.
+1.4.	Thanh toán tạm ứng
+a)	Khi việc chi tiêu hoàn thành (từng phần hoặc toàn bộ), cán bộ tạm ứng có nghĩa vụ thanh toán ngay khoản tiền đã tạm ứng, tối đa 07 ngày làm việc kể từ khi kết thúc công việc (không bao gồm các khoản tạm ứng theo họp đồng).
+b)	Khi thanh toán tạm ứng phải xuất trình đầy đủ bộ hồ sơ, chứng từ, hóa đơn hợp lệ, hợp pháp phù hợp theo từng khoản chi. Tạm ứng và thanh toán phải cùng một nội dung chi tiêu.
+c)	Nếu quá thời hạn thanh toán mà người tạm ứng không hoàn thiện hồ sơ thanh toán tạm ứng, đơn vị thực hiện trừ lương trong kỳ trả lương gần nhất để thu hồi số tiền đã tạm ứng. Trường họp do nguyên nhân khách quan chưa thanh toán tạm ứng theo thời hạn quy định, cán bộ lập tờ trình nêu rõ lý do trình người có thẳm quyền xem xét phê duyệt.
+d)	Bộ phận kế toán có trách nhiệm đôn đốc cán bộ thanh toán tạm ứng và định kỳ thực hiện rà soát, báo cáo người có thẩm quyền xử lý các khoản tạm ứng còn tồn đọng không thanh toán đúng quy định.
+Đối với cán bộ có quyết định thôi việc hoặc điều chuyển công tác khác nếu có tạm ứng và các khoản công nợ khác, phải thực hiện thanh toán trước khi hoàn thiện thủ tục hồ sơ cán bộ.
+2.	Hồ sơ lựa chọn đơn v| cung cấp hàng hóa, dịch vụ: Trưởng đơn vị chịu trách nhiệm tổ chức thực hiện theo đúng các quy định hiện hành của Nhà nước và Agribank.
+3.	Hạch toán kế toán và xử lý saỉ sót
+3.1.	Đơn vị hạch toán các khoản chi phí vào tài khoản kế toán thích họp: Chi tiêt theo Phụ lục 04 kèm theo văn bản này.
+3.2.	Những khoản chi ghi nhận vào chi phí nghiệp vụ không đúng quy định, khi kiểm tra phát hiện, yêu cầu đơn vị xuất toán và thu hồi, thực hiện:
+a)	Nếu thu hồi khoản chi trong năm tài chính, đơn vị ghi có (thoái chi) tài khoản đã ghi nhận trước đây.
+b)	Nếu thu hồi khoản chi từ các năm trước (không thuộc năm phát hiện) thì đơn vị ghi có khoản nộp lại này vào tài khoản “Thu nhập khác”.
+c)	Người ra lệnh chi sai phải bồi hoàn toàn bộ số tiền chi sai đó, tùy theo mức 
+độ vi phạm sẽ xử lý theo quy định của pháp luật và của Agribank.
+XVII.	Tổ chức thực hiện
+1.	Văn bản này có hiệu lực kê từ ngày 27/12/2019 thay thế văn bản 2946/NHNO-HD-KT&NQ ngày 26/10/2016 và các vãn bản sửa đổi, bổ sung.
+2.	Trường hợp nội dung kinh tế phát sinh trước thời điểm văn bản này có hiệu lực, định mức quy định và hồ sơ thanh quyết toán thực hiện theo văn bản hướng dẫn tại thời điểm phát sinh.
+3.	Việc trang cấp phương tiện làm việc, điện thoại đối với cán bộ thuộc đối tượng được trang cấp theo quy định tại văn bản này được tmh thời gian trang cấp kể từ ngày tiếp theo của lần trang cấp trước liền kề.
+4.	Việc xây dựng định mức, quản lý định mức khoán văn phòng phẩm và các khoản chi khác, đơn vị phải thực hiện từ ngày 01/01/2020.
+5.	Giám đốc Agribank tỉnh giao Giám đốc chi nhánh loại II căn cứ vào các chỉ tiêu kế hoạch được giao, định mửc chi phí tại văn bản này và tình hình tài chính tại đơn vị để giao chỉ tiêu thực hiện. Có biện pháp kiểm tra việc thực hiện chỉ tiêu kế hoạch và các khoản chi phí theo chế độ hiện hành.
+6.	Các nội dung không đề cập tại văn bản này, đơn vị thực hiện theo quy định tại Quyết định 2668/QĐ-NHNo-TCKT ngày 11/12/2019.
+7.	Mọi sửa đổi, bổ sung và thay thể vãn bản này do Giám đốc Agribank tỉnh quyết định.
+8.	Quá trình thực hiện, nếu vướng mắc, các đơn vị phản ánh về Agribank tỉnh (qua phòng Kế toán & Ngân quỹ) để trình Giám đốc xem xét giải quyết./.,
+Nỉri nhận:
+-	Như trên;
+-	Ban Giám đốc Agribank tỉnh;
+-	BCH CĐCS;
+-	Lưu: KT&NQ, VT.
+LÊ HỔNG PHÚC 
+Phụ lục 01
+ĐỊNH MỨC TIỀN THUÊ PHÒNG NGHỈ,
+TIÈN ĂN VÀ TIÊU VẶT, TIỀN THUÊ PHƯƠNG TIỆN
+CHO CÁN Bộ AGRIBANK ĐI CÔNG TÁC NƯỚC NGOÀI
+(Kèm theo Quy định sổ 2668/QĐ-NHNo-TCKT ngày 11/12/2019 của Agribank)
+Đơn vị: Đôla Mỹ (ký hiệu USD)
+STT	Nhóm	Tên nước	Tiền thuê phòng nghỉ (U SD/người/ngày)	Tiền ăn và tiêu vặt (USD/người/ngày)	Tiền thuê phương tiện từ sân bay, ga tàu, bến xe, cửa khẩu khi nhập/xuất cảnh (USD/1 lượt xuất và nhập cảnh/người)
+1	1	AIRƠLEN	80	75	110
+2	1	ANH VÀ BẤC AILEN	80	75	110
+3	1	ÁO	80	75	110
+4	1	BỈ	80	75	110
+5	1	BÒ ĐÀO NHA	80	75	110
+6	1	CANADA	80	75	110
+7	1	CHLB ĐỨC	80	75	110
+8	1	ĐÀI LOAN	80	75	110
+9	1	ĐAN MẠCH	80	75	110
+10	1	HÀ LAN	80	75	110
+11	1	HÀN QUỐC	80	75	110
+12	1	ITALY	80	75	110
+13	1	LUCXĂMBUA	80	75	110
+14	1	MỸ	80	75	110
+15	1	NAUY	80	75	110
+16	1	NHẬT BẢN	80	75	110
+17	1	PHAN LAN	80	75	110
+18	1	PHÁP	80	75	110
+19	1	TÂY BAN NHA	80	75	110
+20	1	THỤY ĐIẺN	80	75	110
+21	1	THỤY SĨ	80	75	110
+22	1	LIÊN BANG NGA	80	75	110
+23	1	THỒ NHĨ KỲ	80	75	110
+24	1	UKRAINA	80	75	110
+25	2	ACHENTINA	75	70	100
+26	2	AI CẬP	75	70	100
+27	2	ARAP XÊ ÚT	75	70	100
+28	2	BALAN	75	70	100
+29	2	BAREN	75	70	100
+30	2	BELARUS	75	70	100
+31	2	BOLIVIA	75	70	100
+32	2	BOSNIA AND HECXEGOVINA	75	70	100
+33	2	BRAXIN	75	70	100
+34	2	BRU NÂY	75	70	100
+35	2	BUNGARI	75	70	100
+36	2	Các tiểu vương quốc A rập thống nhất (UAE)	75	70	100
+ 
+STT	Nhóm	Tên nước	Tiền thuê phòng nghỉ (ƯSD/người/ngày)	Tiền ăn và	tiêu
+vặt (USD/người/ngày)	Tiền thuê phương tiện từ sân bay, ga tàu, bến xe, cửa khẩu khi nhập/xuất cảnh (USD/1 lượt xuất và nhập cành/người)
+37	2	CH SEC	75	70	100
+38	2	CH SLOVAKIA	75	70	100
+39	2	CHILÊ	75	70	100
+40	2	CÔ OÉT	75	70	100
+41	2	CÔLÔMBIA	75	70	100
+42	2	CROATIA	75	70	100
+43	2	ESTONIA	75	70	100
+44	2	GIOOC ĐA NI	75	70	100
+45	2	HÔNGKÔNG	75	70	100
+46	2	HUNGARI	75	70	100
+47	2	ISRAEL	75	70	100
+48	2	LATVIA	75	70	100
+49	2	LI BĂNG	75	70	100
+50	2	ÁN Độ	75	70	100
+51	2	LITHUANA	75	70	100
+52	2	MA CAO	75	70	100
+53	2	MACEDONIA	75	70	100
+54	2	MALTA	75	70	100
+55	2	MÊ HI CÔ	75	70	100
+56	2	MOLDOVIA	75	70	100
+57	2	NAM PHI	75	70	100
+58	2	SECBIA MONGTENEGRO	75	70	100
+59	2	NEW ZEALAND	75	70	100
+60	2	ÔXRÂYLIA	75	70	100
+61	2	PANAMA	75	70	100
+62	2	PÊRU	75	70	100
+63	2	QUATA	75	70	100
+64	2	RUMANI	75	70	100
+65	2	SAMOA	75	70	100
+66	2	SINGGAPO	75	70	100
+67	2	SLOVENIA	75	70	100
+68	2	TRUNG QUỐC	75	70	100
+69	2	URUGUAY	75	70	100
+70	3	DOMINICA	60	50	75
+71	3	ÁC MENIA	60	50	75
+72	3	AN GIÊ RI	60	50	75
+73	3	ĂNG GÔ LA	60	50	75
+74	3	APGANIXTĂNG	60	50	75
+75	3	AZECS BAI ZAN	60	50	75
+76	3	BĂNG LA DÉT	60	50	75
+77	3	CAMPUCHIA	60	50	75
+78	3	CHDCND TRIÈUTIÊN	60	50	75
+79	3	CH GHI NÊ	60	50	75
+80	3	CH YÊMEN	60	50	75
+81	3	CÔNG GÔ	60	50	75
+82	3	COSTARICA	60	50	75
+ 
+
+STT	Nhóm	Tên nước	Tiền thuê phòng nghỉ (USD/người/ngày)	Tiền ỉn và	tiêu
+vặt (USD/người/ngày)	Tiền thuê phương tiện từ sân bay, ga tàu, bến xe, cửa khẩu khỉ nhập/xuất cảnh (USD/1 lượt xuất và nhập cảnh/người)
+83	3	CUBA	60	50	75
+84	3	ĐÔNG SAHARA	60	50	75
+85	3	ĐÔNG TIMO	60	50	75
+86	3	Ê CUA DO	60	50	75
+87	3	Ê TYOPIA	60	50	75
+88	3	ELSALVADO	60	50	75
+89	3	ERITRE	60	50	75
+90	3	FIJI	60	50	75
+91	3	GHANA	60	50	75
+92	3	GRENADA	60	50	75
+93	3	GRUZIA	60	50	75
+94	3	GUATEMALA	60	50	75
+95	3	HAITY	60	50	75
+96	3	HÔNĐUARAT	60	50	75
+97	3	IRAN	60	50	75
+98	3	INĐÔNÊXIA	60	50	75
+99	3	JAMAICA	60	50	75
+100	3	KA ZẤC STAN	60	50	75
+101	3	KÊNIA	60	50	75
+102	3	KYRGYZSTAN	60	50	75
+103	3	LÀO	60	50	75
+104	3	LIBI	60	50	75
+105	3	MADAGASCAR	60	50	75
+106	3	MALAYSIA	60	50	75
+107	3	MALI	60	50	75
+108	3	MARITUS	60	50	75
+109	3	MARỐC	60	50	75
+110	3	MÔNGCÒ	60	50	75
+111	3	MYANMAR	60	50	75
+112	3	NEPAL	60	50	75
+113	3	NICARAGOA	60	50	75
+114	3	PAKITXTAN	60	50	75
+115	3	PHILIPIN	60	50	75
+116	3	SHIP	60	50	75
+117	3	SRILANCA	60	50	75
+118	3	TAJIKISTAN	60	50	75
+119	3	TANZANIA	60	50	75
+120	3	THÁI LAN	60	50	75
+121	3	TURKMENSTAN	60	50	75
+122	3	UZBEKISTAN	60	50	75
+123	3	VENEZUELA	60	50	75
+124	3	XÔ MA LI	60	50	75
+125	3	XYRI	60	50	75
+126	3	Các nước khác không thuộc các nhóm trên	65	50	75
+ 
+
+Phụ lục 02
+ĐỊNH MỨC CHI PHÍ HOẠT ĐỘNG KHOA HỌC, SÁNG KIẾN (Kèm theo Quy định số 2668/QĐ-NHNo-TCKT ngày ỉ ỉ/ỉ 2/2019 của Agribank)
+Đơn giả: 1.000 đồng
+STT	Nội dung	Đơn vị tính	Mức chi tối đa	Ghi chú
+I	Chi phí thực hiện đề tài			
+1	Chi tiền công lao động trực tiếp	Ngày công	Theo chức danh công việc
+1.1	Chủ nhiệm đề tài		0,79 X 2LCS	Lcs: Lương cơ sở do Nhà nước quy định/1000
+1.2	Thành viên thực hiện chính; thư ký khoa học		0,49 X 2LCS	
+1.3	Thành viên		0,25 X 2LCS	
+1.4	Kỹ thuật viên, nhân viên hỗ trợ		0,16x2Lcs	
+2	Chi hội thảo khoa học phục vụ hoạt động nghiên cứu
+2.1	Người chủ trì	Buổi HT	1.500	
+2.2	Thư ký hội thảo	Buổi HT	500	
+2.3	Báo cáo viên trình bày tại hội thảo	Báo cáo	2.000	
+2.4	Báo cáo khoa học được đặt hàng nhưng không trình bày tại hội thảo	Báo cáo	1.000	
+2.5	Thành viên tham gia hội thảo	Buổi HT	200	
+3	Chi điều tra, khảo sát thu thập số liệu	Theo Thông tư số 109/2016/TT-BTC ngày 30/6/2016 của Bộ Tài chính quy định về lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện các cuộc điều tra thống kê, tổng điều tra thống kê quốc gia.
+4	Chi họp hội đồng tự đánh giá kết quả thực hiện đề tài	Tối đa 50% mức chi cho Hội đồng nghiệm thu chính thức đề tài
+5	Chi quản lý chung nhiệm vụ khoa học, đề tài
+5.1	Chỉ tư vấn xác định nhiệm vụ khoa học
+a	Chi họp Hội đồng	Hội đồng		
+	Chủ tịch hội đồng		1.000	
+	Phó chủ tịch hội đồng; thành viên hội đồng		800	
+	Thư ký hành chính		300	
+	Đại biểu được mời tham dự		200	
+b	Chi nhận xét đánh giá	01 phiếu nhận xét đánh giá
+	Nhận xét đánh giá của ủy viên Hội đồng		300	
+ 
+
+STT	Nội dung	Đơn vị tính	Mức chi tối đa	Ghi chú
+	Nhận xét đánh giá của ủy viên phản biện trong Hội đồng		500	
+5.2	Chỉ tư vân tuyên chọn, giao trực tỉêp tô chức, cá nhan chủ trì đê tài
+a	Chi họp Hội đồng	Hội đồng		
+	Chủ tịch hội đồng		1.500	
+	Phó chủ tịch hội đồng; thành viên hội đồng		1.000	
+	Thư ký hành chính		300	
+	Đại biểu được mời tham dự		200	
+b	Chi nhận xét đánh giá	01 phiếu nhận xét đánh giá
+	Nhận xét đánh giá của ủy viên Hội đồng		500	
+	Nhận xét đánh giá của ủy viên phản biện trong Hội đồng		700	
+5.3	Chỉ thẩm định nội dung, tài chính của đề tài
+	Tổ trưởng tổ thẩm định	Nhiệm vụ	700	
+	Thành viên tổ thẩm định	Nhiệm vụ	500	
+	Thư ký hành chính	Nhiệm vụ	300	
+	Đại biểu được mời tham dự	Nhiệm vụ	200	
+5.4	Chi tư vấn đánh giá nghiệm thu chính thức đề tài
+a	Chi họp Hội đồng nghiệm thu	Nhiệm vụ		
+	Chủ tịch hội đồng		1.500	
+	Phó chủ tịch hội đồng; thành viên hội đồng		1.000	
+	Thư ký hành chính		300	
+	Đại biểu được mời tham dự		200	
+b	Chi nhận xét đánh giá	01 phiếu nhận xét đánh giá
+	Nhận xét đánh giá của ủy viên Hội đồng		500	
+	Nhận xét đánh giá của ủy viên phản biện trong Hội đồng		700	
+11	Chỉ thưởng sáng kiến			
+1	Sáng kiến cấp cơ sở áp dụng tại đơn vị	Sáng kiến		
+a	Sáng kiến không có đồng tác giả		5.000	
+b	Sáng kiến có đồng tác giả		8.000	
+2	Sáng kiến cấp cơ sở áp dụng tại Agribank	Sáng kiến		
+ 
+
+STT	Nội dung	Đơn vị tính	Mức chi tối đa	Ghi chú
+a	Sáng kiến không có đồng tác giả		10.000	
+b	Sáng kiến có đồng tác giả		15.000	
+3	Sáng kiến cấp ngành, cấp toàn quốc	Sáng kiến		
+a	Sáng kiến không có đồng tác giả		15.000	
+b	Sáng kiến có đồng tác giả		20.000	
+III	Chi phí hoạt động thường xuyên của Hội đồng khoa học	
+1	Chi tổ chức hội thảo khoa học và sinh hoạt khoa học	
+a	Người chủ trì			
+	- Ngoài hệ thống Agribank	Buổi HT	3.000	
+	- Trong hệ thống Agribank	Buổi HT	1.500	
+b	Thành viên			
+	- Ngoài hệ thống Agribank	Buổi HT	2.000	
+	- Trong hệ thống Agribank	Buổi HT	1.000	
+c	Thư ký	Buổi HT	700	
+d	Đại biểu tham dự			
+	- Ngoài hệ thống Agribank	Buổi HT	1.000	
+	- Trong hệ thống Agribank	Buổi HT	500	
+e	Chi cho công tác tổ chức, hậu cần	Theo chế độ hội nghị hiện hành của Agribank
+2	Chi cho công tác khảo sát, tham gia hội thảo khoa học trong và ngoài nước	Theo chế độ công tác phí hiện hành của Agribank
+3	Chi phí khác	Theo quy định hiện hành của Agribank
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Phụ lục 03
+TIÊU CHUẨN, ĐỊNH MỨC TRANG CẤP, SỬ DỤNG ĐIỀN THOẠI DI ĐỘNG
+(Kèm theo Quy định sổ 2668/QĐ-NHNo-TCKT ngày 11/12/2019 của Agribank)
+Đơn vị: Đồng
+Đối tượng	Chi phí mua máy	Cước phí điện thoại hàng tháng
+Giám đốc Chi nhánh loại I	6.000.000	800.000
+Phó Giám đốc Chi nhánh loại I	5.000.000	600.000
+Phó chủ tịch công Chi nhánh loại I. Trưởng phòng tại Chi nhánh loại I; Giám đốc Chi nhánh loại II.	4.000.000	500.000
+Phó Giám đốc Chi nhánh loại II; Giám đốc phòng giao dịch;
+Cán bộ làm công tác tín dụng;
+Cán bộ dịch vụ Marketing trực tiếp đi tiếp thị.	4.000.000	400.000
+Phó Trưởng phòng tại Chi nhánh loại I;
+Người giữ chìa khóa kho tiền; Tổ điều chuyển tiền, giao dịch lưu động tại Chi nhánh (dùng chung cho Tổ).	3.000.000	300.000
+Các đối tượng khác trên cơ sở yêu cầu công việc thực hiện theo quyết định của người có thẩm quyền: lái xe tại Chi nhánh loại I.		300.000
+
+Ghi chú: Mức chi trên đây là mức tối đa. Trường họp cán bộ giữ nhiều chức danh khác
+nhau thì chỉ được áp dụng mức chi theo chức danh có định mức chi cao nhất.	/
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
