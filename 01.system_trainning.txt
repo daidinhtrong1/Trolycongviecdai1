@@ -1507,7 +1507,216 @@ Neu khoảng cách nơi công tác cách Trụ sở cơ quan từ 20 km đến d
 3.	Thời gian áp dụng: Từ ngày 01/9/2020.
 Yêu cầu Giám đốc Chi nhánh loại II, Trưởng phòng nghiệp vụ Agribank tỉnh triển khai thực hiện nghiêm túc theo quy định./.. /
 
+ SỐ: 5626/HD-NHNo-TCKT
+V/v Hướng dẫn một số nội dung về hóa đơn,
+chứng từ theo quy định tại Luật Quản lý thuế
  
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 23 tháng 6 năm 2022 
+
+ 
+
+AGRIBANK TỈNH HÀI DỮổNGKịnh gửi:
+_ / Số:	Ại6	 ĐEN Ngày:....!^ l.kl)U
+Chuyển:	
+1 Số và ký hiệu HS:	
+ 
+
+Chánh Văn phòng Trụ sở chính;
+Trưởng Văn phòng Đại diện khu vực;
+Giám đốc Đơn vị sự nghiệp;
+Giám đốc Chi nhánh loại I. 
+Căn cứ Luật Quản ỉỷ thuế số 38/20Ỉ9/QHỈ4 ngày 13/6/2019 của Quốc hội
+(Luật Quản ỉý thuế);
+Căn cứ Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn chứng từ (Nghị định sổ 123/2020/NĐ-CP);
+Căn cứ Thông tư số 78/2021/TT-BTC ngày 17/9/2021 của Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế ngày 13/6/2019, Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chỉnh phủ quy định về hóa đơn chứng từ (Thông tư số 78/2021/TT-BTC);
+Căn cứ Thông tư số 105/2020/TT-BTC ngày 03/12/2020 của Bộ Tài chính hướng dẫn về đăng ký thuế.
+Theo đề nghị của Trưởng Ban Tài chính Kế toán và ý kiến của Ke toán trưởng tại Tờ trình số 223/2022/TTr-TCKT ngày 20/6/2022, Tổng Giám đốc hướng dẫn một số nội dung về hóa đơn, chứng từ theo quy định tại Luật Quản lý thuế như sau:
+1.	Hóa đon điện tử
+1.1.	Hóa đơn điện tử là hóa đơn có mã hoặc không có mã của cơ quan thuế được thể hiện ở dạng dữ liệu điện tử do tổ chức, cá nhằn bán hàng hóa, cung cấp dịch vụ lập bằng phương tiện điện tử để ghi nhận thông tin bán hàng hóa, cung cấp dịch vụ theo quy định của pháp luật về kế toán, pháp luật về thuế.
+-	Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện tử được cơ quan thuế cấp mã trước khi tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ gửi cho người mua. Mã của cơ quan thuế trên hóa đơn điện tử bao gồm số giao dịch là một dãy số duy nhất do hệ thống của cơ quan thuế tạo ra và một chuỗi ký tự được cơ quan thuế mã hóa dựa trên thông tin của người bán lập trên hóa đơn.
+-	Hóa đơn điện tử không có mã của cơ quan thuế là hóa đơn điện tử do tổ chức bán hàng hóa^cung cấp dịch vụ gửi cho người mua không có mã của cơ quan thuế.^s^ 
+Hóa đơn điện tử bao gồm hóa đơn giá trị gia tăng, hóa đơn bán hàng, tem điện tử, vé điện tử, thẻ điện tử, phiếu thu điện tử, phiếu xuất kho kiêm vận chuyển điện tử hoặc các chứng từ điện tử có tên gọi khác.
+1.2.	Nguyên tắc lập, quản lý, sử dụng hóa đơn điện tử (Điều 90 Luật Quản lý thuế)
+a)	Khi bán hàng hóa, cung cấp dịch vụ, người bán phải lập hóa đơn điện tử để giao cho người mua theo định dạng chuẩn dữ liệu và phải ghi đầy đủ nội dung theo quy định của pháp luật về thuế, pháp luật về kế toán, không phân biệt giá trị từng lần bán hàng hóa, cung cấp dịch vụ.
+b)	Việc đăng ký, quản lý, sử dụng hóa đơn điện tử trong giao dịch bán hàng hóa, cung cấp dịch vụ phải tuân thủ quy định của pháp luật về giao dịch điện tử, pháp luật về kế toán, pháp luật về thuế.
+1.3.	Áp dụng hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ (Điều 91 Luật Quản lý thuế)
+a)	Doanh nghiệp, tổ chức kinh tế sử dụng hóa đơn điện tử có mã của cơ quan thuế khi bán hàng hóa, cung cấp dịch vụ không phân biệt giá trị từng lần bán hàng hóa, cung cấp dịch vụ, trừ trường họp quy định tại điểm b và điểm d dưới đây.
+b)	Doanh nghiệp kinh doanh ở lĩnh vực điện lực, xăng dầu, bưu chính viễn thông, nước sạch, tài chính tín dụng, bảo hiểm, y tế, kinh doanh thương mại điện tử, kinh doanh siêu thị, thương mại, vận tải hàng không, đường bộ, đường sắt, đường biển, đường thủy và doanh nghiệp, tổ chức kinh tế đã hoặc sẽ thực hiện giao dịch với cơ quan thuế bằng phương tiện điện tử, xằy dựng hạ tầng công nghệ thông tin, có hệ thống phần mềm kế toán, phần mềm lập hóa đơn điện tử đáp ứng lập, tra cứu hóa đon điện tử, lưu trữ dữ liệu hóa đơn điện tử theo quy định và bảo đảm việc truyền dữ liệu hóa đơn điện tử đến người mua và đến cơ quan thuế thì được sử dụng hóa đơn điện tử không có mã của cơ quan thuế khi bán hàng hóa, cung cấp dịch vụ, không phân biệt giá trị từng lần bán hàng hóa, cung cấp dịch vụ, trừ trưởng họp rủi ro về thuế cao theo quy định của Bộ trưởng Bộ Tài chính và trường hợp đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế.
+c)	Hộ kinh doanh, cá nhân kinh doanh thuộc trường họp quy định tại khoản 5 Điều 51 của Luật Quản lý thuế và các trường họp xác định được doanh thu khi bán hàng hóa, dịch vụ sử dụng hóa đơn điện tử có mã của cơ quan thuế khi bán hàng hóa, cung cấp dịch vụ.
+d)	Hộ kinh doanh, cá nhân kinh doanh không đáp ứng điều kiện phải sử dụng hóa đơn điện tử có mã của cơ quan thuế quy định tại điểm a và điểm c khoản này nhưng cần có hóa đơn để giao cho khách hàng hoặc trường hợp doanh nghiệp, tổ chức kinh tế, tổ chức khác được cơ quan thuế chấp nhận cấp^ 
+
+hóa đơn điện tử để giao cho khách hàng thì được cơ quan thuế cấp hóa đơn điện tử có mã theo từng lần phát sinh và phải khai thuế, nộp thuế trước khi cơ quan thuế cấp hóa đơn điện tử theo từng lần phát sinh.
+1.4.	Thời điểm lập hóa đơn
+a)	Thời điểm lập hóa đơn đối với bán hàng hóa (bao gồm cả bán tài sản nhà nước, tài sản tịch thu, sung quỹ nhà nước và bán hàng dự trữ quốc gia) là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa thu được tiền.
+b)	Thời điểm lập hóa đơn đối với cung cấp dịch vụ là thời điểm hoàn thành việc cung cấp dịch vụ không phân biệt đã thu được tiền hay chưa thu được tiền. Trường hợp người cung cấp dịch vụ có thu tiền trước hoặc trong khi cung cấp dịch vụ thì thời điểm lập hóa đơn là thời điểm thu tiền (không bao gồm trường hợp thu tiền đặt cọc hoặc tạm ứng để đảm bảo thực hiện hợp đồng cung cấp các dịch vụ: kế toán, kiểm toán, tư vấn tài chính, thuế; thẩm định giá; khảo sát, thiết kế kỹ thuật; tư vấn giám sát; lập dự án đầu tư xây dựng).
+1.5.	Nội dung bắt buộc phải có trên hóa đơn
+a)	Tên hóa đơn, ký hiệu hóa đơn, ký hiệu mẫu hóa đơn, số hóa đơn:
++	Ký hiệu mẫu số hóa đơn điện tử là ký tự có một chữ so tự nhiên là các số 1, 2, 3, 4, 5, 6 như: số 1 phản ánh hóa đơn giá trị gia tăng, số 2 phản ánh hóa đơn bán hàng, số 3 phản ánh hóa đơn bán tài sản công, số 4 phản ánh hóa đơn bán hàng dự trữ quốc gia,v.v...
++	Ký hiệu hóa đơn là nhóm 6 ký tự gồm cả chữ viết và chữ số:
++	Ký tự đầu tiên là một chữ cái được quy định là c (áp dụng đối với hóa đơn có mã của cơ quan thuế) hoặc K (áp dụng đối với hóa đơn không có mã của cơ quan thuế);
++	02 ký tự tiếp theo là 02 số cuối của năm dương lịch khởi tạo hóa đơn (ví dụ năm 2022 là 22, năm 2023 là 23);
++	01 ký tự tiếp theo là chữ cái được quy định lằ T, D, L, M, N, B, G, H thể hiện loại hóa đơn điện tử được sử dụng như: T (hóa đơn điện tử người bán đăng ký sử dụng với cơ quan thuế), D (hóa đơn bán tài sản công, hàng dự trữ quốc gia, đặc thù),v.v...
++	02 ký tự cuối là chữ viết do người bán tự xác định căn cứ theo nhu cầu quản lý.
+b)	Tên, địa chỉ, mã số thuế của người bán: Trên hóa đơn phải thể hiện tên, địa chỉ, mã số thuế của người bán theo đúng tên, địa chỉ, mã số thuế ghi tại giấy chứng nhận đãng ký doanh nghiệp, giấy chứng nhận đăng ký hoạt động chi nhánh, giấy chứng nhận đăng ký hộ kinh doanh, giấy chứng nhận đăng ký thuế^/^ 
+thông báo mã số thuế, giấy chứng nhận đàng ký đầu tư, giấy chứng nhận đăng ký họp tác xã.
+c)	Tên, địa chi, mã số thuế của người mua:
+-	Trường hợp người mua là cơ sở kinh doanh có mã số thuế thỉ tên, địa chỉ, mã số thuế của người mua thể hiện trên hóa đơn phải ghi theo đúng tại giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hoạt động chi nhánh, giấy chứng nhận đăng ký hộ kinh doanh, giấy chứng nhận đãng ký thuế, thông báo mã số thuế, giấy chứng nhận đăng ký đau tư, giấy chứng nhận đăng ký hợp tác xã.
+Trường hợp tên, địa chỉ người mua quá dài, trên hóa đơn người bán được viết ngắn gọn một số danh từ thông dụng như: “Phường” thành "P"; "Quận" thành “Q”, “Thành phố” thành “TP”," việt Nam" thành “VN” hoặc "Cổ phan" là "CP", "Trách nhiệm Hữu hạn" thành "TNHH", "khu công nghiệp" thành "KCN", "sản xuất" thành "SX", "Chi nhánh" thành "CN",V.V... nhưng phải đảm bảo đầy đủ số nhà, tên đường phố, phưòng, xã, quận, huyện, thành phố, xác định được chính xác tên, địa chỉ doanh nghiệp và phù hợp với đăng ký kinh doanh, đăng ký thuế của doanh nghiệp.
+-	Trường hợp người mua không có mã số thuế thì trên hóa đơn không phải thể hiện mã số thuế người mua. Một số trường hợp bán hàng hóa, cung cấp dịch vụ đặc thù cho người tiêu dùng là cá nhân quy định tại khoản 14 Điều 10 Nghị định số 123/2020/NĐ-CP thì trên hóa đơn không phải thể hiện tên, địa chỉ người mua. Trường họp bán hàng hóa, cung cấp dịch vụ cho khách hàng nước ngoài đến Việt Nam thì thông tin về địa chỉ người mua có thể được thay bằng thông tin về số hộ chiếu hoặc giấy tờ xuất nhập cảnh và quốc tịch của khách hàng nước ngoài.
+d)	Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ; thành tiền chưa có thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tổng số tiền thuế giá trị gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng tiền thanh toán đã có thuế giá trị gia tăng.
+đ) Chữ ký của người bán, chữ ký của người mua, cụ thể:
+-	Đối với hóa đơn do cơ quan thuế đặt in, trên hóa đơn phải có chữ ký của người bán, dấu của người bán (nếu có), chữ ký của người mua (nếu có).
+-	Đối với hóa đơn điện tử: Trường họp người bán là doanh nghiệp, tổ chức thì chữ ký sổ của người bán trên hóa đơn là chữ ký số của doanh nghiệp, tổ chức; trường hợp người bán là cá nhân thì sử dụng chữ ký số của cá nhân hoặc người được ủy quyền.
+e)	Thời điểm ký số trên hóa đơn điện tử là thời điểm người bán, người mua sử dụng chữ ký số để ký trên hóa đơn điện tử được hiển thị theo định dạng ngày, tháng, năm của năm dương lịch. Trường hợp hóa đơn điện tử đã lập có thời điểm^/" 
+ký số trên hóa đơn khác thời điểm lập hóa đơn thì thời điểm khai thuế là thời điểm lập hóa đơn.
+g)	Có mã của cơ quan thuế đối với hóa đơn điện tử có mã của cơ quan thuế.
+h)	Chữ viết, chữ số và đồng tiền thể hiện trên hóa đơn
+-	Chữ viết hiển thị trên hóa đơn là tiếng Việt. Trường hợp cần ghi thêm chữ nước ngoài thì chữ nước ngoài được đặt bên phải trong ngoặc đơn ( ) hoặc đặt ngay dưới dòng tiếng Việt và có cỡ chữ nhỏ hơn chữ tiếng Việt. Trường hợp chữ trên hóa đơn là chữ tiếng Việt không dấu thì các chữ viết không dấu trên hóa đơn phải đảm bảo không dẫn tới cách hiểu sai lệch nội dung của hóa đơn.
+-	Chữ số hiển thị trên hóa đơn là chữ số Ả-rập: 0, 1,2, 3, 4, 5, 6, 7, 8, 9. Người bán được lựa chọn: sau chữ số hàng nghìn, triệu, tỷ, nghìn tỷ, triệu tỷ, tỷ tỷ phải đặt dấu chấm (.), nếu có ghi chữ số sau chữ số hàng đơn vị phải đặt dấu phẩy (,) sau chữ số hàng đơn vị hoặc sử dụng dấu phân cách số tự nhiên là dấu phẩy (,) sau chữ số hàng nghìn, triệu, tỷ, nghìn tỷ, triệu tỷ, tỷ tỷ và sử dụng dấu chấm (.) sau chữ số hàng đơn vị trên chứng từ kế toán.
+-	Đồng tiền ghi trên hóa đơn là Đồng Việt Nam, ký hiệu quốc gia là “đ”,
++ Trường họp nghiệp vụ kinh tế, tài chính phát sinh bằng ngoại tệ theo quy định của pháp luật về ngoại hối thi đơn giá, thành tiền, tổng số tiền thuế giá trị gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng số tiền thanh toán được ghi bằng ngoại tệ, đơn vị tiền tệ ghi tên ngoại tệ. Người bán đồng thời thể hiện trên hóa đơn tỷ giá ngoại tệ với đồng Việt Nam theo tỷ giá theo quy định của Luật Quản lý thuế và các vãn bản hướng dẫn thi hành.
++ Mã ký hiệu ngoại tệ theo tiêu chuẩn quốc tế (ví dụ: 13.800,25 USD - Mười ba nghìn tám trăm đô la Mỹ và hai mươi nhăm xu, ví dụ: 5.000,50 EUR- Năm nghìn ơ-rô và năm mươi xu).
++ Trường hợp bán hàng hóa phát sinh bằng ngoại tệ theo quy định của pháp luật về ngoại hối và được nộp thuế bằng ngoại tệ thì tổng số tiền thanh toán thể hiện trên hóa đơn theo ngoại tệ, không phải quy đổi ra đồng Việt Nam.
+i)	Một số trường họp hóa đơn điện tử không nhất thiết có đầy đủ các nội dung
+-	Trên hóa đơn điện tử không nhất thiết phải có chữ ký điện tử của người mua (bao gồm cả trường hợp lập hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ cho khách hàng ở nước ngoài). Trường hợp người mua là cơ sở kinh doanh và người mua, người bán có thỏa thuận về việc người mua đáp ứng các điều kiện kỹ thuật để ký số, ký điện tử trên hóa đơn điện tử do người bán lập thì hóa đơn điện tử có chữ ký số, ký điện tử của người bán và người mua theo thỏa thuận giữa hai bênổ^^ 
+-	Đối với hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh không nhất thiết phải có chữ ký số của người bán, người mua.
+-	Đối với hóa đơn điện tử là tem, vé, thẻ thì trên hóa đơn không nhất thiết phải có chữ ký số của người bán (trừ trường hợp tem, vé, thẻ là hóa đơn điện tử do cơ quan thuế cấp mã), tiêu thức người mua (tên, địa chỉ, mã số thuế), tiền thuế, thuế suất thuế giá trị gia tăng. Trường họp tem, vé, thẻ điện tử có sẵn mệnh giá thì không nhất thiết phải có tiêu thức đơn vị tính, số lượng, đơn giá.
+-	Trường hợp tổ chức kinh doanh hoặc tổ chức không kinh doanh mua dịch vụ vận tải hàng không thì chứng từ điện tử dịch vụ vận tải hàng không xuất qua website và hệ thống thương mại điện tử được lập theo thông lệ quốc tế cho các cá nhân của tổ chức kinh doanh, cá nhân của tổ chức không kinh doanh thì không được xác định là hóa đơn điện tử. Doanh nghiệp kinh doanh dịch vụ vận tải hàng không phải lập hóa đơn điện tử có đầy đủ các nội dung theo quy định giao cho tổ chức có cá nhân sử dụng dịch vụ vận tải hàng không.
+-	Đối với hóa đơn của hoạt động xây dựng, lắp đặt; hoạt động xây nhà để bán có thu tiền theo tiến độ theo hợp đồng thì trên hóa đơn không nhất thiết phải có đơn vị tính, số lượng, đơn giá.
+k) Định dạng hóa đơn điện tử
+-	Định dạng hóa đơn điện tử sử dụng ngôn ngữ định dạng văn bản XML (XML là chữ viết tắt của cụm từ tiếng Anh "extensible Markup Language" được tạo ra với mục đích chia sẻ dữ liệu điện tử giữa các hệ thống công nghệ thông tin) đảm bảo theo đúng quy định của Tổng Cục thuế
+-	Định dạng hóa đơn điện tử gồm hai thành phần: thành phần chứa dữ liệu nghiệp vụ hóa đơn điện tử và thành phần chứa dữ liệu chữ ký số. Đối với hóa đơn điện tử có mã của cơ quan thuế thì có thêm thành phần chứa dữ liệu liên quan đến mã cơ quan thuế.
+-	Hóa đơn điện tử phải được hiển thị đầy đủ, chính xác các nội dung của hóa đơn đảm bảo không dẫn tới cách hiểu sai lệch để người mua có thể đọc được bằng phương tiện điện tử.
+2.	Chứng từ điện tử (Điều 94 Luật Quản lý thuế)
+Chứng từ điện tử bao gồm các loại chứng từ, biên lai được thể hiện ở dạng dữ liệu điện tử do cơ quan quản lý thuế hoặc tổ chức có trách nhiệm khấu trừ thuế cấp cho người nộp thuế bằng phương tiện điện tử khi thực hiện các thủ tục về thuế hoặc các khoản thu khác thuộc ngân sách nhà nước và các loại chứng từ, biên lai điện tử khác.
+3.	Bảo quản, lưu trữ hóa đơn, chứng từ điện tử
+a)	Hóa đơn, chứng từ được bảo quản, lưu trữ đảm bảo^^--— 
+-	Tính an toàn, bảo mật, toàn vẹn, đầy đủ, không bị thay đổi, sai lệch trong suốt thời gian lưu trữ;
+-	Lưu trữ đúng và đủ thời hạn theo quy định của pháp luật kế toán.
+b)	Hóa đom điện tử, chứng từ điện tử được bảo quản, lưu trữ bằng phương tiện điện tử. Đom vị được quyền lựa chọn và áp dụng hình thức bảo quản, lưu trữ hóa đom điện tử, chứng từ điện tử phù hợp với đặc thù hoạt động và khả năng ứng dụng công nghệ. Hóa đom điện tử, chứng từ điện tử phải sẵn sàng in được ra giấy hoặc tra cứu được khi có yêu cầu.
+4.	Chuyển đổi hóa đơn điện tử, chứng từ điện tử thành hóa đơn, chứng từ giấy
+a)	Hóa đom điện tử, chứng từ điện tử hợp pháp được chuyển đổi thành hóa đom, chứng từ giấy khi có yêu cầu nghiệp vụ kinh tế, tài chính, phát sinh hoặc theo yêu cầu của cơ quan quản lý thuế, cơ quan kiểm toán, thanh tra, kiểm tra, điều tra và theo quy định của pháp luật về thanh tra, kiểm tra và điều tra.	-
+b)	Việc chuyển đổi hóa đơn điện tử, chứng từ điện tử thành hóa đom, chứng từ giấy phải bảo đảm sự khớp đúng giữa nội dung của hóa đơn điện tử, chứng từ • I điện tử và hóa đơn, chứng từ giấy sau khi chuyển đổi.	N
+c)	Hóa đom điện tử, chứng từ điện tử được chuyển đổi thành hóa đơn, chứng	¿
+từ giấy thì hóa đơn, chứng từ giấy chỉ có giá trị lưu giữ để ghi sổ, theo dõi theo quy định của pháp luật về kế toán, pháp luật về giao dịch điện tử, không có hiệu lực để giao dịch, thanh toán, trừ trường hợp hóa đơn được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế theo quy định tại Nghị định số 123/2020/NĐ-CP.
+5.	Các hành vi bị cấm trong lĩnh vực hóa đơn, chứng từ
+a)	Thực hiện hành vi gian dối như sử dụng hóa đơn, chứng từ không họp pháp, sử dụng không hợp pháp hóa đơn.
+-	Sử dụng hóa đơn, chứng từ không hợp pháp là việc sử dụng hóa đơn, chứng Lù giả; sử dụng hóa đơn, chứng từ chưa cổ giá trị sữ đụng, hết giá trị sử dụng; sử dụng hóa đơn bị ngừng sử dụng trong thời gian bị cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn, trừ trường họp được phép sử dụng theo thông báo của cơ quan thuế; sử dụng hóa đơn điện tử không đăng ký sử dụng với cơ quan thuế; sử dụng hóa đơn điện tử chưa có mã của cơ quan thuế đối với trường họp sử dụng hóa đơn điện tử có mã của cơ quan thuế; sử dụng hóa đơn mua hàng hóa, dịch vụ có ngày lập trên hóa đơn từ ngày cơ quan thuế xác định bên bán không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyền; sử dụng hóa đơn, chứng từ mua hàng hóa, dịch vụ có ngày lập trên hóa đơn, chứng từ trước ngày xác định bên lập hóa đơn, chứng từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm quyen^L^" 
+hoặc chưa có thông báo của cơ quan thuế về việc bên lập hóa đơn, chứng từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan có thẩm quyền nhưng cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng khác đã có kết luận đó là hóa đơn, chứng từ không hợp pháp.
+-	Sử dụng không hợp pháp hóa đơn, chứng từ là việc sử dụng: Hóa đơn, chứng từ không ghi đầy đủ các nội dung bắt buộc theo quy định; hóa đơn tẩy xóa, sửa chữa không đúng quy định; sử dụng hóa đơn, chứng từ khống (hóa đơn, chứng từ đã ghi các chỉ tiêu, nội dung nghiệp vụ kinh tế nhưng việc mua bán hàng hóa, dịch vụ không có thật một phần hoặc toàn bộ); sử dụng hóa đon phản ánh không đúng giá trị thực tế phát sinh hoặc lập hóa đơn khống, lập hóa đơn giả; sử dụng hóa đơn có sự chênh lệch về giá trị hàng hóa, dịch vụ hoặc sai lệch các tiêu thức bắt buộc giữa các liên của hóa đơn; sử dụng hóa đơn để quay vòng khi vận chuyển hàng hóa trong khâu lưu thông hoặc dùng hóa đơn của hàng hóa, dịch vụ này để chứng minh cho hàng hóa, dịch vụ khác; sử dụng hóa đơn, chứng từ của tổ chức, cá nhằn khác (trừ hóa đơn của cơ quan thuế và trường hợp được ủy nhiệm lập hóa đơn) để hợp thức hóa hàng hóa, dịch vụ mua vào hoặc hàng hóa, dịch vụ bán ra; sử dụng hóa đơn, chứng từ mà cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng khác đã kết luận là sử dụng không hợp pháp hóa đơn, chứng từ.
+b)	Cản trở công chức thuế thi hành công vụ, cụ thể các hành vi cản trở gây tổn hại sức khỏe, nhân phẩm của công chức thuế khi đang thanh tra, kiểm tra về hóa đơn, chứng từ;
+c)	Truy cập ưái phép, làm sai lệch, phá hủy hệ thống thông tin về hóa đơn, chứng từ;
+d)	Đưa hối lộ hoặc thực hiện các hành vi khác liên quan hóa đơn, chứng từ nhằm mưu lợi bất chính.
+6.	Triển khai hóa đơn điện tử tại Agribank
+6.1.	Hóa đơn điện tử áp dụng tại Agribank
+Theo quy định tại Điều 91 Luật Quản lý thuế, Agribank sử dụng hóa đơn điện tử không có mã của cơ quan thuế khi bán hàng hóa, cung cấp dịch vụ, gồm 02 loại:
+-	Hóa đơn bán hàng: Áp dụng đối với nghiệp vụ kinh doanh vàng bạc, đả quý.
+-	Hóa đon giá trị gia tăng: Áp dụng đối với các nghiệp vụ còn lại (thu phí dịch vụ; thanh lý tài sàn cố định, công cụ dụng cụ; bán tài sản bảo đảm tiền vay; xuất hóa đơn đối với hàng hóa khuyến mại, cho biếu tặng,v.v...)
+Mầu hóa đon điện tử áp dụng trong hệ thống Agribank đã được Tổhg Giám đốc phê duyệt kèm theo^/^ 
+6.2.	Quy trình đăng ký triển khai hóa đơn điện tử
+Trước khi sử dụng hóa đơn, biên lai khấu trừ thuế thu nhập cá nhân, các đơn vị phải thực hiện đăng ký sử dụng với cơ quan thuế hoặc thực hiện thông báo phát hành theo quy định tại Điều 15, Điều 34 và khoản 1 Điều 36 Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, cụ thể:
+a)	Đơn vị gửi Tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo mẫu số 01/ĐKTĐ-HĐĐT Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, nội dung cụ thể như sau:
+-	Hình thức hóa đơn điện tử: Hóa đơn không có mã của cơ quan thuế
+-	Hình thức gửi dữ liệu hóa đơn điện tử: Agribank được áp dụng 02 hình thức chuyển dữ liệu hóa đơn điện tử đến cơ quan quan thuế: (i) Truyền trực tiếp và (ii) Qua tổ chức trung gian cung cấp dịch vụ hóa đơn điện tử. Giai đoạn đầu triển khai hóa đơn điện tử, việc chuyển dữ liệu sẽ thông qua tổ chức trung gian cung cấp dịch vụ hóa đơn điện tử. Trụ sở chính sẽ thông báo cụ thể để các đon vị tổ chức thực hiện.
+-	Phương thức chuyển dữ liệu hóa đơn điện tử: Chuyển theo bảng tổng hợp c dữ liệu theo quy định tại tiết a.l điểm a khoản 3 Điều 22 Nghị định số ,G 123/2020/NĐ-CP của Chính phủ.
+-	Loại hóa đơn sử dụng: Agribank sử dụng 02 loại hóa đơn gồm Hóa đơn ^ giá trị gia tăng và Hóa đơn bán hàng (mẫu hóa đơn kèm theo).
+-	Danh sách chứng thư số sử dụng: Theo hướng dẫn tại các văn bản riêng của Agribank.
+-	Đăng ký ủy nhiệm lập hóa đơn: Agribank không thực hiện ủy nhiệm lập hóa đơn cho các đơn vị khác.
+b)	Cơ quan thuế gửi Thông báo mẫu số 01/TB-TNĐT về việc tiếp nhận/không tiếp nhận Tờ khai số 01/ĐKTĐ-HĐĐT. Trường họp cơ quan thuế không tiếp nhận sẽ nêu rõ lý do và các đơn vị phải điều chỉnh và gửi lại cho đến khi được tiếp nhận Tờ khai.
+c)	Sau khi tiếp nhận Tờ khai số 01/ĐKTĐ-HĐĐT theo mẫu 01/TB-TNĐT, cơ quan thuế tiếp tục gửi thông báo mẫu số 01/TB-ĐKĐT về việc chấp nhận/không chấp nhận việc đăng ký sử dụng hóa đơn điện tử. Trường họp cơ quan thuế không chấp nhận sẽ nêu rõ lý do và các đơn vị phải điều chỉnh và gửi lại cho đến khi được chấp nhận.
+d)	Kể từ thời điểm cơ quan thuế chấp nhận đăng ký sử dụng hóa đơn điện tử, đơn vị phải ngừng sử dụng hóa đơn điện tử đã thông báo phát hành theo các quy định trước đây, tiêu hủy hóa đơn giấy đã thông báo phát hành nhưng chưa^^" 
+sử dụng (nếu có). Trình tự, thủ tục tiêu hủy thực hiện theo quy định tại Điều 27 Nghị định số 123/2020/ND-CP ngày 19/10/2020 của Chính phu.
+Trụ sở chính sẽ hỗ trợ các đơn vị thực hiện đăng ký sử dụng hóa đơn lần đầu với cơ quan thuế, kể từ lần đãng ký tiếp theo (khi có thay đổi) các đơn vị sẽ chủ động thực hiện theo hướng dẫn tại điểm 6.2 mục 6 văn bản này.
+6.3.	Phát hành, xử lý sai sót trong quá trình sử dụng hóa đơn điện tử
+a)	Đơn vị sử dụng hóa đơn điện tử không có mã của cơ quan thuế sau khi được chấp thuận; việc lập hóa đơn thực hiện theo hướng dẫn tại phần mềm hốa đơn khi bán hàng hóa, cung cấp dịch vụ, ký số trên hóa đơn điện tử và gửi cho người mua bằng phương thức điện tử theo thỏa thuận giữa đơn vị và người mua, đảm bảo phù hợp với quy định của pháp luật về giao dịch điện tử.
+b)	Xử lý hóa đơn điện tử đã lập có sai sót khi đã gửi cho người mua mà người mua hoặc đơn vị phát hiện có sai sót (Điều 19 Nghị định số 123/2020/NĐ-CP của Chính phủ):
+-	Trường hợp có sai sót về tên, địa chỉ của người mua nhưng không sai mã số thuế, các nội dung còn lại không sai sót: Đơn vị thông báo cho người mua về việc hóa đơn có sai sót và không phải lập lại hóa đon.
+-	Trường hợp có sai sót về mã số thuế; sai sót về số tiền ghi trên hóa đơn, sai về thuế suất, tiền thuế hoặc hàng hóa ghi trên hóa đơn không đúng quy cách, chất lượng. Đơn vị có thể lựa chọn một trong hai cách sử dụng hóa đơn điện tử như sau:
++ Đơn vị lập hóa đơn điện tử điều chình hóa đơn đã lập có sai sót. Hóa đon điện tử điều chỉnh hóa đơn điện tử đã lập có sai sót phải có dòng chữ “Điều chỉnh cho hóa đơn Mau số... ký hiệu... số... ngày... tháng... năm”.
++ Đơn vị lập hóa đơn điện tử mới thay thế cho hóa đơn điện tử có sai sót. Hóa đơn điện tử mới thay thế hóa đơn điện từ đã lập có sai sót phải có dòng chữ “Thay thế cho hóa đơn Mầu số... ký hiệu... số... ngày... tháng... năm”.
+Đơn vị ký số trên hóa đơn điện tử mới diêu chỉnh hõặc“thãy thế cho hóa đơn điện tử đã lập có sai sót sau đó gửi cho người mua.
+c)	Xử lý hóa đơn đã lập khi đã gửi cho người mua mà cơ quan thuế phát hiện có sai sót (Điều 19 Nghị định số 123/2020/NĐ-CP của Chúih phủ); Nhận được thông báo của cơ quan thuế theo Mau số 01/TB-RSĐT về hóa đơn bị sai sót, đơn vị thực hiện kiểm tra, rà soát và thực hiện điều chỉnh theo điểm b mục 6.3 văn bản này.
+Do Agribank được phép chuyển dữ liệu hóa đơn điện tử theo bảng tổng họp theo mẫu sổ 01/TH-HĐĐT ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, đơn vị gửi thông tin hủy, điều chỉnh trực tiếf/ 
+trên bảng tổng hợp của các kỳ tiếp theo mà không gửi thông báo hóa đơn điện tử có sai sót theo Mau số 04/SS-HĐĐT phụ lục IA Nghị định sô 123/2020/NĐ-CP của Chính phủ.
+6.4.	Chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế
+-	) Các đơn vị thực hiện chuyển Bảng tổng hợp dữ liệu hóa đơn điện tử theo mẫu số 01/TH-HĐĐT cùng với thời hạn nộp hồ sơ khai thuế giá trị gia tăng (Đơn vị khai thuế giá trị gia tăng theo tháng thì truyền mẫu số 01/TH-HĐĐT theo tháng, khai thuế giá trị gia tăng theo quý thì truyền mẫu số 01/TH-HĐĐT theo quý).
+-	) Xử lý đối với trường hợp bảng tổng hợp dữ liệu hóa đơn điện tử đã gửi cơ quan thuế có sai sót (Khoản 2 Điều 7 Thông tư số 78/2021/TT-BTC của Bộ Tài chính):
+-	Sau thời hạn chuyển bảng tổng hợp dữ liệu hóa đơn điện tử đến cơ quan thuế, trường hợp thiếu dữ liệu hóa đem điện tử tại bảng tổng hợp dữ liệu hóa đơn điện tử đã gửi cơ quan thuế thì người bán gửi bảng tổng hợp dữ liệu hóa đơn điện tử bổ sung;
+-	Trường hợp bảng tổng hợp dữ liệu hóa đem điện tử đã gửi cơ quan thuế có sai sót thì người bán gửi thông tin điều chỉnh cho các thông tin đã kê khai trên bảng tổng hợp;
+-	Việc điều chỉnh hóa đơn trên bảng tổng hợp dữ liệu hóa đơn điện tử theo quy định tại điểm a.l khoản 3 Điều 22 Nghị định số 123/2020/NĐ-CP thì phải điền đủ các thông tin: ký hiệu mẫu số hóa đem, ký hiệu hóa đcm, số hóa đom vào cột 14 “thông tin hóa đơn liên quan” tại Mầu 01/TH-HĐĐT ban hành kèm theo Nghị định số 123/2020/NĐ-CP (trừ trường họp hóa đem điện tử không nhất thiết phải có đầy đủ các thông tin ký hiệu mẫu số hóa đcm, ký hiệu hóa đơn, số hóa đơn theo quy định tại khoản 14 Điều 10 Nghị định số 123/2020/NĐ-CP).
+7.	Mẩu biểu liên quan đến triển khai hóa đơn điện tử
+7.1.	Mầu biểu liên quan đến hóa đơn điện tử được thực hiện theo quy định tại Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ và Thông tư số 78/2021/TT-BTC ngày 17/9/2021 của Bộ Tài chính.
+7.2.	Một số mẫu biểu liên quan đến hóa đcm các đon vị cần chú ý trong quá trình thực hiện:
+-	Mầu số 01/ĐKTĐ-HĐĐT: Tờ khai đăng ký/thay đổi thông tin sử dụng hóa đon điện tử.
+-	Mau số 04/SS-HĐĐT: Thông báo hóa đom điện tử có sai sót.
+-	Mầu số 01/TH- HĐĐT: Bàng tổng hợp dữ liệu hóa đơn điện tử gửi cơ quan thuế (ủáng/quý).^^^ 
+
+8.	Tổ chức thực hiện
+Nhận được văn bản này, yêu cầu Giám đốc/Trưởng các đơn vị nghiêm túc tổ chức nghiên cứu, triển khai thực hiện những nội dung hướng dẫn trên đây. Các nội dung khác không hướng dẫn cụ thể tại văn bản này, các đơn vị thực hiện theo quy định tại Luật Quản lý thuế số 38/2019/QH14 ngày 13/6/2019, Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ, Thông tư số 78/2021/TT-B0TC ngày 17/9/2021 của Bộ Tài chính hướng dẫn thực hiện một số điều của Luật Quản lý thuế và Nghị định số 123/2020/ND-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ. Quá trình thực hiện nếu có vướng mắc, các đơn vị chủ động liên hệ với Trụ sở chính (qua Ban Tài chính Kế toán) để phối hợp xử lý theo quy định.f^'
+
+Số: 7992NHNO-TCKT
+V/v Hướng dẫn hóa đơn, nghĩa vụ thuế
+trong hoạt động khuyến mại, cho biếu tặng
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 18/9/2019 
+
+ 
+Kính gửi:
+-	Chánh Văn phòng Trụ sở chính;
+-	Trưởng Văn phòng đại diện Khu vực;
+-	Giám đốc Đơn vị sự nghiệp;
+-	Giám đốc Chi nhánh loại I.
+Căn cứ Luật thương mại số 36/2005/QH11 ngày 14/6/2005 của Quốc hội;
+Căn cứ Nghị định số 81/2018/NĐ-CP ngày 22/5/2018 của Chính phủ quy định chi tiết Luật thương mại về hoạt động xúc tiến thương mại;
+Căn cứ Thông tư số 219/2013/TT-BTC ngày 31/12/2013 của Bộ Tài chính hướng dẫn thi hành Luật thuế giá trị gia tăng và Nghị định số 209/2013/NĐ-CP ngày 18/12/2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều Luật thuế giá trị gia tăng (GTGT),
+Theo đề nghị của Trưởng Ban Tài chính kế toán tại Tờ trình ngày 16/9/2019 về hướng dẫn hóa đơn, nghĩa vụ thuế trong hoạt động khuyến mại, cho biếu tặng, Tổng Giám đốc hướng dẫn các đơn vị trong toàn hệ thống thực hiện như sau:
+1.	về kê khai thuế GTGT đầu vào đối vói hoạt động khuyến mại
+1.1.	Nguyên tắc kê khai:
+Đơn vị thực hiện kê khai khấu trừ thuế GTGT đầu vào của hoạt động khuyến mại theo nguyên tắc quy định tại điều 14 Thông tư số 219/2013/TT-BTC ngày 31/12/2013 của Bộ Tài chính (không phân biệt hoạt động khuyến mại có thực hiện theo quy định hay không thực hiện theo quy định của pháp luật về thương mại), cụ thể:
+-	Đối với thuế GTGT đầu vào sử dụng riêng cho hoạt động sản xuất kinh doanh chịu thuế GTGT đầu ra thì được kê khai khấu trừ toàn bộ.
+-	Đối với thuế GTGT đầu vào sử dụng riêng cho hoạt động sản xuất kinh doanh không chịu thuế GTGT đầu ra thì không được kê khai khấu trừ thuế.
+-	Đối với thuế GTGT đầu vào sử dụng chung cho hoạt động sản xuất kinh doanh chịu thuế và không chịu thuế GTGT đầu ra thì được kê khai khấu trừ theo tỷ lệ giữa doanh thu chịu thuế trên tổng doanh thu^^/ 
+1.2.	Hạch toán kế toán khi mua hàng hóa, khuyến mại đầu vào:
+Khi mua hàng hóa, căn cứ bộ hồ sơ mua sắm hàng hóa, hóa đơn mua hàng, phiếu nhập kho,v.v... hạch toán:
+Giá trị trước thuế
+Thuế GTGT đầu vào (nếu có hoặc nếu được tách thuế) Thuế GTGT đầu vào được khấu trừ toàn bộ
+Tổng giá thanh toán
+2.	về thuế GTGT đầu ra khi xuất hàng hóa khuyến mại, cho biếu tặng
+2.1.	Trường hợp đơn vị thực hiện hoạt động khuyến mại theo quy định của pháp luật về thương mại:
+a)	Quy định về hoạt động khuyến mại:
+Đơn vị thực hiện hoạt động khuyến mại theo hướng dẫn tại Luật Thương mại số 36/2005/QH11 ngày 14/6/2005 của Quốc hội; Nghị định số 81/2018/NĐ- CP ngày 22/5/2018 của Chính phủ quy định chi tiết Luật thương mại về hoạt động xúc tiến thương mại và các quy định hiện hành của Agribank. Quy định cụ thể từ điều 88 đến điều 101 (chú ý điều 95 “Quyền của thương nhằn thực hiện khuyến mại”, Điều 96 “Nghĩa vụ của thương nhân thực hiện khuyến mại”, Điều 97 “Thông tin phải thông báo công khai”, Điều 98 “Cách thức thông báo”) Luật Thương mại số 36/2005/QH11 ngày 14/6/2005.
+Mầu biểu thực hiện chương trình khuyến mại thực hiện theo các phụ lục quy định tại Nghị định số 81/2018/NĐ-CP ngày 22/5/2018 của Chính phủ.
+b)	Hóa đơn chứng từ, nghĩa vụ thuế GTGT đầu ra khi xuất hàng hóa khuyến mại:
+-	Nghĩa vụ thuế GTGT đầu ra: Đơn vị thực hiện hoạt động khuyến mại theo đúng quy định hướng dẫn tại tiết a, điểm 2.1 văn bản này, khi xuất hàng hóa khuyến mại, đơn vị không phải kê khai nộp thuế GTGT đầu ra theo quy định tại khoản 5 điều 7 Thông tư số 219/2013/TT-BTC ngày 31/12/2013 của Bộ Tài chính.
+-	Hóa đơn chứng từ: Áp dụng văn bản số 3809/TCT-DNL ngày 17/9/2015 của Tổng Cục thuế v/v hóa đơn đối với hàng khuyến mại và văn bản số 60821/CT-HTr ngày 23/9/2015 của Cục thuế Thành phố Hà Nội v/v giải đáp chính sách thuế, khi thực hiện các chương trình khuyến mại theo đúng quy định của pháp luật về thương mại. Trường hợp khách hàng không lấy hóa đơn hoặc không cung cấp tên, địa chỉ, mã số thuế (nếu có) thì đơn vị không phải lập hóa 
+đơn mà lập bảng kê tổng hợp theo mẫu 5.6 Phụ lục 5 ban hành kèm theo Thông tư số 39/2014/TT-BTC ngày 31/3/2014 của Bộ Tài chính.
+c)	Hạch toán kế toán khi xuất hàng hóa khuyến mại
+Căn cứ chủ trương, kế hoạch đã được phê duyệt, phiếu xuất kho, bảng kê giao nhận hoặc chứng từ nhận quà của khách hàng,v.v... hạch toán:
+Chi QCTT, khuyến mại
+Vật liệu khác
+2.2.	Trường hợp đơn vị thực hiện hoạt động khuyến mại, cho biếu tặng không đảm bảo theo quy định của pháp luật về thương mại (không thuộc đối tượng quy định tại điểm 2.1 nêu trên)
+a)	Hóa đơn chứng từ, nghĩa vụ thuế GTGT đầu ra:
+-	về thuế GTGT đầu ra: Do việc thực hiện hoạt động khuyến mại không đảm bảo theo quy định của pháp luật về thương mại, khi xuất hàng hóa khuyến mại, đơn vị phải kê khai, nộp thuế GTGT đầu ra theo quy định tại khoản 5 điều 7 Thông tư số 219/2013/TT-BTC ngày 31/12/2013 của Bọ Tài chính.
+-	về hóa đơn chứng từ: Áp dụng văn bản số 5483/TCT-DNL ngày 28/11/2017 của Tổng Cục thuế v/v trả lời chính sách thuế. Trường hợp tặng quà cho khách hàng để phục vụ hoạt động sản xuất kinh doanh, khách hàng không có nhu cầu lấy hóa đơn thì cuối mỗi ngày, trên cơ sở bảng kê hàng hóa khuyến mại, cho biếu tặng khách hàng, đơn vị lập chung một hóa đơn GTGT ghi số tiền theo dòng tổng cộng của bảng kê, ký tên và giữ liên giao cho người mua, các liên khác luân chuyển theo quy định (không phân biệt giá trị quà tặng cho mỗi khách hàng trên 200.000 đồng hay dưới 200.000 đồng).
+b)	Hạch toán kế toán khi xuất hàng hóa khuyến mại:
+Khi xuất hàng khuyến mại, cho biếu tặng, hạch toán:
+Chi xuất bản tài liệu, TT quảng cáo tiếp thị, khuyến mại Thuế GTGT phải nộp
+Vật liệu khác
+3.	Một số lưu ý khi thực hiện khuyến mại, cho biếu tặng hàng hóa:
+- Khi thực hiện chương trình khuyến mại có giá trị dưới 100 triệu đồng, để không phải kê khai nộp thuế GTGT đầu ra, đơn vị phải thực hiện đầy đủ các thủ tục theo quy định của pháp luật và của Agribank (tiết a, điểm 2.1 nêu trên), đơn vị không phải gửi thông báo/đăng ký chương trình khuyến mại tới Sở công thương/Phòng thương mại.^z 
+-	Khi thực hiện khuyến mại bằng phiếu mua hàng, phiếu quà tặng: Đơn vị không phải xuất hóa đơn và không phải kê khai nộp thuế GTGT đầu ra (áp dụng theo quy định tại văn bản số 4443/TCT-CS ngày 21/11/2008 của Tổng Cục thuế về phiếu mua hàng siêu thị).
+-	Trường hợp hoạt động khuyến mại không đảm bảo theo quy định của pháp luật về thương mại:
++ Hóa đơn đầu vào không có thuế GTGT (hóa đơn trực tiếp): Khi xuất hàng hóa khuyến mại, đơn vị vẫn phải xuất hóa đơn và kê khai nộp thuế đầu ra theo quy định tại Thông tư số 219/2013/TT-BTC ngày 31/12/2013 của Bộ Tài chính.
++ Hàng hóa khuyến mại cho mỗi khách hàng có giá trị dưới 200.000 đồng: Đơn vị vẫn phải xuất hóa đơn và kê khai nộp thuế đầu ra theo quy định tại tiết a, điểm 2.2 nêu trên.
+4.	Tổ chức thực hiện:
+-	Văn bản này có hiệu lực kể từ ngày ký. Các nội dung quy định liên quan đến hóa đơn chứng từ, nghĩa vụ thuế đối với hàng hóa khuyến mại, cho biếu tặng tại văn bản số 8463/NHNo-TCKT ngày 12/12/2014 v/v Hướng dẫn một số nội dung về công tác thuế và các văn bản khác của Tống Giám đốc có liên quan đến nội dung này hết hiệu lực thi hành.
+-	Trụ sở chính gửi kèm theo các văn bản: số 3809/TCT-DNL ngày 17/9/2015, số 5483/TCT-DNL ngày 28/11/2017, số 4443/TCT-CS ngày 21/11/2008 của Tổng Cục thuế; số 60821/CT-HTr ngày 23/9/2015 của Cục thuế Thành phố Hà Nội để các đơn vị nghiên cứu, thực hiện.
+Nhận được văn bản này, yêu cầu Giám đốc, Trưởng các đơn vị nghiêm túc triển khai thực hiện. Quá trình thực hiện nếu có vướng mắc, chủ động liên hệ với Trụ sở chính (qua Ban Tài chính Ke toán) để phối hợp xử lý theo quy định. Ä^
+
  
 
  
