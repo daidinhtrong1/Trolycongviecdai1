@@ -5,7 +5,7 @@ Bạn đọc những thông bên dưới để trả lời các câu hỏi của
   NGÂN HÀNG NÔNG NGHIỆP	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 VÀ PHÁT TRIỂN NÔNG THÔN VIỆT NAM	Độc lập - Tự do - Hạnh phúc
 CHI NHẢNH TỈNH HẢI DƯƠNG	:	:
-Số:335S/NHNo-HD-KT&NQ	Hải Đương, ngày 21 thảng 12 năm 2019
+Số:3399/NHNo-HD-KT&NQ	Hải Đương, ngày 21 thảng 12 năm 2019
 V/v hướng dẫn thực hiện
 Quyết định 2668/QĐ-NHNo-TCKT
 ngày 11/12/2019.
@@ -3540,6 +3540,24 @@ hộp chìa khóa dự phòng cửa kho tiền trong kho tiền của đơn vị
 4.	Giám đốc Chi nhánh quản lý chỉ đạo, kiểm tra định kỳ, đột xuất hồ sơ thủ tục liên quan đến việc gửi hộp chìa khóa dự phòng khóa cửa kho tiền của Chi
 nhánh loại II, Phòng giao dịch phụ thuộc. 
 
+SỐ TÀI KHOẢN	TÊN TÀI KHOẢN	NỘI DUNG CHI
+869909	Các khoản chi khác	Thanh toán tiền thuê bảo vệ, mua chữa ký số, rửa xe, Thuế GTGT đầu vào không được khấu trừ, mua phương tiện phòng chống thiên tai, cước truyền hình, chăm sóc cây, mua phần mềm quản lý
+862001	Công tác phí	Công tác phí, học tập kinh nghiệm
+863001	Chi hoạt động đào tạo	Chi hoạt động đào tạo, huấn luyện nghiệp vụ
+865001	Chi bưu phí và điện thoại	Cước phí điện thoại
+868001	Chi về các hoạt động đoàn thể	Chi hỗ trợ đoàn thể
+866001	Chi quảng cáo, tiếp thị	Mua quà tặng, mua hoa sinh nhật khách hàng, làm băng rôn quảng cáo, làm biển quảng cáo, chi khuyến mại (quà tặng khách hàng phải xuất hóa đơn đầu ra đơn vị là quà tặng)
+861401	Chi xăng dầu	Áp dụng cho xe phục vụ đi công tác, mua dầu chạy máy phát
+872002	Sửa chữa thường xuyên	Thay dầu máy phát điện, xe ô tô, sửa chữa thường xuyên, mua băng mực, cartridge
+875001	Chi bảo hiểm tài sản	Chi mua bảo hiểm tài sản (phân bổ)
+869401	Lễ tân, khánh tiết	Tiếp khách, mua cây trang trí, mua bánh kẹo phục vụ khách hàng
+813909	Chi khách	Chi khác về kho quỹ, chi bồi dưỡng độc hại bằng hiện vật, mua vật liệu kho quỹ: túi nilong đựng tiền, tem, túi đựng tài sản, 
+813301	Bảo vệ tiền	Chi áp tải hàng đặc biệt
+852001		Chi trang phục giao dịch, trang bị phương tiện làm việc, mua lễ phục, mua bảo hộ lao động
+856001	Chi ăn ca	Chi ăn ca
+857001	Chi y tế cơ quan	Khám sức khỏe cho cán bộ
+859009	Chi khác cho cán bộ, nhân viên	Chi hỗ trợ cán bộ nữ sinh con
+891001	Chi công tác xã hội	Chi tài trợ ASXH, hỗ trợ đi lại ngày lễ, chi đám hiếu, hỷ, ốm đau của cán bộ, người nhà cán bộ, chi hỗ trợ gửi trẻ cho cán bộ có con nhỏ, chi tiền nghỉ mát, chi sinh nhật cho cán bộ, chi tiệc tất niên, mua bảo hiểm chăm sóc sức khỏe
 
  
  
