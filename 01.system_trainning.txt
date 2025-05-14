@@ -2467,6 +2467,7 @@ l.Quy chế này có hiệu lực kể từ ngày 01/01/2022, thay thế Quyết
 3.	Việc sửa đổi, bổ sung, thay thế Quy chế này do Hội đồng thành viên xem xét, quyết định.
 4.	Trường hợp pháp luật có sự thay đổi dẫn đến những nội dung tại Quy che này trái với quy định cùa pháp luật thì thực hiện theo quy định thay đôi của pháp luật.
 5.	Hội đồng thành viên, ủy ban Đầu tư, Tổng Giám đốc, Ke toán trường, Trưởng Văn phòng đại diện, Chánh Văn phòng Trụ sở chinh, Trường các Ban, Giám đốc các Trung tâm tại Trụ sở chính, Giám đốc các Đơn vị sự nghiệp, Giám đốc các Chi nhánh loại I và các cá nhân có liên quan thuộc Agribank cỏ trách nhiệm thi hành Quy chế này./
+
 NGÂN HÀNG NÔNG NGHIỆP	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 VÀ PHÁT TRIẺN NÔNG THÔN VIỆT NAM	Độc lập - Tự do - Hạnh phúc
 Số 4368/QyĐ-NHNo-TCKT	Hà Nội, ngày 25/12/ 2024
@@ -3541,8 +3542,8 @@ hộp chìa khóa dự phòng cửa kho tiền trong kho tiền của đơn vị
 nhánh loại II, Phòng giao dịch phụ thuộc. 
 
 SỐ TÀI KHOẢN	TÊN TÀI KHOẢN	NỘI DUNG CHI
-869909	Các khoản chi khác	Thanh toán tiền thuê bảo vệ, mua chữa ký số, rửa xe, Thuế GTGT đầu vào không được khấu trừ, mua phương tiện phòng chống thiên tai, cước truyền hình, chăm sóc cây, mua phần mềm quản lý
-862001	Công tác phí	Công tác phí, học tập kinh nghiệm
+869909	Các khoản chi khác	Thanh toán tiền thuê bảo vệ, mua chữa ký số, rửa xe, Thuế GTGT đầu vào không được khấu trừ, mua phương tiện phòng chống thiên tai, cước truyền hình, chăm sóc cây, mua phần mềm quản lý, trang trí phòng khách.
+862001	Công tác phí	Công tác phí, học tập kinh nghiệm.
 863001	Chi hoạt động đào tạo	Chi hoạt động đào tạo, huấn luyện nghiệp vụ
 865001	Chi bưu phí và điện thoại	Cước phí điện thoại
 868001	Chi về các hoạt động đoàn thể	Chi hỗ trợ đoàn thể
@@ -3557,7 +3558,25 @@ SỐ TÀI KHOẢN	TÊN TÀI KHOẢN	NỘI DUNG CHI
 856001	Chi ăn ca	Chi ăn ca
 857001	Chi y tế cơ quan	Khám sức khỏe cho cán bộ
 859009	Chi khác cho cán bộ, nhân viên	Chi hỗ trợ cán bộ nữ sinh con
-891001	Chi công tác xã hội	Chi tài trợ ASXH, hỗ trợ đi lại ngày lễ, chi đám hiếu, hỷ, ốm đau của cán bộ, người nhà cán bộ, chi hỗ trợ gửi trẻ cho cán bộ có con nhỏ, chi tiền nghỉ mát, chi sinh nhật cho cán bộ, chi tiệc tất niên, mua bảo hiểm chăm sóc sức khỏe
+891001	Chi công tác xã hội	Chi tài trợ ASXH, hỗ trợ đi lại ngày lễ, chi đám hiếu, hỷ, ốm đau của cán bộ, người nhà cán bộ, chi hỗ trợ gửi trẻ cho cán bộ có con nhỏ, chi tiền nghỉ mát, chi sinh nhật cho cán bộ, chi tiệc tất niên, mua bảo hiểm chăm sóc sức khỏe (riêng mua bảo hiểm tai nạn hạch toán tài khoản 859001).
+876001	Chi thuê tài sản	Thuê đất, thuê nhà làm việc, thuê tài sản…
+861901	Chi vật liệu khác	Mua hòm tôn, khóa, mua hóa đơn ATM, bao thư, khắc dấu, ống nhựa máy khoan, mua bóng điện, mua bát đĩa, cốc chén, làm biển chức danh, mua chăn ga gối đệm, mua màn hình máy đếm tiền, mua mắt kính, gương treo…
+812001	Chi phí cước bưu điện về mạng viễn thông	Cước dịch vụ mạng viễn thông, đường truyền, thuê kênh
+814001	Chi về nghiệp vụ ủy thác và đại lý 	Chi dịch vụ ủy thác và đại lý
+815001	Chi về dịch vụ tư vấn	Chi về dịch vụ tư vấn, thẩm định giá
+714009	Thu từ nghiệp vụ ủy thác và đại lý khác	Thu hoa hồng đại lý bảo hiểm, đại lý khác (không tách VAT)
+714010	Thu từ nghiệp vụ ủy thác và đại lý khác chịu thuế	Thu từ đại lý: hỗ trợ, khen thưởng, các khoản trợ cấp liên quan đến tiếp thị…(vb 6505)
+819009	Chi khác	Hạch toán ấn chỉ thông thường( chứng từ in sẵn…), bán séc, báo nợ phí bảo hiểm chủ thẻ.
+853101	Nộp BHXH	Chi nộp BHXH
+853201	Nộp BHYT	Chi nộp BHYT
+853401	Nộp KPCĐ	Chi nộp kinh phí công đoàn
+853901	Các khoản chi đóng góp khác theo chế độ	Nộp Đoàn phí công đoàn
+462001	Các khoản phải trả cho cán bộ	Treo lương năng suất V2 (tiểu mục 02)
+899009	Chi phí khác	Tiền chậm nộp thuế, chi thuê dịch vụ đấu giá tài sản, hoàn phí dịch vụ.
+790009	Thu nhập bất thường	Hạch toán giá trị thu hồi thanh lý tài sản, xử lý thừa quỹ sau 6 tháng, tài khoản không hoạt động.
+859001	Chi mua bảo hiểm tai nạn	Chi mua bảo hiểm tai nạn (riêng mua bảo hiểm CSSK hạch toán tài khoản 891001).
+359209	Các khoản phải thu	Tạm ứng án phí (vb 5460), tạm ứng WU, các khoản chi trả khách hàng vãng lai
+832001	Chi nộp các khoản phí, lệ phí	Nộp thuế môn bài, phí thi hành án (vb 10142), phí đường bộ, phí cầu đường, phí kiểm định.
 
  
  
